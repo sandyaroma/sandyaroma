@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @sandyaroma
-- 👀 I’m interested in Cooking, Travelling, Cycling, Coding
+- 👀 I’m interested in Travelling, Cycling, Coding
+- 👨‍🍳 I love cooking, making fusion of different dishes
 - 🌱 I’m currently learning JSON
+- 👅 I'm interested in learning different languages [**Speak** Assamese, Bengali, Hindi, Kannada, English, French]
 - 💞️ I’m looking to collaborate on Workday projects
+- 
 - 📫 How to reach me sandip1086@gmail.com
 
 <!---
