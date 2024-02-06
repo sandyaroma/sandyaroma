@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning JSON
 - 👅 I'm interested in learning different languages [**Speak** Assamese, Bengali, Hindi, Kannada, English, French]
 - 💞️ I’m looking to collaborate on Workday projects
-- 
 - 📫 How to reach me sandip1086@gmail.com
 
 <!---
