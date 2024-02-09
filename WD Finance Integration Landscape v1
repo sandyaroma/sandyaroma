@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T15:53:37.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="m9ZE3KFFfy0pnY8msUnd" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-09T15:54:35.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="bS6trzLjlF_VNLPtq8px" version="23.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1877" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -130,23 +130,23 @@
         <mxCell id="qttwV4meY_RtuujM0bLS-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.414;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qttwV4meY_RtuujM0bLS-48" target="qttwV4meY_RtuujM0bLS-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qttwV4meY_RtuujM0bLS-53" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Spend Management&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.800018310546875;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="510" width="70" height="60" as="geometry" />
+        <mxCell id="qttwV4meY_RtuujM0bLS-53" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Spend Management&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.800018310546875;fillColor=#CCCCCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="530" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qttwV4meY_RtuujM0bLS-54" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Cash Management&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.800018310546875;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="225" y="710" width="70" height="60" as="geometry" />
+        <mxCell id="qttwV4meY_RtuujM0bLS-54" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Cash Management&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.800018310546875;fillColor=#CCCCCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="730" width="55" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qttwV4meY_RtuujM0bLS-55" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Accounting Journal&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.800018310546875;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="710" width="70" height="60" as="geometry" />
+        <mxCell id="qttwV4meY_RtuujM0bLS-55" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Accounting Journal&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.800018310546875;fillColor=#CCCCCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="730" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qttwV4meY_RtuujM0bLS-56" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Accounting Journal&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.800018310546875;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="325" y="510" width="70" height="60" as="geometry" />
+        <mxCell id="qttwV4meY_RtuujM0bLS-56" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Accounting Journal&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.800018310546875;fillColor=#CCCCCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="340" y="530" width="55" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qttwV4meY_RtuujM0bLS-57" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Customer Transactions&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.800018310546875;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="584" width="70" height="60" as="geometry" />
+        <mxCell id="qttwV4meY_RtuujM0bLS-57" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Customer Transactions&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.800018310546875;fillColor=#CCCCCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="600" width="60" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="qttwV4meY_RtuujM0bLS-58" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Supplier Transactions&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.800018310546875;fillColor=#E6E6E6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="670" width="70" height="60" as="geometry" />
+        <mxCell id="qttwV4meY_RtuujM0bLS-58" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Supplier Transactions&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=6.800018310546875;fillColor=#CCCCCC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="680" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qttwV4meY_RtuujM0bLS-59" value="Customer Invoices Outbound" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="590" y="730" width="130" height="70" as="geometry" />
