@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T15:54:35.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="bS6trzLjlF_VNLPtq8px" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-09T15:55:00.149Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="wUjYHwMBM7xBSbRlz2FZ" version="23.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2261" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,10 +31,10 @@
           <mxGeometry x="300" y="360" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qttwV4meY_RtuujM0bLS-1" value="Workday Finance Integrations Landscape" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="10" width="350" height="30" as="geometry" />
+          <mxGeometry x="-350" y="10" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qttwV4meY_RtuujM0bLS-2" value="This touchpoint diagram was created to give an overview of an all inclusive understanding of various Financial integrations that could be possibly included in the scope of any Workday FINANCIAL implementation project" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="50" width="480" height="60" as="geometry" />
+          <mxGeometry x="-350" y="50" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qttwV4meY_RtuujM0bLS-3" value="Treasury System" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="220" width="90" height="70" as="geometry" />
@@ -176,13 +176,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qttwV4meY_RtuujM0bLS-67" value="&lt;b&gt;Legends&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="110" width="60" height="30" as="geometry" />
+          <mxGeometry x="-350" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qttwV4meY_RtuujM0bLS-68" value="INBOUND INTEGRATIONS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="101" y="120" width="108" height="40" as="geometry" />
+          <mxGeometry x="-279" y="120" width="108" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qttwV4meY_RtuujM0bLS-69" value="OUTBOUND INTEGRATIONS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="170" width="110" height="40" as="geometry" />
+          <mxGeometry x="-280" y="170" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
