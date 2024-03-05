@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T16:00:44.556Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9wgw_Hr8CIS8Wz1DkhtO" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T16:04:31.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="xX398-vLN9ldtLiY09pS" version="24.0.1" type="github">
   <diagram name="Page-1" id="_7py-t4Zkq2sZJ-na3sf">
-    <mxGraphModel dx="1162" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="m8apEbgkwaljRytRqeLC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="m8apEbgkwaljRytRqeLC-4" target="m8apEbgkwaljRytRqeLC-7">
+        <mxCell id="m8apEbgkwaljRytRqeLC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="m8apEbgkwaljRytRqeLC-4" target="m8apEbgkwaljRytRqeLC-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m8apEbgkwaljRytRqeLC-4" value="SAP&lt;div&gt;FIN&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="50" y="270" width="100" height="80" as="geometry" />
+          <mxGeometry x="50" y="270" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="m8apEbgkwaljRytRqeLC-5" value="&lt;font color=&quot;#ffffff&quot;&gt;WORKDAY&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fa6800;fontColor=#000000;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="600" y="280" width="120" height="100" as="geometry" />
+          <mxGeometry x="640" y="270" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="m8apEbgkwaljRytRqeLC-7" value="TAX&lt;div&gt;AUTHORITIES&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m8apEbgkwaljRytRqeLC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" edge="1" parent="1" source="m8apEbgkwaljRytRqeLC-7" target="m8apEbgkwaljRytRqeLC-4">
+        <mxCell id="m8apEbgkwaljRytRqeLC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="m8apEbgkwaljRytRqeLC-7" target="m8apEbgkwaljRytRqeLC-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m8apEbgkwaljRytRqeLC-10" value="Allocation Number" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -24,6 +24,15 @@
         </mxCell>
         <mxCell id="m8apEbgkwaljRytRqeLC-11" value="Supplier Invoice / Adjustment&lt;div&gt;Customer Invoice / Adjustment&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="140" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m8apEbgkwaljRytRqeLC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=67.5;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=67.5;entryPerimeter=0;strokeWidth=2;strokeColor=#004C99;" edge="1" parent="1" source="m8apEbgkwaljRytRqeLC-4" target="m8apEbgkwaljRytRqeLC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m8apEbgkwaljRytRqeLC-14" value="&lt;b&gt;Custom Objects&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="350" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m8apEbgkwaljRytRqeLC-15" value="Allocation Number Supp Inv&lt;div&gt;Allocation Number Supp Inv Adj&lt;br&gt;&lt;/div&gt;&lt;div&gt;Allocation Number Cus Inv&lt;br&gt;&lt;/div&gt;&lt;div&gt;Allocation Number Cus Inv Adj&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="380" width="180" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
