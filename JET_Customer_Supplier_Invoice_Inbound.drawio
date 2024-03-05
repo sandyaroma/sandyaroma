@@ -1,17 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T15:58:31.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ZfDfsxzXoTiUtDd8XmTQ" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T15:59:03.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="YdQzCHuU-qxhgZYQorMA" version="24.0.1" type="github">
   <diagram name="Page-1" id="_7py-t4Zkq2sZJ-na3sf">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="m8apEbgkwaljRytRqeLC-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="280" y="350" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="m8apEbgkwaljRytRqeLC-2" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="320" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="m8apEbgkwaljRytRqeLC-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="130" y="260" width="80" height="80" as="geometry" />
+        <mxCell id="m8apEbgkwaljRytRqeLC-4" value="SAP&lt;div&gt;FIN&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="90" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
