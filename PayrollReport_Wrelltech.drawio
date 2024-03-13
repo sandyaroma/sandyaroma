@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T22:31:41.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="WNrMndTtrt-2MhHFkLcV" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T22:42:15.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="uOhruekIqqS-BZ8vm6kU" version="24.0.5" type="github">
   <diagram name="Page-1" id="3FahlCcISmpW_KnGQygM">
     <mxGraphModel dx="1400" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -289,8 +289,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="shNLOWEZbwPzUOpNQr-I-84" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.579;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=-15;entryPerimeter=0;curved=0;" edge="1" parent="1" source="0uppAoZkeoiL5u4qMpaQ-1" target="shNLOWEZbwPzUOpNQr-I-15">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-84" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=-15;entryPerimeter=0;curved=0;" edge="1" parent="1" target="shNLOWEZbwPzUOpNQr-I-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="597" y="590" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="600" y="591" />
+              <mxPoint x="600" y="626" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="shNLOWEZbwPzUOpNQr-I-90" value="&lt;span style=&quot;background-color: rgb(204, 255, 204);&quot;&gt;PAYROLL REPORT&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="shNLOWEZbwPzUOpNQr-I-84">
           <mxGeometry x="0.0855" y="-1" relative="1" as="geometry">
@@ -308,6 +314,15 @@
         </mxCell>
         <mxCell id="shNLOWEZbwPzUOpNQr-I-108" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="665" y="835" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-109" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.soldo.com/wp-content/uploads/soldo-logo-1.png;" vertex="1" parent="1">
+          <mxGeometry x="791" y="680" width="111.84" height="55.19" as="geometry" />
+        </mxCell>
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-111" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.572;entryY=1.03;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="796" y="705.6000000000001" as="sourcePoint" />
+            <mxPoint x="591.8" y="592.6299999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
