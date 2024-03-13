@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T22:42:45.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="cMjXefCQDrALG_vJlIgb" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T22:43:10.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="S40ht58IGqKhtCZuQhz2" version="24.0.5" type="github">
   <diagram name="Page-1" id="3FahlCcISmpW_KnGQygM">
     <mxGraphModel dx="1400" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -324,7 +324,7 @@
             <mxPoint x="591.8" y="592.6299999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="shNLOWEZbwPzUOpNQr-I-112" value="EXPENSE CARD&lt;div&gt;DETAILS&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="shNLOWEZbwPzUOpNQr-I-111">
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-112" value="&lt;span style=&quot;background-color: rgb(255, 255, 204);&quot;&gt;EXPENSE CARD&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 204);&quot;&gt;DETAILS &amp;amp; TRANSACTIONS&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="shNLOWEZbwPzUOpNQr-I-111">
           <mxGeometry x="-0.3309" y="-2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
