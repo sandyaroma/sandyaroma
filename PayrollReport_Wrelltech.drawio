@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T22:43:10.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="S40ht58IGqKhtCZuQhz2" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T22:45:25.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="WNpivhRRlM81-jfCie9D" version="24.0.5" type="github">
   <diagram name="Page-1" id="3FahlCcISmpW_KnGQygM">
-    <mxGraphModel dx="1400" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -328,6 +328,12 @@
           <mxGeometry x="-0.3309" y="-2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-114" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freelogovectors.net/wp-content/uploads/2023/12/docusign_logo-freelogovectors.net_.png;" vertex="1" parent="1">
+          <mxGeometry x="980" y="660" width="1200" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-115" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-world.net/wp-content/uploads/2021/08/DocuSign-Symbol.png;" vertex="1" parent="1">
+          <mxGeometry x="743" y="235" width="106.66" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
