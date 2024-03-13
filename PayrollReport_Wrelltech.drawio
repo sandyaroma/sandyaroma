@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T21:08:26.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="BVwjvbusQ9BhLvltDn3x" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T22:11:56.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="T4oHP3X2MPfKZ0BHRPYW" version="24.0.5" type="github">
   <diagram name="Page-1" id="3FahlCcISmpW_KnGQygM">
-    <mxGraphModel dx="1687" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,7 @@
           <mxGeometry x="280" y="245" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="shNLOWEZbwPzUOpNQr-I-33" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Workday_Logo.png/1280px-Workday_Logo.png;" vertex="1" parent="1">
-          <mxGeometry x="550" y="510" width="90" height="34.95" as="geometry" />
+          <mxGeometry x="545" y="509" width="90" height="34.95" as="geometry" />
         </mxCell>
         <mxCell id="shNLOWEZbwPzUOpNQr-I-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="shNLOWEZbwPzUOpNQr-I-23" target="0uppAoZkeoiL5u4qMpaQ-1">
           <mxGeometry relative="1" as="geometry" />
@@ -103,6 +103,23 @@
         </mxCell>
         <mxCell id="shNLOWEZbwPzUOpNQr-I-54" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.258;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="shNLOWEZbwPzUOpNQr-I-53" target="0uppAoZkeoiL5u4qMpaQ-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-60" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;$&amp;nbsp;&lt;span style=&quot;color: rgb(92, 102, 123); font-family: Inter, sans-serif; text-align: left; text-wrap: wrap; background-color: rgb(250, 251, 253);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;€&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(92, 102, 123); font-family: Inter, sans-serif; text-align: left; text-wrap: wrap; background-color: rgb(250, 251, 253);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;£&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(92, 102, 123); font-family: Inter, sans-serif; text-align: left; text-wrap: wrap; background-color: rgb(250, 251, 253);&quot;&gt;zł&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(92, 102, 123); font-family: Inter, sans-serif; text-align: left; text-wrap: wrap; background-color: rgb(250, 251, 253);&quot;&gt;₴&lt;/span&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="shNLOWEZbwPzUOpNQr-I-54">
+          <mxGeometry x="0.0762" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-55" value="" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="10" y="660" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-56" value="" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="660" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-57" value="" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="170" y="660" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-58" value="" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="660" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
