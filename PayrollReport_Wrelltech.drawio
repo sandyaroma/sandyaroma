@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T11:16:07.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="4EVfgvegzyAWbLKdh6CZ" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T11:17:59.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="FhTUvYaLSMEXTr_V_Uwz" version="24.0.5" type="github">
   <diagram name="Page-1" id="3FahlCcISmpW_KnGQygM">
-    <mxGraphModel dx="2359" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="shNLOWEZbwPzUOpNQr-I-144" value="&lt;b&gt;&lt;font color=&quot;#e6e6e6&quot; style=&quot;font-size: 64px;&quot;&gt;KAINOS WORKDAY TEAM&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="-425" y="40" width="1943.7" height="716.13" as="geometry" />
-        </mxCell>
         <mxCell id="shNLOWEZbwPzUOpNQr-I-140" value="1C EXCHANGE&lt;div&gt;Revenue&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#76608a;" vertex="1" parent="1">
           <mxGeometry x="962" y="310" width="109" height="62.4" as="geometry" />
         </mxCell>
@@ -119,6 +116,11 @@
               <mxPoint x="585" y="660" />
               <mxPoint x="1150" y="660" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-158" value="&lt;span style=&quot;background-color: rgb(255, 230, 204);&quot;&gt;ALL ORG AND WORKER DATA&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="shNLOWEZbwPzUOpNQr-I-142">
+          <mxGeometry x="-0.0688" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0uppAoZkeoiL5u4qMpaQ-1" value="&lt;div&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;div&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;Workday&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;HCM &amp;amp; FINANCE&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -445,6 +447,11 @@
             <Array as="points">
               <mxPoint x="590" y="341" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-157" value="&lt;span style=&quot;background-color: rgb(255, 204, 204);&quot;&gt;REVENUE DATA&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="shNLOWEZbwPzUOpNQr-I-141">
+          <mxGeometry x="0.2624" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="shNLOWEZbwPzUOpNQr-I-143" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freelogovectors.net/wp-content/uploads/2020/09/kainos-logo.png;" vertex="1" parent="1">
