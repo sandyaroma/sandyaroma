@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T11:05:37.657Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="cpu3dGfT7bDTda4Xnhb7" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T11:11:43.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="kuDxNJdr0UWpKr35B3Ki" version="24.0.5" type="github">
   <diagram name="Page-1" id="3FahlCcISmpW_KnGQygM">
     <mxGraphModel dx="2359" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -448,7 +448,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="shNLOWEZbwPzUOpNQr-I-143" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freelogovectors.net/wp-content/uploads/2020/09/kainos-logo.png;" vertex="1" parent="1">
-          <mxGeometry x="30" y="59.99999999999997" width="195" height="44.85" as="geometry" />
+          <mxGeometry x="35" y="-260" width="195" height="44.85" as="geometry" />
+        </mxCell>
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-145" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-146" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="90" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
