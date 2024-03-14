@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T09:16:50.795Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1-b_guU3qN-MJpm8PLXq" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T10:32:57.865Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="KFR0XX7w-hJtUocYxrqI" version="24.0.5" type="github">
   <diagram name="Page-1" id="3FahlCcISmpW_KnGQygM">
-    <mxGraphModel dx="1793" dy="2023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -409,14 +409,6 @@
         <mxCell id="shNLOWEZbwPzUOpNQr-I-123" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=37.75;entryPerimeter=0;curved=0;" edge="1" parent="1" source="shNLOWEZbwPzUOpNQr-I-121" target="0uppAoZkeoiL5u4qMpaQ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="shNLOWEZbwPzUOpNQr-I-130" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.596;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;strokeColor=#0000FF;dashed=1;" edge="1" parent="1" source="shNLOWEZbwPzUOpNQr-I-22" target="shNLOWEZbwPzUOpNQr-I-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="675" y="170" />
-              <mxPoint x="1142" y="170" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="shNLOWEZbwPzUOpNQr-I-133" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Workday_Logo.png/1280px-Workday_Logo.png;" vertex="1" parent="1">
           <mxGeometry x="890" y="235" width="108.15" height="42" as="geometry" />
         </mxCell>
@@ -425,6 +417,9 @@
         </mxCell>
         <mxCell id="shNLOWEZbwPzUOpNQr-I-136" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.soldo.com/wp-content/uploads/soldo-logo-1.png;" vertex="1" parent="1">
           <mxGeometry x="1010" y="226.31" width="111.84" height="55.19" as="geometry" />
+        </mxCell>
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-138" value="TABLEAU" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
