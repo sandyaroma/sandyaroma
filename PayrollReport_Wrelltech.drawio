@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T10:36:22.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Zmj1lewC0plCZfzUlhnp" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T11:05:37.657Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="cpu3dGfT7bDTda4Xnhb7" version="24.0.5" type="github">
   <diagram name="Page-1" id="3FahlCcISmpW_KnGQygM">
-    <mxGraphModel dx="1509" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2359" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-144" value="&lt;b&gt;&lt;font color=&quot;#e6e6e6&quot; style=&quot;font-size: 64px;&quot;&gt;KAINOS WORKDAY TEAM&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="40" width="1943.7" height="716.13" as="geometry" />
+        </mxCell>
         <mxCell id="shNLOWEZbwPzUOpNQr-I-140" value="1C EXCHANGE&lt;div&gt;Revenue&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#FFFFFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#76608a;" vertex="1" parent="1">
           <mxGeometry x="962" y="310" width="109" height="62.4" as="geometry" />
         </mxCell>
@@ -70,7 +73,7 @@
             <mxPoint x="-20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="shNLOWEZbwPzUOpNQr-I-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0uppAoZkeoiL5u4qMpaQ-1" target="shNLOWEZbwPzUOpNQr-I-69">
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-96" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="0uppAoZkeoiL5u4qMpaQ-1" target="shNLOWEZbwPzUOpNQr-I-69">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="570" y="800" />
@@ -83,7 +86,7 @@
             <mxPoint x="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="shNLOWEZbwPzUOpNQr-I-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="0uppAoZkeoiL5u4qMpaQ-1" target="shNLOWEZbwPzUOpNQr-I-68">
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-98" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="0uppAoZkeoiL5u4qMpaQ-1" target="shNLOWEZbwPzUOpNQr-I-68">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="580" y="830" />
@@ -260,7 +263,7 @@
         <mxCell id="shNLOWEZbwPzUOpNQr-I-54" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.258;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="shNLOWEZbwPzUOpNQr-I-53" target="0uppAoZkeoiL5u4qMpaQ-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="585" y="376" />
+              <mxPoint x="570" y="376" />
               <mxPoint x="549" y="376" />
             </Array>
           </mxGeometry>
@@ -422,7 +425,7 @@
         <mxCell id="shNLOWEZbwPzUOpNQr-I-121" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://strategyinsights.eu/wp-content/uploads/2021/04/workday-peakon-logo_primary-2.png;" vertex="1" parent="1">
           <mxGeometry x="340" y="460" width="109.74" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="shNLOWEZbwPzUOpNQr-I-123" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=37.75;entryPerimeter=0;curved=0;" edge="1" parent="1" source="shNLOWEZbwPzUOpNQr-I-121" target="0uppAoZkeoiL5u4qMpaQ-1">
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-123" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=37.75;entryPerimeter=0;curved=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="shNLOWEZbwPzUOpNQr-I-121" target="0uppAoZkeoiL5u4qMpaQ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="shNLOWEZbwPzUOpNQr-I-133" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Workday_Logo.png/1280px-Workday_Logo.png;" vertex="1" parent="1">
@@ -443,6 +446,9 @@
               <mxPoint x="590" y="341" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-143" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freelogovectors.net/wp-content/uploads/2020/09/kainos-logo.png;" vertex="1" parent="1">
+          <mxGeometry x="30" y="59.99999999999997" width="195" height="44.85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
