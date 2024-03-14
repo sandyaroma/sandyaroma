@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T11:15:15.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="0ZmyWW_QxSX5_cnEouiK" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T11:16:07.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="4EVfgvegzyAWbLKdh6CZ" version="24.0.5" type="github">
   <diagram name="Page-1" id="3FahlCcISmpW_KnGQygM">
     <mxGraphModel dx="2359" dy="1877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -480,6 +480,12 @@
         </mxCell>
         <mxCell id="shNLOWEZbwPzUOpNQr-I-154" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://happymonday.ua/wp-content/uploads/2022/05/c63c_On%20White%201.png;" vertex="1" parent="1">
           <mxGeometry x="533.58" y="-260" width="310" height="74.64" as="geometry" />
+        </mxCell>
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-155" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.athena;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="776.75" width="50" height="23.25" as="geometry" />
+        </mxCell>
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-156" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.veeam_one_reporter;" vertex="1" parent="1">
+          <mxGeometry x="1165.2" y="770.97" width="24.8" height="29.03" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
