@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T09:09:38.959Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Uzyt3snAkin_wivFfhQ0" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T09:11:52.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="oA2-VNl_hq3Z0f6wwPQl" version="24.0.5" type="github">
   <diagram name="Page-1" id="3FahlCcISmpW_KnGQygM">
     <mxGraphModel dx="1509" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -30,28 +30,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="shNLOWEZbwPzUOpNQr-I-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Ukraine_flat.png" vertex="1" parent="1">
-          <mxGeometry x="1170" y="376" width="40" height="40" as="geometry" />
+          <mxGeometry x="1220" y="376" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="shNLOWEZbwPzUOpNQr-I-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Poland_flat.png" vertex="1" parent="1">
-          <mxGeometry x="1172" y="446" width="40" height="40" as="geometry" />
+          <mxGeometry x="1222" y="446" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="shNLOWEZbwPzUOpNQr-I-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/a/ae/Cyprus_flag_300.png;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="516" width="70" height="42" as="geometry" />
+          <mxGeometry x="1210" y="516" width="70" height="42" as="geometry" />
         </mxCell>
         <mxCell id="shNLOWEZbwPzUOpNQr-I-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_United_Kingdom.png;" vertex="1" parent="1">
-          <mxGeometry x="1175" y="597.25" width="35" height="17.5" as="geometry" />
+          <mxGeometry x="1225" y="597.25" width="35" height="17.5" as="geometry" />
         </mxCell>
-        <mxCell id="shNLOWEZbwPzUOpNQr-I-11" value="Payroll&lt;div&gt;Ukraine&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="360" width="90" height="70" as="geometry" />
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-11" value="&lt;b&gt;1C&lt;/b&gt;&lt;div&gt;Payroll Ukraine&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="360" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="shNLOWEZbwPzUOpNQr-I-13" value="Payroll&lt;div&gt;Poland&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="431" width="90" height="70" as="geometry" />
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-13" value="ENOVA&amp;nbsp;&lt;div&gt;Payroll&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Poland&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="431" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="shNLOWEZbwPzUOpNQr-I-14" value="Payroll&lt;div&gt;Cyprus&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="501" width="90" height="70" as="geometry" />
+        <mxCell id="shNLOWEZbwPzUOpNQr-I-14" value="&lt;div&gt;&lt;b&gt;EASYSOFT&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Payroll&amp;nbsp;&lt;/b&gt;Cyprus&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="501" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="shNLOWEZbwPzUOpNQr-I-15" value="Payroll&lt;div&gt;UK&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
-          <mxGeometry x="1071" y="571" width="90" height="70" as="geometry" />
+          <mxGeometry x="1071" y="571" width="129" height="70" as="geometry" />
         </mxCell>
         <mxCell id="shNLOWEZbwPzUOpNQr-I-94" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="0uppAoZkeoiL5u4qMpaQ-1" target="shNLOWEZbwPzUOpNQr-I-70">
           <mxGeometry relative="1" as="geometry">
