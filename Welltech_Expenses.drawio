@@ -1,9 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T10:17:18.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.7" etag="DFOKH_M0mjZGRNMBRZyX" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T10:23:11.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="D4j-M8AfElbapjLyHQXv" version="24.0.7" type="github">
   <diagram name="Page-1" id="Qbp6g7OmeUquvPP_OFD2">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eGseb7tiYvthw4eMABIt-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;curved=0;" edge="1" parent="1" source="eGseb7tiYvthw4eMABIt-1" target="eGseb7tiYvthw4eMABIt-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eGseb7tiYvthw4eMABIt-1" value="&lt;div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eGseb7tiYvthw4eMABIt-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.soldo.com/wp-content/uploads/soldo-logo-1.png;" vertex="1" parent="1">
+          <mxGeometry x="40" y="222.4" width="111.84" height="55.19" as="geometry" />
+        </mxCell>
+        <mxCell id="eGseb7tiYvthw4eMABIt-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eGseb7tiYvthw4eMABIt-3" target="eGseb7tiYvthw4eMABIt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eGseb7tiYvthw4eMABIt-12" value="Card&lt;div&gt;Transactions&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFE6CC;" vertex="1" connectable="0" parent="eGseb7tiYvthw4eMABIt-4">
+          <mxGeometry x="-0.151" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eGseb7tiYvthw4eMABIt-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/job-seeker/256/laptop_job_seeker_employee_unemployee_work_1-128.png" vertex="1" parent="1">
+          <mxGeometry x="760" y="295" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eGseb7tiYvthw4eMABIt-6" value="" style="shape=mxgraph.cisco.buildings.generic_building;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="175" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eGseb7tiYvthw4eMABIt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="eGseb7tiYvthw4eMABIt-7" target="eGseb7tiYvthw4eMABIt-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="255" />
+              <mxPoint x="590" y="318" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eGseb7tiYvthw4eMABIt-9" value="Personal&amp;nbsp;&lt;div&gt;Expenses&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#E6FFCC;" vertex="1" connectable="0" parent="eGseb7tiYvthw4eMABIt-8">
+          <mxGeometry x="-0.0248" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eGseb7tiYvthw4eMABIt-10" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="eGseb7tiYvthw4eMABIt-7" target="eGseb7tiYvthw4eMABIt-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="175" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="240" />
+              <mxPoint x="560" y="193" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eGseb7tiYvthw4eMABIt-11" value="Corporate Expenses" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFF2CC;" vertex="1" connectable="0" parent="eGseb7tiYvthw4eMABIt-10">
+          <mxGeometry x="0.1741" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eGseb7tiYvthw4eMABIt-7" value="Expenses&lt;div&gt;Report&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eGseb7tiYvthw4eMABIt-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Workday_Logo.png/1280px-Workday_Logo.png;" vertex="1" parent="1">
+          <mxGeometry x="331.37" y="240" width="77.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eGseb7tiYvthw4eMABIt-15" value="&lt;ul style=&quot;font-size: 10px;&quot;&gt;&lt;li&gt;MasterCard&lt;/li&gt;&lt;li&gt;VISA&lt;/li&gt;&lt;li&gt;others..&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="167" y="266.59" width="70" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
