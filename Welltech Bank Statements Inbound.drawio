@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T15:05:13.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="A-meEQ057aKE-Fm9m_BY" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-25T15:05:50.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="5nETIGaPU3xiuy-43tYh" version="24.0.7" type="github">
   <diagram name="Page-1" id="F_aMDR30BkW7zzcbEM02">
     <mxGraphModel dx="1687" dy="2008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -349,6 +349,9 @@
         </mxCell>
         <mxCell id="SEI3cdUsvEu73y-Jb9mr-161" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://happymonday.ua/wp-content/uploads/2022/05/c63c_On%20White%201.png;" vertex="1" parent="1">
           <mxGeometry x="567.58" y="-350" width="310" height="74.64" as="geometry" />
+        </mxCell>
+        <mxCell id="SEI3cdUsvEu73y-Jb9mr-165" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;USING WORKDAY STUDIO OR DT&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1370.5" y="485.26" width="107" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
