@@ -1,9 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T11:44:20.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.1.0" etag="7puFX0OViis81PJED11L" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T11:46:38.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="DoYCYccAt-PpHlSRKWk-" version="24.1.0" type="github">
   <diagram name="Page-1" id="Bd6B7apusBZdPcca5PaD">
-    <mxGraphModel>
+    <mxGraphModel dx="584" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sGgnkbuNSxI2wGrAtEvW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=37.75;exitPerimeter=0;curved=0;" edge="1" parent="1" source="sGgnkbuNSxI2wGrAtEvW-2" target="sGgnkbuNSxI2wGrAtEvW-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1380" y="370" />
+              <mxPoint x="1380" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGgnkbuNSxI2wGrAtEvW-8" value="&lt;ul&gt;&lt;li&gt;JOB DETAILS&lt;/li&gt;&lt;li&gt;JOB REQUISITION DETAILS&lt;/li&gt;&lt;li&gt;POSITION DETAILS&lt;/li&gt;&lt;/ul&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFFFCC;" vertex="1" connectable="0" parent="sGgnkbuNSxI2wGrAtEvW-5">
+          <mxGeometry x="-0.5265" y="1" relative="1" as="geometry">
+            <mxPoint x="-6" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGgnkbuNSxI2wGrAtEvW-2" value="&lt;div&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;div&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;Workday&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;HCM &amp;amp; FINANCE&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="850" y="332.5" width="150" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="sGgnkbuNSxI2wGrAtEvW-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Workday_Logo.png/1280px-Workday_Logo.png;" vertex="1" parent="1">
+          <mxGeometry x="880" y="368.5" width="90" height="34.95" as="geometry" />
+        </mxCell>
+        <mxCell id="sGgnkbuNSxI2wGrAtEvW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;curved=0;" edge="1" parent="1" source="sGgnkbuNSxI2wGrAtEvW-4" target="sGgnkbuNSxI2wGrAtEvW-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1340" y="420" />
+              <mxPoint x="1340" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGgnkbuNSxI2wGrAtEvW-9" value="&lt;span style=&quot;background-color: rgb(230, 255, 204);&quot;&gt;HIRED CANDIDATE DETAILS&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sGgnkbuNSxI2wGrAtEvW-6">
+          <mxGeometry x="0.1918" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sGgnkbuNSxI2wGrAtEvW-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://assets-global.website-files.com/619b58064e44df5bdf1b3e53/626be660277f2dca8b74025e_ashby.png;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="366" width="162.65" height="54" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
