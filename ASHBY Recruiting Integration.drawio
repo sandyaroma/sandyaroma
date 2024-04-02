@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T12:26:57.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="boaxuql-GgLfzGk41HI-" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T08:57:25.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="DwqmsBHbQhcGAJItqFuJ" version="24.2.1" type="github">
   <diagram name="Page-1" id="Bd6B7apusBZdPcca5PaD">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,6 +109,18 @@
         </mxCell>
         <mxCell id="sGgnkbuNSxI2wGrAtEvW-27" value="&lt;b&gt;ORGANIZATION DATA&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Sup Org&lt;/div&gt;&lt;div&gt;Company&lt;/div&gt;&lt;div&gt;Manager&lt;/div&gt;&lt;div&gt;Recruiter&lt;/div&gt;&lt;div&gt;Cost Center&lt;/div&gt;&lt;div&gt;Location&lt;/div&gt;&lt;div&gt;Comp Grade&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="890" y="830" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="-kK4m6FzKf8vr2_1_iYm-1" value="&lt;b&gt;1&lt;/b&gt;. What about relevant master data of Workday to be synched with Ashby ?" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="780" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-kK4m6FzKf8vr2_1_iYm-3" value="&lt;b&gt;2&lt;/b&gt;. What about applicant data, when someone applies, that needs to be able to create an applicant in Workday. So that, upon final successful hire, ASHBY can send back the information to Workday to use that Applicant ID" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="830" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-kK4m6FzKf8vr2_1_iYm-4" value="&lt;b&gt;3&lt;/b&gt;. When someone is re-hired, how is that handled on ASHBY side ? Do we re-use applicant or new applicant is created ? In Workday, there is a duplicate candidate management in place, which will fail to create a new Applicant for Re-Hire for already existing candidates, or create a duplicate Candidate with same name/details which will increase the duplicate data in the system" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="890" width="530" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-kK4m6FzKf8vr2_1_iYm-5" value="&lt;b&gt;&lt;font&gt;OPEN POINTS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0080;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="740" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
