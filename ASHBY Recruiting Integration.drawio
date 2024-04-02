@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T08:57:27.393Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Tsv0DWMQmfTkM-OkD15J" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T09:37:54.021Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="MUnYXFylWKg4TSe7PHtr" version="24.2.1" type="github">
   <diagram name="Page-1" id="Bd6B7apusBZdPcca5PaD">
-    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1443" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,6 +82,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-kK4m6FzKf8vr2_1_iYm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=52.5;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="sGgnkbuNSxI2wGrAtEvW-13" target="-kK4m6FzKf8vr2_1_iYm-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sGgnkbuNSxI2wGrAtEvW-13" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;ASHBY&lt;/b&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#000066;strokeColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="1480" y="554" width="110" height="80" as="geometry" />
         </mxCell>
@@ -121,6 +124,12 @@
         </mxCell>
         <mxCell id="-kK4m6FzKf8vr2_1_iYm-5" value="&lt;b&gt;&lt;font&gt;OPEN POINTS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0080;" vertex="1" parent="1">
           <mxGeometry x="1530" y="740" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-kK4m6FzKf8vr2_1_iYm-6" value="&lt;b&gt;4&lt;/b&gt;. Are you going to create Job Requisitions" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="950" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-kK4m6FzKf8vr2_1_iYm-7" value="CREATE&amp;nbsp;&lt;div&gt;PRE-HIRE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#666666;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="980" y="650" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
