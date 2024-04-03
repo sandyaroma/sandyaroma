@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T09:24:58.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="cS8qeQuZgH3fW-5JuAVT" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-03T09:26:21.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="mc7mzDF2dWzqm58UmCoi" version="24.2.1" type="github">
   <diagram name="Page-1" id="urkx2GCFTh1Wn2LajPYX">
     <mxGraphModel dx="1235" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
         </mxCell>
         <mxCell id="f4Wcd7JCQF0BEz7dkmF--7" value="ALL CURRENCY EZCHANGE RATES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="f4Wcd7JCQF0BEz7dkmF--6" vertex="1" connectable="0">
           <mxGeometry x="-0.1659" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="29" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f4Wcd7JCQF0BEz7dkmF--8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;curved=0;" parent="1" source="f4Wcd7JCQF0BEz7dkmF--4" target="f4Wcd7JCQF0BEz7dkmF--1" edge="1">
@@ -89,6 +89,12 @@
         </mxCell>
         <mxCell id="CRJRhA5DTS-HAMLqjQhr-6" value="LOCAL POLISH BOOK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="790" y="330" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRJRhA5DTS-HAMLqjQhr-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Poland_flat.png" vertex="1" parent="1">
+          <mxGeometry x="560" y="330" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CRJRhA5DTS-HAMLqjQhr-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/d/d2/Flag_of_Ukraine.png;" vertex="1" parent="1">
+          <mxGeometry x="560" y="233.33" width="40" height="26.67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
