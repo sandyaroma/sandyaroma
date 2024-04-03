@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T16:24:49.734Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="shkonTO9UKCkmua68N4F" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-03T09:23:43.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="xCqqCkkSdkH753iqi7s6" version="24.2.1" type="github">
   <diagram name="Page-1" id="urkx2GCFTh1Wn2LajPYX">
-    <mxGraphModel dx="1674" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,6 +74,21 @@
           <mxGeometry x="-0.1733" y="3" relative="1" as="geometry">
             <mxPoint x="38" y="-26" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CRJRhA5DTS-HAMLqjQhr-1" value="WORKDAY&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="600" y="610" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CRJRhA5DTS-HAMLqjQhr-2" value="FOR POLISH BOOKS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="710" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRJRhA5DTS-HAMLqjQhr-4" value="Use Polish bank approved currency exchange" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="565" y="555" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRJRhA5DTS-HAMLqjQhr-5" value="CYPRUS / GROUP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="790" y="440" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRJRhA5DTS-HAMLqjQhr-6" value="LOCAL POLISH BOOK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="790" y="335" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
