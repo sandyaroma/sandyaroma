@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T09:56:23.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="nqx2Krg_tkAZHt4BT1TS" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-03T09:56:40.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="itSJ6A3l5CG6im-_iCpc" version="24.2.1" type="github">
   <diagram name="Page-1" id="urkx2GCFTh1Wn2LajPYX">
     <mxGraphModel dx="1235" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
           <mxGeometry x="217.5" y="515" width="125" height="70" as="geometry" />
         </mxCell>
         <mxCell id="f4Wcd7JCQF0BEz7dkmF--17" value="CHECK AGAINST POLISH BANK CURRENCY XCHANGE" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="620" width="130" height="90" as="geometry" />
+          <mxGeometry x="320" y="620" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f4Wcd7JCQF0BEz7dkmF--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=-15;entryPerimeter=0;" parent="1" source="f4Wcd7JCQF0BEz7dkmF--17" target="f4Wcd7JCQF0BEz7dkmF--1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -121,7 +121,7 @@
           <mxGeometry x="110" y="370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CRJRhA5DTS-HAMLqjQhr-35" value="&lt;b&gt;Currency Type B&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="395" y="520" width="60" height="30" as="geometry" />
+          <mxGeometry x="355" y="720" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
