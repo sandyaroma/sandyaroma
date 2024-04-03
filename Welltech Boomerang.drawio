@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T09:59:32.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="9oIl2rSFkwdINWEOLKEv" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-03T10:00:06.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="958pcaSZ0Gwn3xy8vrc_" version="24.2.1" type="github">
   <diagram name="Page-1" id="urkx2GCFTh1Wn2LajPYX">
     <mxGraphModel dx="1235" dy="1755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -110,6 +110,15 @@
         </mxCell>
         <mxCell id="CRJRhA5DTS-HAMLqjQhr-35" value="&lt;b&gt;Currency Type B&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="355" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRJRhA5DTS-HAMLqjQhr-37" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;BOOMERANG 2 (UKRAINE)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFCC;gradientColor=none;strokeColor=#996185;opacity=35;" vertex="1" parent="1">
+          <mxGeometry x="620" y="430" width="520" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="CRJRhA5DTS-HAMLqjQhr-38" value="Used for UKRAINE LOCAL BOOKs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="776.25" y="850" width="207.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CRJRhA5DTS-HAMLqjQhr-39" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/d/d2/Flag_of_Ukraine.png;" vertex="1" parent="1">
+          <mxGeometry x="730" y="823.3299999999999" width="40" height="26.67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
