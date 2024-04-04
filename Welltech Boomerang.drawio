@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-04T07:45:35.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="0Q_68yfTvPC1oqUAQrq6" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-04T07:45:57.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="StEKRLT81-lybDyBOqVi" version="24.2.2" type="github">
   <diagram name="Page-1" id="urkx2GCFTh1Wn2LajPYX">
     <mxGraphModel dx="2284" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -75,7 +75,7 @@
         <mxCell id="CRJRhA5DTS-HAMLqjQhr-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/d/d2/Flag_of_Ukraine.png;" parent="1" vertex="1">
           <mxGeometry x="370" y="10" width="40" height="26.67" as="geometry" />
         </mxCell>
-        <mxCell id="CRJRhA5DTS-HAMLqjQhr-9" value="Used for LOCAL UKRAIN BOOK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
+        <mxCell id="CRJRhA5DTS-HAMLqjQhr-9" value="Used for LOCAL UKRAINE BOOK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
           <mxGeometry x="596" y="-13.330000000000013" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CRJRhA5DTS-HAMLqjQhr-17" value="&lt;b&gt;Currency Type A&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
