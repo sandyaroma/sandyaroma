@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T15:44:57.623Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7ptFn6sVGONtcxipqBiy" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T15:45:09.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="oM8pwWkv1jmX_EJ6nDcn" version="24.2.2" type="github">
   <diagram name="Page-1" id="F_aMDR30BkW7zzcbEM02">
     <mxGraphModel dx="1434" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -373,6 +373,9 @@
           <mxGeometry x="-0.3529" y="1" relative="1" as="geometry">
             <mxPoint x="-24" y="15" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MEMCAQ51VXoOcpjO_rVo-13" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;WELLTECH SFTP&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Secured Server&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1528.22" y="500" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
