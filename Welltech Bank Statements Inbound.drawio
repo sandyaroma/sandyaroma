@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T15:40:23.020Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Jlbmk32qQ_XYvmYdeXvJ" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T15:40:56.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="BFgUHCNSDHaWml9obA-f" version="24.2.2" type="github">
   <diagram name="Page-1" id="F_aMDR30BkW7zzcbEM02">
-    <mxGraphModel dx="1050" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2391" dy="2203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,7 +176,7 @@
         <mxCell id="SEI3cdUsvEu73y-Jb9mr-119" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;strokeColor=#990000;dashed=1;" parent="1" source="SEI3cdUsvEu73y-Jb9mr-70" target="SEI3cdUsvEu73y-Jb9mr-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SEI3cdUsvEu73y-Jb9mr-121" value="&lt;span style=&quot;background-color: rgb(255, 242, 204); font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;MANUAL PAYMENT&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 242, 204);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;RECORD CREATION&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 242, 204);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;FOR ALL PAYMENTS&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="SEI3cdUsvEu73y-Jb9mr-119" vertex="1" connectable="0">
+        <mxCell id="SEI3cdUsvEu73y-Jb9mr-121" value="&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 242, 204);&quot;&gt;&lt;b&gt;MANUAL PAYMENTS&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 242, 204);&quot;&gt;&lt;b&gt;DUAL ENTRY&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="SEI3cdUsvEu73y-Jb9mr-119" vertex="1" connectable="0">
           <mxGeometry x="-0.3138" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -205,7 +205,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SEI3cdUsvEu73y-Jb9mr-127" value="&lt;span style=&quot;background-color: rgb(255, 242, 204);&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;MANUAL PAYMENTS&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="SEI3cdUsvEu73y-Jb9mr-127" value="&lt;span style=&quot;text-wrap: nowrap; font-size: 14px; background-color: rgb(255, 242, 204);&quot;&gt;&lt;b&gt;MANUAL PAYMENTS&lt;/b&gt;&lt;/span&gt;&lt;div style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(255, 242, 204);&quot;&gt;&lt;b&gt;DUAL ENTRY&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="80" width="195" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SEI3cdUsvEu73y-Jb9mr-128" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.03;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;dashed=1;strokeColor=#990000;" parent="1" source="SEI3cdUsvEu73y-Jb9mr-70" target="SEI3cdUsvEu73y-Jb9mr-96" edge="1">
