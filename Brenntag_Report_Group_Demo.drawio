@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T08:32:03.586Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="vdymOBjH0v5w2mcF0CvK" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T08:32:19.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="WefGEF2XgVDTjSNRQwXR" version="24.2.3" type="github">
   <diagram name="Page-1" id="nUFRBn-OvT3-6YgjMPIj">
     <mxGraphModel dx="1900" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -342,6 +342,12 @@
           <mxGeometry x="-0.1842" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="E6SmCoGAS9FhZUeWfq_z-19" value="&lt;ul&gt;&lt;li&gt;Hire&lt;/li&gt;&lt;li&gt;Personal Data&lt;/li&gt;&lt;li&gt;Address&lt;/li&gt;&lt;li&gt;Org Assigment&lt;/li&gt;&lt;li&gt;Worker IDs&lt;/li&gt;&lt;li&gt;Allowance&lt;/li&gt;&lt;li&gt;Compensation&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="350.43" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E6SmCoGAS9FhZUeWfq_z-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647714-excel-128.png" vertex="1" parent="1">
+          <mxGeometry x="1180" y="410" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
