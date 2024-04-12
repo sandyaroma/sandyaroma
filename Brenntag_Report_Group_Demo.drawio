@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T08:32:19.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="WefGEF2XgVDTjSNRQwXR" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T08:32:27.736Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="HsHE2g3dht5oEYYa9LDb" version="24.2.3" type="github">
   <diagram name="Page-1" id="nUFRBn-OvT3-6YgjMPIj">
     <mxGraphModel dx="1900" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -331,7 +331,7 @@
         <mxCell id="E6SmCoGAS9FhZUeWfq_z-16" value="&lt;ul&gt;&lt;li&gt;Hire&lt;/li&gt;&lt;li&gt;Personal Data&lt;/li&gt;&lt;li&gt;Address&lt;/li&gt;&lt;li&gt;Org Assigment&lt;/li&gt;&lt;li&gt;Worker IDs&lt;/li&gt;&lt;li&gt;Allowance&lt;/li&gt;&lt;li&gt;Compensation&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1390" y="500" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="E6SmCoGAS9FhZUeWfq_z-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.611;entryY=1.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="E6SmCoGAS9FhZUeWfq_z-12" target="E6SmCoGAS9FhZUeWfq_z-1">
+        <mxCell id="E6SmCoGAS9FhZUeWfq_z-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.611;entryY=1.031;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="E6SmCoGAS9FhZUeWfq_z-12" target="E6SmCoGAS9FhZUeWfq_z-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1026" y="620" />
