@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T13:35:14.052Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="PQDsiTcQflwKylOqDYhx" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T13:36:43.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="qhcCpvgvx2PY0ACOqi__" version="24.2.5" type="github">
   <diagram name="Page-1" id="Qo5-SU2jsjBQmmHGO5ut">
     <mxGraphModel dx="2537" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iPNJAyaKDSzQ_Xv5D2DE-125" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;AMERICAS PAYROLL SYSTEM&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#CCCCCC;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="780" width="650" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="iPNJAyaKDSzQ_Xv5D2DE-96" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;EMEA PAYROLL SYSTEM&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#CCCCCC;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="-850" y="236" width="650" height="74" as="geometry" />
         </mxCell>
@@ -444,7 +447,7 @@
           <mxGeometry x="-520" y="365" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iPNJAyaKDSzQ_Xv5D2DE-95" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Zalaris-site-logo-2020.svg/2560px-Zalaris-site-logo-2020.svg.png;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="248" width="200" height="40" as="geometry" />
+          <mxGeometry x="-630" y="248" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iPNJAyaKDSzQ_Xv5D2DE-102" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/699265-icon-37-file-xml-128.png" vertex="1" parent="1">
           <mxGeometry x="-56.75" y="415.43" width="40" height="40" as="geometry" />
@@ -487,6 +490,9 @@
         </mxCell>
         <mxCell id="iPNJAyaKDSzQ_Xv5D2DE-114" value="Country&lt;div&gt;Payroll&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#E6E6E6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;fillColor=#990099;" vertex="1" parent="1">
           <mxGeometry x="-795" y="418.11" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iPNJAyaKDSzQ_Xv5D2DE-124" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d3bql97l1ytoxn.cloudfront.net/app_resources/296829/thumbs_112/img1914521302470676413-2x.png;" vertex="1" parent="1">
+          <mxGeometry x="-565.66" y="790" width="81.31" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
