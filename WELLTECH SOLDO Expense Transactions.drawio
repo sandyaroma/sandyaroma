@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T11:26:11.830Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="F1NMq466KJn_K5y-7smr" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-19T11:27:17.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="CTIjcQxgYk_bGB0C-iTC" version="24.2.5" type="github">
   <diagram name="Page-1" id="EkX973uBJ4-KdEPocawQ">
     <mxGraphModel dx="550" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -215,6 +215,15 @@
         </mxCell>
         <mxCell id="P_hy-4vDI4_0ugaQQoCa-2" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;PART 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#E6E6E6;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="940" y="120" width="980" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P_hy-4vDI4_0ugaQQoCa-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="P_hy-4vDI4_0ugaQQoCa-4" target="P_hy-4vDI4_0ugaQQoCa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_hy-4vDI4_0ugaQQoCa-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;BANK STATEMENT TRANSACTIONS&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="1192.5" y="1050" width="225" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P_hy-4vDI4_0ugaQQoCa-5" value="COMPANY SOLDO ACCOUNT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="1655" y="1050" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
