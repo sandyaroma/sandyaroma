@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T13:00:28.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="tS76qlwB6vhxSaglnMou" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T14:23:58.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="MTL3RotaYZRKNGpYna8m" version="24.2.5" type="github">
   <diagram name="Page-1" id="urkx2GCFTh1Wn2LajPYX">
-    <mxGraphModel dx="2284" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1900" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,7 +12,7 @@
             <mxPoint x="275" y="554.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f4Wcd7JCQF0BEz7dkmF--1" value="WORKDAY&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="f4Wcd7JCQF0BEz7dkmF--1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;WORKDAY&lt;/span&gt;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#d79b00;align=right;" parent="1" vertex="1">
           <mxGeometry x="225" y="350" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f4Wcd7JCQF0BEz7dkmF--5" value="JOURNAL ENTRIES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
