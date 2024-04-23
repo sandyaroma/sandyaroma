@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T12:00:51.655Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fGeHH18h9v_9fSBgHt1E" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T12:08:06.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="l3JqpV5Z26CeKsxllkR_" version="24.2.5" type="github">
   <diagram name="Page-1" id="3FahlCcISmpW_KnGQygM">
     <mxGraphModel dx="2359" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -698,7 +698,7 @@
           <mxGeometry x="1420" y="496.5" width="33.5" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="Thb_hPZ-tF3u-AygHAeP-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/555/555526.png;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="585.5" width="32" height="32" as="geometry" />
+          <mxGeometry x="1420" y="581" width="32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Thb_hPZ-tF3u-AygHAeP-10" value="&lt;b&gt;Payroll Spain&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
           <mxGeometry x="1310" y="480" width="100" height="70" as="geometry" />
