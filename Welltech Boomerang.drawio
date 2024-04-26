@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T14:23:58.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="MTL3RotaYZRKNGpYna8m" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-26T16:30:09.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="F6voR2Ns80DQkHMv0fpT" version="24.3.0" type="github">
   <diagram name="Page-1" id="urkx2GCFTh1Wn2LajPYX">
-    <mxGraphModel dx="1900" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2045" dy="1743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,7 +192,7 @@
           <mxGeometry x="532.67" y="-380" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-a5bunj4o0QaBPFjkGxV-4" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="472.66999999999996" y="1010" width="60" height="80" as="geometry" />
+          <mxGeometry x="610.93" y="1010" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-a5bunj4o0QaBPFjkGxV-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freelogovectors.net/wp-content/uploads/2020/09/kainos-logo.png;" parent="1" vertex="1">
           <mxGeometry x="-140" y="-305.1" width="195" height="44.85" as="geometry" />
@@ -230,7 +230,49 @@
           <mxGeometry x="588" y="-520" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1wV1mlJiJO2CKVd5m1LT-17" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="480.56" y="1010" width="60" height="80" as="geometry" />
+          <mxGeometry x="618.8199999999999" y="1010" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5pwO8b2X8ri_SMU_hdvF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5pwO8b2X8ri_SMU_hdvF-2" target="5pwO8b2X8ri_SMU_hdvF-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5pwO8b2X8ri_SMU_hdvF-2" value="Supplier or Customer Payments" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5pwO8b2X8ri_SMU_hdvF-7" value="RaaS Report&lt;div&gt;Customer Payments&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="518.26" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5pwO8b2X8ri_SMU_hdvF-9" value="RaaS Report&lt;div&gt;Customer Payments currency data&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="548.26" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5pwO8b2X8ri_SMU_hdvF-8" value="RaaS Report&lt;div&gt;Supplier Payments&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="572.01" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5pwO8b2X8ri_SMU_hdvF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5pwO8b2X8ri_SMU_hdvF-10" target="5pwO8b2X8ri_SMU_hdvF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5pwO8b2X8ri_SMU_hdvF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5pwO8b2X8ri_SMU_hdvF-10" target="5pwO8b2X8ri_SMU_hdvF-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="980" />
+              <mxPoint x="420" y="1080" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5pwO8b2X8ri_SMU_hdvF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5pwO8b2X8ri_SMU_hdvF-10" target="5pwO8b2X8ri_SMU_hdvF-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="980" />
+              <mxPoint x="400" y="1140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5pwO8b2X8ri_SMU_hdvF-10" value="&lt;div&gt;Get&lt;/div&gt;Journal Line Data&lt;div&gt;RaaS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5pwO8b2X8ri_SMU_hdvF-14" value="WID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450.56" y="930" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
