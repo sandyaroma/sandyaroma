@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T12:08:06.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="l3JqpV5Z26CeKsxllkR_" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-30T12:35:04.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="oHM534zRn7uwr1DCdE2y" version="24.3.1" type="github">
   <diagram name="Page-1" id="3FahlCcISmpW_KnGQygM">
-    <mxGraphModel dx="2359" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -266,7 +266,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Thb_hPZ-tF3u-AygHAeP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;dashed=1;strokeColor=#0000FF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="shNLOWEZbwPzUOpNQr-I-22" target="Thb_hPZ-tF3u-AygHAeP-2">
+        <mxCell id="Thb_hPZ-tF3u-AygHAeP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;dashed=1;strokeColor=#0000FF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="shNLOWEZbwPzUOpNQr-I-22" target="Thb_hPZ-tF3u-AygHAeP-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="675" y="170" />
@@ -463,7 +463,7 @@
         <mxCell id="shNLOWEZbwPzUOpNQr-I-108" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="660" y="915" width="120" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="4vrHXC_CaGO0HVgjDUlX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;noJump=0;" parent="1" source="shNLOWEZbwPzUOpNQr-I-115" target="0uppAoZkeoiL5u4qMpaQ-1" edge="1">
+        <mxCell id="4vrHXC_CaGO0HVgjDUlX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;noJump=0;flowAnimation=1;" parent="1" source="shNLOWEZbwPzUOpNQr-I-115" target="0uppAoZkeoiL5u4qMpaQ-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="600" y="290" />
@@ -672,10 +672,10 @@
         <mxCell id="4vrHXC_CaGO0HVgjDUlX-78" value="Designed by your Workday Partner" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="-275.11" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Thb_hPZ-tF3u-AygHAeP-2" value="GOOGLE &#xa;CALENDAR" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Calendar_icon_%282020%29.svg/2048px-Google_Calendar_icon_%282020%29.svg.png;" vertex="1" parent="1">
+        <mxCell id="Thb_hPZ-tF3u-AygHAeP-2" value="GOOGLE &#xa;CALENDAR" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Calendar_icon_%282020%29.svg/2048px-Google_Calendar_icon_%282020%29.svg.png;" parent="1" vertex="1">
           <mxGeometry x="1155" y="233.9" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Thb_hPZ-tF3u-AygHAeP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.796;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;startArrow=classic;startFill=1;flowAnimation=1;" edge="1" parent="1" target="0uppAoZkeoiL5u4qMpaQ-1">
+        <mxCell id="Thb_hPZ-tF3u-AygHAeP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.796;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;startArrow=classic;startFill=1;flowAnimation=1;" parent="1" target="0uppAoZkeoiL5u4qMpaQ-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1175" y="310" as="sourcePoint" />
             <Array as="points">
@@ -684,35 +684,35 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Thb_hPZ-tF3u-AygHAeP-5" value="&lt;div style=&quot;text-align: justify;&quot;&gt;API&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Thb_hPZ-tF3u-AygHAeP-3">
+        <mxCell id="Thb_hPZ-tF3u-AygHAeP-5" value="&lt;div style=&quot;text-align: justify;&quot;&gt;API&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="Thb_hPZ-tF3u-AygHAeP-3" vertex="1" connectable="0">
           <mxGeometry x="-0.8372" y="4" relative="1" as="geometry">
             <mxPoint x="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Thb_hPZ-tF3u-AygHAeP-6" value="&lt;span style=&quot;background-color: rgb(255, 255, 204);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Absence Requests&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Thb_hPZ-tF3u-AygHAeP-3">
+        <mxCell id="Thb_hPZ-tF3u-AygHAeP-6" value="&lt;span style=&quot;background-color: rgb(255, 255, 204);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Absence Requests&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Thb_hPZ-tF3u-AygHAeP-3" vertex="1" connectable="0">
           <mxGeometry x="0.3712" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Thb_hPZ-tF3u-AygHAeP-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Spain_flat.png" vertex="1" parent="1">
+        <mxCell id="Thb_hPZ-tF3u-AygHAeP-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/flags_gosquared/64/Spain_flat.png" parent="1" vertex="1">
           <mxGeometry x="1420" y="496.5" width="33.5" height="33.5" as="geometry" />
         </mxCell>
-        <mxCell id="Thb_hPZ-tF3u-AygHAeP-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/555/555526.png;" vertex="1" parent="1">
+        <mxCell id="Thb_hPZ-tF3u-AygHAeP-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/555/555526.png;" parent="1" vertex="1">
           <mxGeometry x="1420" y="581" width="32" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="Thb_hPZ-tF3u-AygHAeP-10" value="&lt;b&gt;Payroll Spain&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+        <mxCell id="Thb_hPZ-tF3u-AygHAeP-10" value="&lt;b&gt;Payroll Spain&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="1310" y="480" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Thb_hPZ-tF3u-AygHAeP-11" value="&lt;b&gt;Payroll USA&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+        <mxCell id="Thb_hPZ-tF3u-AygHAeP-11" value="&lt;b&gt;Payroll USA&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="1310" y="566.5" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Thb_hPZ-tF3u-AygHAeP-23" value="Payment System&lt;div&gt;PAYONEER&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-rounded/66/Rounded-25-128.png" vertex="1" parent="1">
+        <mxCell id="Thb_hPZ-tF3u-AygHAeP-23" value="Payment System&lt;div&gt;PAYONEER&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-rounded/66/Rounded-25-128.png" parent="1" vertex="1">
           <mxGeometry x="-300" y="621.6" width="64.2" height="64.2" as="geometry" />
         </mxCell>
-        <mxCell id="Thb_hPZ-tF3u-AygHAeP-24" value="Payment System&lt;div&gt;DEMETRA&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-rounded/66/Rounded-25-128.png" vertex="1" parent="1">
+        <mxCell id="Thb_hPZ-tF3u-AygHAeP-24" value="Payment System&lt;div&gt;DEMETRA&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-rounded/66/Rounded-25-128.png" parent="1" vertex="1">
           <mxGeometry x="-99" y="619.5" width="64.2" height="64.2" as="geometry" />
         </mxCell>
-        <mxCell id="Thb_hPZ-tF3u-AygHAeP-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;flowAnimation=1;curved=0;" edge="1" parent="1" source="Thb_hPZ-tF3u-AygHAeP-25">
+        <mxCell id="Thb_hPZ-tF3u-AygHAeP-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;flowAnimation=1;curved=0;" parent="1" source="Thb_hPZ-tF3u-AygHAeP-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="500" y="520" as="targetPoint" />
             <Array as="points">
@@ -720,10 +720,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Thb_hPZ-tF3u-AygHAeP-25" value="Payment System&lt;div&gt;ADV CASH&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-rounded/66/Rounded-25-128.png" vertex="1" parent="1">
+        <mxCell id="Thb_hPZ-tF3u-AygHAeP-25" value="Payment System&lt;div&gt;ADV CASH&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/essential-rounded/66/Rounded-25-128.png" parent="1" vertex="1">
           <mxGeometry x="-197" y="619.5" width="64.2" height="64.2" as="geometry" />
         </mxCell>
-        <mxCell id="Thb_hPZ-tF3u-AygHAeP-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;noJump=0;flowAnimation=1;entryX=0.01;entryY=0.384;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Thb_hPZ-tF3u-AygHAeP-23" target="0uppAoZkeoiL5u4qMpaQ-1">
+        <mxCell id="Thb_hPZ-tF3u-AygHAeP-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;noJump=0;flowAnimation=1;entryX=0.01;entryY=0.384;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Thb_hPZ-tF3u-AygHAeP-23" target="0uppAoZkeoiL5u4qMpaQ-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="510" as="targetPoint" />
             <Array as="points">
@@ -731,7 +731,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Thb_hPZ-tF3u-AygHAeP-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;flowAnimation=1;" edge="1" parent="1" source="Thb_hPZ-tF3u-AygHAeP-24" target="0uppAoZkeoiL5u4qMpaQ-1">
+        <mxCell id="Thb_hPZ-tF3u-AygHAeP-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;flowAnimation=1;" parent="1" source="Thb_hPZ-tF3u-AygHAeP-24" target="0uppAoZkeoiL5u4qMpaQ-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-60" y="530" />
