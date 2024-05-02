@@ -1,27 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T13:08:03.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="q2-l3dnhH31PREz2k5p9" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-02T13:10:16.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="TxGoS4OZ5N1RVkwC7dXY" version="24.3.1" type="github">
   <diagram name="Page-1" id="p0ibK7q0oVFSyDOmjFjF">
     <mxGraphModel dx="2284" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="50CwbXWX_2_v5H9PCj2K-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#CCCCCC;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="889.54" y="316" width="550.5" height="74" as="geometry" />
+        <mxCell id="50CwbXWX_2_v5H9PCj2K-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#CCCCCC;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="889.54" y="316" width="610.46" height="544" as="geometry" />
         </mxCell>
         <mxCell id="50CwbXWX_2_v5H9PCj2K-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;opacity=60;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="1214.6" y="409.90000000000003" width="228.31" height="157.78" as="geometry" />
+          <mxGeometry x="1234.9699999999998" y="408.77000000000004" width="228.31" height="157.78" as="geometry" />
         </mxCell>
         <mxCell id="50CwbXWX_2_v5H9PCj2K-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;opacity=60;" vertex="1" parent="1">
-          <mxGeometry x="879.54" y="407.68" width="323.37" height="320" as="geometry" />
+          <mxGeometry x="899.91" y="406.55" width="323.37" height="320" as="geometry" />
         </mxCell>
         <mxCell id="50CwbXWX_2_v5H9PCj2K-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;gradientColor=none;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="1214.6" y="601.8499999999999" width="228.31" height="105" as="geometry" />
+          <mxGeometry x="1234.9699999999998" y="600.7199999999999" width="228.31" height="105" as="geometry" />
         </mxCell>
         <mxCell id="50CwbXWX_2_v5H9PCj2K-23" value="India Payroll" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#000066;strokeColor=#E6E6E6;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="996.16" y="420.47" width="86.75" height="67.21" as="geometry" />
+          <mxGeometry x="1018.16" y="420.47" width="86.75" height="67.21" as="geometry" />
         </mxCell>
         <mxCell id="50CwbXWX_2_v5H9PCj2K-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="50CwbXWX_2_v5H9PCj2K-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="408" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="50CwbXWX_2_v5H9PCj2K-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.007;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="50CwbXWX_2_v5H9PCj2K-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="433" />
+              <mxPoint x="240" y="770" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="50CwbXWX_2_v5H9PCj2K-32" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;HCM, Recruiting&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#FFFFFF;" vertex="1" parent="1">
@@ -59,34 +68,34 @@
           <mxGeometry x="1089.79" y="368" width="150" height="10" as="geometry" />
         </mxCell>
         <mxCell id="50CwbXWX_2_v5H9PCj2K-61" value="Cambodia Payroll" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#000066;strokeColor=#E6E6E6;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1092.91" y="420.47" width="86.75" height="67.21" as="geometry" />
+          <mxGeometry x="1114.91" y="420.47" width="86.75" height="67.21" as="geometry" />
         </mxCell>
         <mxCell id="50CwbXWX_2_v5H9PCj2K-62" value="Singapore Payroll" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#000066;strokeColor=#E6E6E6;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="896.16" y="420.46999999999997" width="86.75" height="67.21" as="geometry" />
+          <mxGeometry x="918.16" y="420.46999999999997" width="86.75" height="67.21" as="geometry" />
         </mxCell>
         <mxCell id="50CwbXWX_2_v5H9PCj2K-63" value="Thailand Payroll" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#000066;strokeColor=#E6E6E6;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="899.79" y="494.08" width="86.75" height="67.21" as="geometry" />
+          <mxGeometry x="921.79" y="494.08" width="86.75" height="67.21" as="geometry" />
         </mxCell>
         <mxCell id="50CwbXWX_2_v5H9PCj2K-64" value="Indonesia&lt;div&gt;Payroll&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#000066;strokeColor=#E6E6E6;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="996.16" y="494.08" width="86.75" height="67.21" as="geometry" />
+          <mxGeometry x="1018.16" y="494.08" width="86.75" height="67.21" as="geometry" />
         </mxCell>
         <mxCell id="50CwbXWX_2_v5H9PCj2K-65" value="&lt;div&gt;Vietnam&lt;/div&gt;&lt;div&gt;Payroll&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#000066;strokeColor=#E6E6E6;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1092.91" y="490.47" width="86.75" height="67.21" as="geometry" />
+          <mxGeometry x="1114.91" y="490.47" width="86.75" height="67.21" as="geometry" />
         </mxCell>
         <mxCell id="50CwbXWX_2_v5H9PCj2K-66" value="Maly&lt;span style=&quot;background-color: initial;&quot;&gt;sia&lt;/span&gt;&lt;div&gt;&lt;div&gt;Payroll&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#000066;strokeColor=#E6E6E6;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="899.79" y="567.68" width="86.75" height="67.21" as="geometry" />
+          <mxGeometry x="921.79" y="567.68" width="86.75" height="67.21" as="geometry" />
         </mxCell>
         <mxCell id="50CwbXWX_2_v5H9PCj2K-67" value="Philippines&lt;br&gt;&lt;div&gt;&lt;div&gt;Payroll&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#000066;strokeColor=#E6E6E6;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="996.16" y="567.68" width="86.75" height="67.21" as="geometry" />
+          <mxGeometry x="1018.16" y="567.68" width="86.75" height="67.21" as="geometry" />
         </mxCell>
         <mxCell id="50CwbXWX_2_v5H9PCj2K-68" value="Taiwan&lt;br&gt;&lt;div&gt;&lt;div&gt;Payroll&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#000066;strokeColor=#E6E6E6;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1092.91" y="572.43" width="86.75" height="67.21" as="geometry" />
+          <mxGeometry x="1114.91" y="572.43" width="86.75" height="67.21" as="geometry" />
         </mxCell>
         <mxCell id="50CwbXWX_2_v5H9PCj2K-69" value="&lt;div&gt;&lt;div&gt;Bangladesh&lt;/div&gt;&lt;div&gt;Payroll&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#000066;strokeColor=#E6E6E6;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="899.91" y="639.64" width="86.75" height="67.21" as="geometry" />
+          <mxGeometry x="921.91" y="639.64" width="86.75" height="67.21" as="geometry" />
         </mxCell>
         <mxCell id="50CwbXWX_2_v5H9PCj2K-70" value="&lt;div&gt;&lt;div&gt;S. Korea&lt;/div&gt;&lt;div&gt;Payroll&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#000066;strokeColor=#E6E6E6;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="996.16" y="639.64" width="86.75" height="67.21" as="geometry" />
+          <mxGeometry x="1018.16" y="639.64" width="86.75" height="67.21" as="geometry" />
         </mxCell>
         <mxCell id="50CwbXWX_2_v5H9PCj2K-71" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Hong Kong Payroll&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#000066;strokeColor=#E6E6E6;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1232.9099999999999" y="418.11" width="86.75" height="67.21" as="geometry" />
