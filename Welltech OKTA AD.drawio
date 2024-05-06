@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T19:46:25.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="CS1aeiz_x4HTlQnfbPAI" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-06T19:48:23.195Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="4GYVJw0In9d_Umi_7BU4" version="24.3.1" type="github">
   <diagram name="Page-1" id="XzqM8-vw0jxmQeB4U7DF">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,6 +127,19 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="220" as="sourcePoint" />
             <mxPoint x="370" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2FFWYvcq-WSNDG9h1Q7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ineW9E7MuL8HfUcgkZqa-3" target="ineW9E7MuL8HfUcgkZqa-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="30" />
+              <mxPoint x="105" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2FFWYvcq-WSNDG9h1Q7-5" value="&lt;div style=&quot;text-align: justify;&quot;&gt;New Hires&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;ul&gt;&lt;li&gt;New Company Email&amp;nbsp;&lt;/li&gt;&lt;li&gt;New Username&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;updated in Workday from OKTA&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#CCFFFF;" vertex="1" connectable="0" parent="K2FFWYvcq-WSNDG9h1Q7-4">
+          <mxGeometry x="-0.0637" y="4" relative="1" as="geometry">
+            <mxPoint x="-58" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
