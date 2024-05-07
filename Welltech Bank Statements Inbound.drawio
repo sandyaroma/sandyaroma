@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-05T19:27:07.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Oam9DQGv1MGQOIHQ173e" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T11:56:05.877Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="pnjc3Exl4BsKmyLID03R" version="24.3.1" type="github">
   <diagram name="Page-1" id="F_aMDR30BkW7zzcbEM02">
-    <mxGraphModel dx="1434" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,19 +18,19 @@
         <mxCell id="SEI3cdUsvEu73y-Jb9mr-33" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Workday_Logo.png/1280px-Workday_Logo.png;" parent="1" vertex="1">
           <mxGeometry x="1155" y="422.03" width="90" height="34.95" as="geometry" />
         </mxCell>
-        <mxCell id="SEI3cdUsvEu73y-Jb9mr-34" value="BANK OF CYPRUS" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="SEI3cdUsvEu73y-Jb9mr-34" value="&lt;b&gt;BANK OF CYPRUS&lt;/b&gt;" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="100" y="270" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SEI3cdUsvEu73y-Jb9mr-35" value="CITIBANK" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="SEI3cdUsvEu73y-Jb9mr-35" value="&lt;b&gt;CITIBANK&lt;/b&gt;" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="100" y="400" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SEI3cdUsvEu73y-Jb9mr-36" value="CREDIT SUISSE" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="SEI3cdUsvEu73y-Jb9mr-36" value="&lt;b&gt;CREDIT SUISSE&lt;/b&gt;" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="100" y="620" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SEI3cdUsvEu73y-Jb9mr-41" value="UNLIMIT&lt;div&gt;BANK&lt;/div&gt;" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="SEI3cdUsvEu73y-Jb9mr-41" value="&lt;b&gt;UNLIMIT&lt;/b&gt;&lt;div&gt;&lt;b&gt;BANK&lt;/b&gt;&lt;/div&gt;" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="100" y="500" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SEI3cdUsvEu73y-Jb9mr-43" value="&lt;span style=&quot;text-align: left; text-wrap: wrap;&quot;&gt;ПУМБ&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;text-align: left; text-wrap: wrap;&quot;&gt;BANK&lt;/span&gt;&lt;/div&gt;" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="SEI3cdUsvEu73y-Jb9mr-43" value="&lt;span style=&quot;text-align: left; text-wrap: wrap;&quot;&gt;&lt;b&gt;ПУМБ&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;&lt;b&gt;PUMB&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left; text-wrap: wrap;&quot;&gt;&lt;b&gt;BANK&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="100" y="150" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SEI3cdUsvEu73y-Jb9mr-147" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" source="SEI3cdUsvEu73y-Jb9mr-47" target="7Tcyw23c3moU5Y1wb8iR-1" edge="1">
@@ -48,7 +48,7 @@
             <mxPoint x="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SEI3cdUsvEu73y-Jb9mr-47" value="UBS&lt;div&gt;BANK&lt;/div&gt;" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="SEI3cdUsvEu73y-Jb9mr-47" value="&lt;b&gt;UBS&lt;/b&gt;&lt;div&gt;&lt;b&gt;BANK&lt;/b&gt;&lt;/div&gt;" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="90" y="870" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SEI3cdUsvEu73y-Jb9mr-48" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.04;exitY=0.864;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" parent="1" source="SEI3cdUsvEu73y-Jb9mr-43" target="7Tcyw23c3moU5Y1wb8iR-1" edge="1">
@@ -113,7 +113,7 @@
         <mxCell id="SEI3cdUsvEu73y-Jb9mr-88" value="PRE&lt;div&gt;PROCESSING&lt;/div&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.settings;" parent="1" vertex="1">
           <mxGeometry x="1409" y="414" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SEI3cdUsvEu73y-Jb9mr-96" value="SANTANDER&lt;div&gt;BANK&lt;/div&gt;" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+        <mxCell id="SEI3cdUsvEu73y-Jb9mr-96" value="&lt;b&gt;SANTANDER&lt;/b&gt;&lt;div&gt;&lt;b&gt;BANK&lt;/b&gt;&lt;/div&gt;" style="shape=mxgraph.signs.travel.bank;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
           <mxGeometry x="100" y="750" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SEI3cdUsvEu73y-Jb9mr-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
