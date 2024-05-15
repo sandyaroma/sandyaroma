@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T07:28:52.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="q4GXNW7lecrc9OIEo8kd" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T07:30:00.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="bd2ld2Mnafu05umUK5cr" version="24.3.1" type="github">
   <diagram name="Page-1" id="Bd6B7apusBZdPcca5PaD">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WoLx_iheCdo12na1x13e-2" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;HIGH LEVEL OVERVIEW&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" y="70" width="860" height="260" as="geometry" />
+        </mxCell>
         <mxCell id="sGgnkbuNSxI2wGrAtEvW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=37.75;exitPerimeter=0;curved=0;" parent="1" source="sGgnkbuNSxI2wGrAtEvW-2" target="sGgnkbuNSxI2wGrAtEvW-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -12,7 +15,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sGgnkbuNSxI2wGrAtEvW-8" value="&lt;ul&gt;&lt;li&gt;JOB DETAILS&lt;/li&gt;&lt;li&gt;JOB REQUISITION DETAILS&lt;/li&gt;&lt;li&gt;POSITION DETAILS&lt;/li&gt;&lt;/ul&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFFFCC;" parent="sGgnkbuNSxI2wGrAtEvW-5" vertex="1" connectable="0">
+        <mxCell id="sGgnkbuNSxI2wGrAtEvW-8" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(255, 255, 153);&quot;&gt;JOB DETAILS&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(255, 255, 153);&quot;&gt;JOB REQUISITION DETAILS&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(255, 255, 153);&quot;&gt;POSITION DETAILS&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=default;" parent="sGgnkbuNSxI2wGrAtEvW-5" vertex="1" connectable="0">
           <mxGeometry x="-0.5265" y="1" relative="1" as="geometry">
             <mxPoint x="-6" y="-3" as="offset" />
           </mxGeometry>
@@ -31,9 +34,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sGgnkbuNSxI2wGrAtEvW-9" value="&lt;span style=&quot;background-color: rgb(230, 255, 204);&quot;&gt;HIRED CANDIDATE DETAILS&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sGgnkbuNSxI2wGrAtEvW-6" vertex="1" connectable="0">
+        <mxCell id="sGgnkbuNSxI2wGrAtEvW-9" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(230, 255, 204);&quot;&gt;HIRED CANDIDATE DETAILS&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(230, 255, 204);&quot;&gt;INITIATE HIRE PROCESS&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="sGgnkbuNSxI2wGrAtEvW-6" vertex="1" connectable="0">
           <mxGeometry x="0.1918" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-98" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sGgnkbuNSxI2wGrAtEvW-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://assets-global.website-files.com/619b58064e44df5bdf1b3e53/626be660277f2dca8b74025e_ashby.png;" parent="1" vertex="1">
@@ -167,9 +170,6 @@
             <mxPoint x="1300" y="1000" as="sourcePoint" />
             <mxPoint x="1210" y="840" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="WoLx_iheCdo12na1x13e-2" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;HIGH LEVEL OVERVIEW&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="860" y="70" width="860" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
