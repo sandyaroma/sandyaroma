@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T07:28:17.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="yGbgpbV7N8qGnMeoYsR7" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T07:28:52.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="q4GXNW7lecrc9OIEo8kd" version="24.3.1" type="github">
   <diagram name="Page-1" id="Bd6B7apusBZdPcca5PaD">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="sGgnkbuNSxI2wGrAtEvW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=37.75;exitPerimeter=0;curved=0;" parent="1" source="sGgnkbuNSxI2wGrAtEvW-2" target="sGgnkbuNSxI2wGrAtEvW-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1380" y="370" />
-              <mxPoint x="1380" y="370" />
+              <mxPoint x="1410" y="207.5" />
+              <mxPoint x="1410" y="207.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -18,16 +18,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sGgnkbuNSxI2wGrAtEvW-2" value="&lt;div&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;div&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;Workday&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#4d4d4d&quot;&gt;HCM &amp;amp; FINANCE&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="850" y="332.5" width="150" height="121" as="geometry" />
+          <mxGeometry x="880" y="170" width="150" height="121" as="geometry" />
         </mxCell>
         <mxCell id="sGgnkbuNSxI2wGrAtEvW-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Workday_Logo.png/1280px-Workday_Logo.png;" parent="1" vertex="1">
-          <mxGeometry x="880" y="368.5" width="90" height="34.95" as="geometry" />
+          <mxGeometry x="910" y="206" width="90" height="34.95" as="geometry" />
         </mxCell>
         <mxCell id="sGgnkbuNSxI2wGrAtEvW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;curved=0;" parent="1" source="sGgnkbuNSxI2wGrAtEvW-4" target="sGgnkbuNSxI2wGrAtEvW-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1340" y="420" />
-              <mxPoint x="1340" y="420" />
+              <mxPoint x="1370" y="257.5" />
+              <mxPoint x="1370" y="257.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sGgnkbuNSxI2wGrAtEvW-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://assets-global.website-files.com/619b58064e44df5bdf1b3e53/626be660277f2dca8b74025e_ashby.png;" parent="1" vertex="1">
-          <mxGeometry x="1490" y="366" width="162.65" height="54" as="geometry" />
+          <mxGeometry x="1520" y="203.5" width="162.65" height="54" as="geometry" />
         </mxCell>
         <mxCell id="sGgnkbuNSxI2wGrAtEvW-10" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="690" y="374" width="60" height="80" as="geometry" />
@@ -167,6 +167,9 @@
             <mxPoint x="1300" y="1000" as="sourcePoint" />
             <mxPoint x="1210" y="840" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WoLx_iheCdo12na1x13e-2" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;HIGH LEVEL OVERVIEW&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#004c99&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" y="70" width="860" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
