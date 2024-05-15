@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T07:45:52.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="cihvVsI2fSmoTMW8M0cm" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T10:52:18.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="EkjW7fNWBulE9-3G4jTz" version="24.3.1" type="github">
   <diagram name="Page-1" id="Bd6B7apusBZdPcca5PaD">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,42 +63,39 @@
         <mxCell id="sGgnkbuNSxI2wGrAtEvW-12" value="CREATE POSITION" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#666666;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
           <mxGeometry x="850" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sGgnkbuNSxI2wGrAtEvW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=52.5;exitPerimeter=0;curved=0;" parent="1" source="sGgnkbuNSxI2wGrAtEvW-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1240" y="607" />
-              <mxPoint x="1240" y="760" />
-            </Array>
-            <mxPoint x="970" y="760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sGgnkbuNSxI2wGrAtEvW-23" value="CANDIDATE TO APPLICANT&lt;div&gt;APPLICANT ID&amp;nbsp; A0001&lt;/div&gt;&lt;div&gt;APPLICANT ID A0002&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sGgnkbuNSxI2wGrAtEvW-22" vertex="1" connectable="0">
-          <mxGeometry x="0.5559" y="3" relative="1" as="geometry">
-            <mxPoint x="3" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sGgnkbuNSxI2wGrAtEvW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;fillColor=#d80073;strokeColor=#A50040;dashed=1;" parent="1" source="sGgnkbuNSxI2wGrAtEvW-13" target="sGgnkbuNSxI2wGrAtEvW-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1700" y="670" />
-              <mxPoint x="1260" y="670" />
+              <mxPoint x="1700" y="760" />
+              <mxPoint x="1260" y="760" />
               <mxPoint x="1260" y="830" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sGgnkbuNSxI2wGrAtEvW-26" value="CANDIDATE TO APPLICANT&lt;div&gt;APPLICANT ID&amp;nbsp; A0001&lt;/div&gt;&lt;div&gt;APPLICANT ID A0002&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="sGgnkbuNSxI2wGrAtEvW-25" vertex="1" connectable="0">
-          <mxGeometry x="0.6088" y="2" relative="1" as="geometry">
-            <mxPoint x="11" y="18" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-kK4m6FzKf8vr2_1_iYm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=52.5;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;curved=0;" parent="1" source="sGgnkbuNSxI2wGrAtEvW-13" target="-kK4m6FzKf8vr2_1_iYm-7" edge="1">
+        <mxCell id="WoLx_iheCdo12na1x13e-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="sGgnkbuNSxI2wGrAtEvW-13" target="-kK4m6FzKf8vr2_1_iYm-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1500" y="607" />
-              <mxPoint x="1500" y="600" />
-              <mxPoint x="1230" y="600" />
-              <mxPoint x="1230" y="658" />
+              <mxPoint x="1240" y="580" />
+              <mxPoint x="1240" y="695" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WoLx_iheCdo12na1x13e-10" value="CANDIDATE TO APPLICANT&lt;div&gt;APPLICANT ID&amp;nbsp; A0001&lt;/div&gt;&lt;div&gt;APPLICANT ID A0002&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WoLx_iheCdo12na1x13e-9">
+          <mxGeometry x="0.4931" y="1" relative="1" as="geometry">
+            <mxPoint x="-29" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WoLx_iheCdo12na1x13e-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="sGgnkbuNSxI2wGrAtEvW-13" target="sGgnkbuNSxI2wGrAtEvW-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1260" y="590" />
+              <mxPoint x="1260" y="755" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WoLx_iheCdo12na1x13e-12" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;INITIATE Hire Process&lt;/font&gt;&lt;/b&gt;&lt;div&gt;Into Position P0001&lt;/div&gt;&lt;div&gt;With Applicant A0001&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WoLx_iheCdo12na1x13e-11">
+          <mxGeometry x="0.5756" y="3" relative="1" as="geometry">
+            <mxPoint x="-69" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sGgnkbuNSxI2wGrAtEvW-13" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;ASHBY&lt;/b&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#000066;strokeColor=#E6E6E6;" parent="1" vertex="1">
@@ -123,42 +120,42 @@
           <mxGeometry x="850" y="900" width="190" height="190" as="geometry" />
         </mxCell>
         <mxCell id="-kK4m6FzKf8vr2_1_iYm-1" value="&lt;b&gt;1&lt;/b&gt;. What about relevant master data of Workday to be synched with Ashby ?" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFCC;" parent="1" vertex="1">
-          <mxGeometry x="1530" y="780" width="530" height="30" as="geometry" />
+          <mxGeometry x="1550" y="915" width="530" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-kK4m6FzKf8vr2_1_iYm-3" value="&lt;b&gt;2&lt;/b&gt;. What about applicant data, when someone applies, that needs to be able to create an applicant in Workday. So that, upon final successful hire, ASHBY can send back the information to Workday to use that Applicant ID" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFCC;" parent="1" vertex="1">
-          <mxGeometry x="1530" y="830" width="470" height="30" as="geometry" />
+          <mxGeometry x="1550" y="965" width="470" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-kK4m6FzKf8vr2_1_iYm-4" value="&lt;b&gt;3&lt;/b&gt;. When someone is re-hired, how is that handled on ASHBY side ? Do we re-use applicant or new applicant is created ? In Workday, there is a duplicate candidate management in place, which will fail to create a new Applicant for Re-Hire for already existing candidates, or create a duplicate Candidate with same name/details which will increase the duplicate data in the system" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFCC;" parent="1" vertex="1">
-          <mxGeometry x="1530" y="890" width="530" height="50" as="geometry" />
+          <mxGeometry x="1550" y="1025" width="530" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-kK4m6FzKf8vr2_1_iYm-5" value="&lt;b&gt;&lt;font&gt;OPEN POINTS&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0080;" parent="1" vertex="1">
-          <mxGeometry x="1530" y="740" width="120" height="30" as="geometry" />
+          <mxGeometry x="1550" y="875" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-kK4m6FzKf8vr2_1_iYm-6" value="&lt;b&gt;4&lt;/b&gt;. Are you going to create Job Requisitions" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFCC;" parent="1" vertex="1">
-          <mxGeometry x="1530" y="950" width="530" height="30" as="geometry" />
+          <mxGeometry x="1550" y="1085" width="530" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-kK4m6FzKf8vr2_1_iYm-7" value="CREATE&amp;nbsp;&lt;div&gt;PRE-HIRE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#666666;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
-          <mxGeometry x="980" y="650" width="90" height="30" as="geometry" />
+          <mxGeometry x="860" y="680" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TAGOzcTgk1_u3gQwK66Q-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;1&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="975" y="510" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TAGOzcTgk1_u3gQwK66Q-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;3&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="660" width="30" height="30" as="geometry" />
+        <mxCell id="TAGOzcTgk1_u3gQwK66Q-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;2&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="634" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TAGOzcTgk1_u3gQwK66Q-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;4a&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
-          <mxGeometry x="970" y="720" width="30" height="30" as="geometry" />
+          <mxGeometry x="1100" y="960" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TAGOzcTgk1_u3gQwK66Q-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;4b&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
-          <mxGeometry x="970" y="790" width="30" height="30" as="geometry" />
+        <mxCell id="TAGOzcTgk1_u3gQwK66Q-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;2a&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="720" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TAGOzcTgk1_u3gQwK66Q-7" value="Hiring Employee and Contract Contingent Worker are two separate business processes in Workday" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF99;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="1010" width="230" height="40" as="geometry" />
+        <mxCell id="TAGOzcTgk1_u3gQwK66Q-7" value="Hiring Employee and Contract Contingent Worker are two separate business processes in Workday" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFCC;" parent="1" vertex="1">
+          <mxGeometry x="1230" y="940" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TAGOzcTgk1_u3gQwK66Q-8" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeColor=#000099;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1300" y="1000" as="sourcePoint" />
-            <mxPoint x="1210" y="840" as="targetPoint" />
+            <mxPoint x="1250" y="930" as="sourcePoint" />
+            <mxPoint x="1210" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WoLx_iheCdo12na1x13e-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
@@ -172,6 +169,12 @@
         </mxCell>
         <mxCell id="WoLx_iheCdo12na1x13e-7" value="WD Inbound Flows" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1100" y="440" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WoLx_iheCdo12na1x13e-13" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;INITIATE Contract CW Process&lt;/font&gt;&lt;/b&gt;&lt;div&gt;Into Position P0002&lt;/div&gt;&lt;div&gt;With Applicant A0002&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1070" y="825" as="geometry" />
+        </mxCell>
+        <mxCell id="WoLx_iheCdo12na1x13e-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;2b&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="790" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
