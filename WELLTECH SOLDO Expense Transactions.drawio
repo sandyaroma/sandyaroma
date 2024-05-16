@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T12:25:54.889Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="VhGudYjEPEKH92xd5QIU" version="24.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T12:26:48.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="YRWwEgauZt5gIa7Tm55V" version="24.4.2" type="github">
   <diagram name="Page-1" id="EkX973uBJ4-KdEPocawQ">
     <mxGraphModel dx="933" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -208,7 +208,7 @@
           <mxGeometry x="1217.84" y="500" width="204" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P_hy-4vDI4_0ugaQQoCa-2" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;PART 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#E6E6E6;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="940" y="120" width="980" height="50" as="geometry" />
+          <mxGeometry x="1000" y="130" width="1390" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P_hy-4vDI4_0ugaQQoCa-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="Z3CIhW--AYaIX7dbCHq--2" target="P_hy-4vDI4_0ugaQQoCa-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -262,7 +262,10 @@
           <mxGeometry x="1045.8400000000001" y="1880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z3CIhW--AYaIX7dbCHq--8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;OPEN Question&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Welltech needs to finalize if we are going to use Soldo transactions as Bank statement to import, so that technical design can be finalized&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fde2f0;" vertex="1" parent="1">
-          <mxGeometry x="2090" y="1183.01" width="340" height="155" as="geometry" />
+          <mxGeometry x="2090" y="1132.5" width="340" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3CIhW--AYaIX7dbCHq--9" value="SUPPLIER 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1447.63" y="1270" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
