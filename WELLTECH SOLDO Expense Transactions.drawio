@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T11:53:20.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="yeWHYC-P8IOo7uuqJuhi" version="24.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T11:54:21.506Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="own8v245lfZvipjfnWm6" version="24.4.2" type="github">
   <diagram name="Page-1" id="EkX973uBJ4-KdEPocawQ">
-    <mxGraphModel dx="933" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1524" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -247,7 +247,16 @@
           <mxGeometry x="1526.75" y="1041.01" width="73.25" height="81.5" as="geometry" />
         </mxCell>
         <mxCell id="Z3CIhW--AYaIX7dbCHq--4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;OPTION 2 is Chosen&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Finalized that option 2 from SOLDO will be used for first part of the problem related to Personal expenses transaction import to Workday&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="2090" y="670" width="310" height="140" as="geometry" />
+          <mxGeometry x="2090" y="690" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3CIhW--AYaIX7dbCHq--5" value="SPEND AUTHORIZATION" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1061.8400000000001" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3CIhW--AYaIX7dbCHq--6" value="TRANSPARENCY OF LIABILITIES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1061.8400000000001" y="1577" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3CIhW--AYaIX7dbCHq--7" value="BUILD OPTIMUM INTEGRATION" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1061.8400000000001" y="1660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
