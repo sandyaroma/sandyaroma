@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T11:49:56.366Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="s0tIzcuTbH8UVNSh0FVX" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T11:50:16.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="sea4p-lkqMbjxj--iXaa" version="24.4.13" type="github">
   <diagram name="Page-1" id="urkx2GCFTh1Wn2LajPYX">
     <mxGraphModel dx="2163" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -330,7 +330,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DR1CiuGTEdjem9Oyi44S-34" value="Also Entry&amp;nbsp;&lt;div&gt;POSTED on&lt;div&gt;&lt;b&gt;IFRS Book&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#FFFFCC;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="DR1CiuGTEdjem9Oyi44S-34" value="Also accounting Entry&amp;nbsp;&lt;div&gt;POSTED on&lt;div&gt;&lt;b&gt;IFRS Book&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#FFFFCC;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="435" y="600" width="125" height="65" as="geometry" />
         </mxCell>
         <mxCell id="DR1CiuGTEdjem9Oyi44S-35" value="&lt;b&gt;Currency Type&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &lt;font color=&quot;#ff0080&quot;&gt;Current&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
