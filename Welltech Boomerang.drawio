@@ -1,22 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T11:19:56.691Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="oBcxdLzbekBjt23Rx2pV" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T11:44:48.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="RqVDS9UmxmZWQr0PvUAN" version="24.4.13" type="github">
   <diagram name="Page-1" id="urkx2GCFTh1Wn2LajPYX">
     <mxGraphModel dx="2163" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CRJRhA5DTS-HAMLqjQhr-36" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;BOOMERANG 1 (POLAND)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#f1e4ec;gradientColor=none;strokeColor=#996185;opacity=35;" parent="1" vertex="1">
-          <mxGeometry x="274.81" y="475" width="520" height="350" as="geometry" />
+          <mxGeometry x="274.81" y="480" width="520" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="f4Wcd7JCQF0BEz7dkmF--16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;curved=0;" parent="1" source="f4Wcd7JCQF0BEz7dkmF--1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="479.81" y="599.9999999999995" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="DR1CiuGTEdjem9Oyi44S-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f4Wcd7JCQF0BEz7dkmF--1" target="DR1CiuGTEdjem9Oyi44S-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f4Wcd7JCQF0BEz7dkmF--1" value="&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp;WORKDAY&lt;/span&gt;&lt;span style=&quot;background-color: initial; white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF9933;strokeColor=#E6E6E6;align=center;" parent="1" vertex="1">
           <mxGeometry x="429.9" y="390" width="130.1" height="80" as="geometry" />
         </mxCell>
         <mxCell id="f4Wcd7JCQF0BEz7dkmF--5" value="JOURNAL ENTRIES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="309.81" y="375" width="60" height="30" as="geometry" />
+          <mxGeometry x="300" y="330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f4Wcd7JCQF0BEz7dkmF--6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=-0.05;exitY=0.508;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.442;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CRJRhA5DTS-HAMLqjQhr-33" target="1wV1mlJiJO2CKVd5m1LT-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -64,33 +62,25 @@
             <mxPoint x="-26" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f4Wcd7JCQF0BEz7dkmF--12" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#000099;" parent="1" edge="1">
+        <mxCell id="f4Wcd7JCQF0BEz7dkmF--12" value="" style="endArrow=blockThin;html=1;rounded=0;strokeWidth=6;strokeColor=#808080;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="139.81" y="435" as="sourcePoint" />
+            <mxPoint x="270" y="435" as="sourcePoint" />
             <mxPoint x="429.81" y="434.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f4Wcd7JCQF0BEz7dkmF--13" value="ANY TRANSACTION&lt;div&gt;WITH DIFF CURRENCY&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="f4Wcd7JCQF0BEz7dkmF--12" vertex="1" connectable="0">
+        <mxCell id="f4Wcd7JCQF0BEz7dkmF--13" value="ANY TRANSACTION&lt;div&gt;WITH DIFF CURRENCY THAN &lt;b&gt;PLN&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="f4Wcd7JCQF0BEz7dkmF--12" vertex="1" connectable="0">
           <mxGeometry x="0.0762" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
+            <mxPoint x="-166" y="25" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f4Wcd7JCQF0BEz7dkmF--18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" parent="1" source="f4Wcd7JCQF0BEz7dkmF--15" target="f4Wcd7JCQF0BEz7dkmF--17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f4Wcd7JCQF0BEz7dkmF--15" value="ALL ACCOUNTING ENTRIES&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;RATE CALCULATED BY WORKDAY&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#FFFFCC;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="422.31" y="560" width="125" height="70" as="geometry" />
+          <mxGeometry x="250" y="1000.5" width="125" height="70" as="geometry" />
         </mxCell>
         <mxCell id="f4Wcd7JCQF0BEz7dkmF--17" value="CHECK AGAINST POLISH BANK CURRENCY XCHANGE" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="524.81" y="665" width="130" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="f4Wcd7JCQF0BEz7dkmF--19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=-15;entryPerimeter=0;curved=0;" parent="1" source="f4Wcd7JCQF0BEz7dkmF--17" target="f4Wcd7JCQF0BEz7dkmF--1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="f4Wcd7JCQF0BEz7dkmF--20" value="UPDATE BACK THE&amp;nbsp;&lt;div&gt;ACCOUNTING CURR RATES WITH MODIFIED DATA&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFFFCC;" parent="f4Wcd7JCQF0BEz7dkmF--19" vertex="1" connectable="0">
-          <mxGeometry x="-0.1733" y="3" relative="1" as="geometry">
-            <mxPoint x="38" y="-26" as="offset" />
-          </mxGeometry>
+          <mxGeometry x="484.99999999999994" y="983" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CRJRhA5DTS-HAMLqjQhr-5" value="Used for the GROUP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
           <mxGeometry x="923.81" y="186.67" width="130" height="30" as="geometry" />
@@ -317,11 +307,11 @@
             <mxPoint x="259.81" y="565" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DR1CiuGTEdjem9Oyi44S-25" value="&lt;b&gt;Currency Type&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &lt;font color=&quot;#ff0080&quot;&gt;Current&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="289.80999999999995" y="460" width="100" height="30" as="geometry" />
+        <mxCell id="DR1CiuGTEdjem9Oyi44S-25" value="&lt;b&gt;Currency Type&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0080&quot;&gt;&lt;b&gt;Current (Polish Day - 1)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="279" y="535" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DR1CiuGTEdjem9Oyi44S-26" value="&lt;b&gt;Currency Type&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &lt;font color=&quot;#ff0080&quot;&gt;Current (Polish National Bank Rates)&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="478" y="752.5" width="220" height="30" as="geometry" />
+          <mxGeometry x="438.19" y="1070.5" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DR1CiuGTEdjem9Oyi44S-27" value="&lt;b&gt;Daily Import&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480.99" y="-170" width="135.99" height="30" as="geometry" />
@@ -334,6 +324,33 @@
         </mxCell>
         <mxCell id="DR1CiuGTEdjem9Oyi44S-30" value="&lt;b&gt;Daily Import&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="492.67" y="116.67" width="135.99" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DR1CiuGTEdjem9Oyi44S-31" value="{ Supplier invoice }&lt;div&gt;{ Supplier invoice Payment }&lt;/div&gt;&lt;div&gt;{ Customer invoice }&lt;br&gt;&lt;/div&gt;&lt;div&gt;{ Customer invoice payment}&lt;br&gt;&lt;/div&gt;&lt;div&gt;...........&lt;/div&gt;&lt;div&gt;.............&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="390" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DR1CiuGTEdjem9Oyi44S-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DR1CiuGTEdjem9Oyi44S-32" target="DR1CiuGTEdjem9Oyi44S-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DR1CiuGTEdjem9Oyi44S-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DR1CiuGTEdjem9Oyi44S-32" target="DR1CiuGTEdjem9Oyi44S-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DR1CiuGTEdjem9Oyi44S-32" value="Accounting Entry POSTED on&lt;div&gt;&lt;b&gt;Local GAAP Book&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#FFFFCC;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="432.31" y="505" width="125" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="DR1CiuGTEdjem9Oyi44S-34" value="Also Entry&amp;nbsp;&lt;div&gt;POSTED on&lt;div&gt;&lt;b&gt;IFRS Book&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#FFFFCC;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="435" y="600" width="125" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="DR1CiuGTEdjem9Oyi44S-35" value="&lt;b&gt;Currency Type&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp; &lt;font color=&quot;#ff0080&quot;&gt;Current&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="935.8699999999999" y="760" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DR1CiuGTEdjem9Oyi44S-36" value="&lt;b&gt;Currency Type&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0080&quot;&gt;&lt;b&gt;Current (Polish Day - 1)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="281.06" y="633" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DR1CiuGTEdjem9Oyi44S-38" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#CCFFCC;" vertex="1" parent="1">
+          <mxGeometry x="544.25" y="730" width="130" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DR1CiuGTEdjem9Oyi44S-39" value="Post Entry&amp;nbsp;&lt;div&gt;on&lt;div&gt;&lt;b&gt;IFRS Adjustment Book&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#FFFFCC;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="644.25" y="598" width="133.19" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
