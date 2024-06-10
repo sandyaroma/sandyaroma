@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T11:44:48.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="RqVDS9UmxmZWQr0PvUAN" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T11:45:11.666Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="4-w3yBuzPg71KtMYUeVy" version="24.4.13" type="github">
   <diagram name="Page-1" id="urkx2GCFTh1Wn2LajPYX">
     <mxGraphModel dx="2163" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -337,6 +337,9 @@
         <mxCell id="DR1CiuGTEdjem9Oyi44S-32" value="Accounting Entry POSTED on&lt;div&gt;&lt;b&gt;Local GAAP Book&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#FFFFCC;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="432.31" y="505" width="125" height="65" as="geometry" />
         </mxCell>
+        <mxCell id="DR1CiuGTEdjem9Oyi44S-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DR1CiuGTEdjem9Oyi44S-34" target="DR1CiuGTEdjem9Oyi44S-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DR1CiuGTEdjem9Oyi44S-34" value="Also Entry&amp;nbsp;&lt;div&gt;POSTED on&lt;div&gt;&lt;b&gt;IFRS Book&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#FFFFCC;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="435" y="600" width="125" height="65" as="geometry" />
         </mxCell>
@@ -346,8 +349,15 @@
         <mxCell id="DR1CiuGTEdjem9Oyi44S-36" value="&lt;b&gt;Currency Type&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0080&quot;&gt;&lt;b&gt;Current (Polish Day - 1)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="281.06" y="633" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="DR1CiuGTEdjem9Oyi44S-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DR1CiuGTEdjem9Oyi44S-38" target="DR1CiuGTEdjem9Oyi44S-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="711" y="754" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DR1CiuGTEdjem9Oyi44S-38" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#CCFFCC;" vertex="1" parent="1">
-          <mxGeometry x="544.25" y="730" width="130" height="47.5" as="geometry" />
+          <mxGeometry x="540" y="720" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DR1CiuGTEdjem9Oyi44S-39" value="Post Entry&amp;nbsp;&lt;div&gt;on&lt;div&gt;&lt;b&gt;IFRS Adjustment Book&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#FFFFCC;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="644.25" y="598" width="133.19" height="65" as="geometry" />
