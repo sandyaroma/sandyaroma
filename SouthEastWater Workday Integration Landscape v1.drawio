@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T11:35:43.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="JpG7WhiWriwvY_YtGWnT" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T11:37:46.737Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="NLUyyhuZF5xZIVSVXCYq" version="24.6.2" type="github">
   <diagram name="Page-1" id="r__zFNlrKhQIh8nUa84n">
     <mxGraphModel dx="3311" dy="2008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -227,7 +227,7 @@
         <mxCell id="LXhwEYFynrwZ-pUap6Co-72" value="Genesys" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-490" y="-650" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LXhwEYFynrwZ-pUap6Co-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="LXhwEYFynrwZ-pUap6Co-10" target="LXhwEYFynrwZ-pUap6Co-71">
+        <mxCell id="LXhwEYFynrwZ-pUap6Co-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="LXhwEYFynrwZ-pUap6Co-10" target="LXhwEYFynrwZ-pUap6Co-71">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-860" y="-505" />
@@ -235,11 +235,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="LXhwEYFynrwZ-pUap6Co-77" value="Payroll Inputs" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LXhwEYFynrwZ-pUap6Co-73">
+          <mxGeometry x="0.4127" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-74" value="TIme Entry" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-630" y="-540" width="230" height="30" as="geometry" />
+          <mxGeometry x="-630" y="-530" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-75" value="Operational Activities" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-630" y="-570" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LXhwEYFynrwZ-pUap6Co-76" value="Overtime recording" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="-560" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LXhwEYFynrwZ-pUap6Co-78" value="Absence &amp;amp; Workshifts" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-507" y="-570" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
