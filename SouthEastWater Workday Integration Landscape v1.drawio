@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T11:37:46.737Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="NLUyyhuZF5xZIVSVXCYq" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T17:19:56.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="OC4o_P0njiCqa33At9aO" version="24.6.2" type="github">
   <diagram name="Page-1" id="r__zFNlrKhQIh8nUa84n">
     <mxGraphModel dx="3311" dy="2008" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -18,24 +18,24 @@
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-5" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#007FFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1550" y="-790" as="sourcePoint" />
+            <mxPoint x="-1640" y="-790" as="sourcePoint" />
             <mxPoint x="-1345" y="-790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LXhwEYFynrwZ-pUap6Co-6" value="Workday Integrations" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LXhwEYFynrwZ-pUap6Co-5">
+        <mxCell id="LXhwEYFynrwZ-pUap6Co-6" value="WD INTEGRATION IN SCOPE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LXhwEYFynrwZ-pUap6Co-5">
           <mxGeometry x="-0.0805" y="5" relative="1" as="geometry">
-            <mxPoint x="-2" y="5" as="offset" />
+            <mxPoint x="-2" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-7" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1550" y="-760" as="sourcePoint" />
-            <mxPoint x="-1345" y="-760" as="targetPoint" />
+            <mxPoint x="-1632" y="-725" as="sourcePoint" />
+            <mxPoint x="-1347" y="-725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LXhwEYFynrwZ-pUap6Co-8" value="Manual Process" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LXhwEYFynrwZ-pUap6Co-7">
+        <mxCell id="LXhwEYFynrwZ-pUap6Co-8" value="NON WD INTEGRATION / PROCESS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LXhwEYFynrwZ-pUap6Co-7">
           <mxGeometry x="-0.0805" y="5" relative="1" as="geometry">
-            <mxPoint x="-2" y="5" as="offset" />
+            <mxPoint x="-2" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.syrinix.com/wp-content/uploads/2021/12/rsz_1south-east-water-logo.jpg;" vertex="1" parent="1">
@@ -89,7 +89,7 @@
         <mxCell id="LXhwEYFynrwZ-pUap6Co-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#007FFF;" edge="1" parent="1" source="LXhwEYFynrwZ-pUap6Co-63" target="LXhwEYFynrwZ-pUap6Co-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LXhwEYFynrwZ-pUap6Co-58" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=97.5;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="LXhwEYFynrwZ-pUap6Co-10" target="LXhwEYFynrwZ-pUap6Co-57">
+        <mxCell id="LXhwEYFynrwZ-pUap6Co-58" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=97.5;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeColor=#007FFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="LXhwEYFynrwZ-pUap6Co-10" target="LXhwEYFynrwZ-pUap6Co-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;HCM, Recruiting&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;UK Payroll&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#FFFFFF;shadow=1;" vertex="1" parent="1">
@@ -107,7 +107,7 @@
         <mxCell id="LXhwEYFynrwZ-pUap6Co-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-10-128.png;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-1176" y="-765" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LXhwEYFynrwZ-pUap6Co-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;strokeColor=#007FFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="LXhwEYFynrwZ-pUap6Co-10" target="LXhwEYFynrwZ-pUap6Co-21">
+        <mxCell id="LXhwEYFynrwZ-pUap6Co-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;strokeColor=#007FFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;dashed=1;" edge="1" parent="1" source="LXhwEYFynrwZ-pUap6Co-10" target="LXhwEYFynrwZ-pUap6Co-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-999" y="-491" as="sourcePoint" />
             <mxPoint x="-1080" y="-710" as="targetPoint" />
@@ -251,6 +251,20 @@
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-78" value="Absence &amp;amp; Workshifts" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-507" y="-570" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LXhwEYFynrwZ-pUap6Co-79" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2420/512/Zoom-128.png" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="-754" width="39" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="LXhwEYFynrwZ-pUap6Co-80" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeColor=#007FFF;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1640" y="-760" as="sourcePoint" />
+            <mxPoint x="-1345" y="-760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LXhwEYFynrwZ-pUap6Co-81" value="WD INTEGRATION NOT CONFIRMED" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LXhwEYFynrwZ-pUap6Co-80">
+          <mxGeometry x="-0.0805" y="5" relative="1" as="geometry">
+            <mxPoint x="6" y="15" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
