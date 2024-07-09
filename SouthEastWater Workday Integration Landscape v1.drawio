@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-09T11:17:48.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="udGnvypgRcn4fOSlN9ZW" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-09T11:18:02.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_Z8f90j3Tj9qtZ9Ks82i" version="24.6.4" type="github">
   <diagram name="Page-1" id="r__zFNlrKhQIh8nUa84n">
     <mxGraphModel dx="3134" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -246,7 +246,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LXhwEYFynrwZ-pUap6Co-67" value="Work Schedules" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" parent="1" vertex="1">
+        <mxCell id="LXhwEYFynrwZ-pUap6Co-67" value="Work Schedules" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-800" y="-422.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.698;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=#007FFF;" parent="1" source="LXhwEYFynrwZ-pUap6Co-68" target="LXhwEYFynrwZ-pUap6Co-10" edge="1">
@@ -261,7 +261,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LXhwEYFynrwZ-pUap6Co-68" value="Work Shifts" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" parent="1" vertex="1">
+        <mxCell id="LXhwEYFynrwZ-pUap6Co-68" value="Work Shifts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-830" y="-360" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-71" value="MaxiMo" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
