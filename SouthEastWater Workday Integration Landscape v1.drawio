@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-15T12:54:16.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="t8Fb7u8u_im3D31Z2ibA" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-15T12:54:48.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="UgnOQUSvlGwdHx_kcIgt" version="24.6.4" type="github">
   <diagram name="Page-1" id="r__zFNlrKhQIh8nUa84n">
     <mxGraphModel dx="3134" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -350,6 +350,15 @@
         </mxCell>
         <mxCell id="IddoA99KZuMBQ-tLbZDF-5" value="" style="image;html=1;image=img/lib/atlassian/Jira_Logo.svg;" vertex="1" parent="1">
           <mxGeometry x="-1241" y="-760" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IddoA99KZuMBQ-tLbZDF-9" value="&lt;b&gt;JIRA&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1242.38" y="-790" width="51" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IddoA99KZuMBQ-tLbZDF-10" value="&lt;b&gt;ZOOM&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1176" y="-790" width="51" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IddoA99KZuMBQ-tLbZDF-11" value="&lt;b&gt;OUTLOOK&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1110" y="-790" width="51" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
