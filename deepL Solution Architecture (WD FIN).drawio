@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-24T08:52:23.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="hGUWWe10a1fMYDOvfU9u" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-24T08:52:45.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ecKZvARXiXkrAKNqypCA" version="24.7.1" type="github">
   <diagram name="Page-1" id="7GosmMCsgXpjUY8NTixO">
     <mxGraphModel dx="2284" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -66,11 +66,11 @@
         <mxCell id="NJAbVdKSBZSFdySimoUK-22" value="&lt;font color=&quot;#e6e6e6&quot; style=&quot;font-size: 28px;&quot;&gt;DRAFT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;DRAFT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;DRAFT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;DRAFT&amp;nbsp; &amp;nbsp; &amp;nbsp; DRAFT&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="-49.77" y="180.86" width="874.02" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NJAbVdKSBZSFdySimoUK-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NJAbVdKSBZSFdySimoUK-22" target="NJAbVdKSBZSFdySimoUK-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="NJAbVdKSBZSFdySimoUK-24" value="&lt;font color=&quot;#e6e6e6&quot; style=&quot;font-size: 28px;&quot;&gt;DRAFT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;DRAFT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;DRAFT&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;DRAFT&amp;nbsp; &amp;nbsp; &amp;nbsp; DRAFT&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-30;" vertex="1" parent="1">
           <mxGeometry x="53.97" y="387.5" width="907.46" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NJAbVdKSBZSFdySimoUK-25" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Person.svg;" vertex="1" parent="1">
+          <mxGeometry x="705.95" y="417.5" width="24.05" height="32.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
