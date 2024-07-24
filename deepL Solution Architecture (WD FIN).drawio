@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-24T08:49:38.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="iMXbPUk1ERIspL2C91Yx" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-24T08:49:47.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Ew9KrJbPa7Qe946tyP08" version="24.7.1" type="github">
   <diagram name="Page-1" id="7GosmMCsgXpjUY8NTixO">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,7 +9,7 @@
             <mxPoint x="450" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NJAbVdKSBZSFdySimoUK-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.186;exitDx=0;exitDy=0;exitPerimeter=0;curved=0;" edge="1" parent="1" source="NJAbVdKSBZSFdySimoUK-6" target="NJAbVdKSBZSFdySimoUK-18">
+        <mxCell id="NJAbVdKSBZSFdySimoUK-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.186;exitDx=0;exitDy=0;exitPerimeter=0;curved=0;strokeWidth=2;" edge="1" parent="1" source="NJAbVdKSBZSFdySimoUK-6" target="NJAbVdKSBZSFdySimoUK-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NJAbVdKSBZSFdySimoUK-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FEFCFB;fontColor=#000000;strokeColor=#BD7000;shadow=1;" vertex="1" parent="1">
@@ -54,7 +54,7 @@
         <mxCell id="NJAbVdKSBZSFdySimoUK-13" value="Supplier Payments&lt;div&gt;Integration&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="532" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NJAbVdKSBZSFdySimoUK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="NJAbVdKSBZSFdySimoUK-18" target="NJAbVdKSBZSFdySimoUK-6">
+        <mxCell id="NJAbVdKSBZSFdySimoUK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=2;" edge="1" parent="1" source="NJAbVdKSBZSFdySimoUK-18" target="NJAbVdKSBZSFdySimoUK-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NJAbVdKSBZSFdySimoUK-18" value="&lt;font color=&quot;#ffffff&quot;&gt;LCS&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;Current supplier management&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;shadow=1;" vertex="1" parent="1">
