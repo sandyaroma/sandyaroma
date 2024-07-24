@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-07-24T08:49:47.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Ew9KrJbPa7Qe946tyP08" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-24T08:49:57.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="vfvy_Z6ICzl03vtNT250" version="24.7.1" type="github">
   <diagram name="Page-1" id="7GosmMCsgXpjUY8NTixO">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NJAbVdKSBZSFdySimoUK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=1;" edge="1" parent="1" source="NJAbVdKSBZSFdySimoUK-6">
+        <mxCell id="NJAbVdKSBZSFdySimoUK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;shadow=1;strokeWidth=2;" edge="1" parent="1" source="NJAbVdKSBZSFdySimoUK-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="530" as="targetPoint" />
           </mxGeometry>
@@ -15,7 +15,7 @@
         <mxCell id="NJAbVdKSBZSFdySimoUK-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FEFCFB;fontColor=#000000;strokeColor=#BD7000;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="280" width="260" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="NJAbVdKSBZSFdySimoUK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;" edge="1" parent="1" source="NJAbVdKSBZSFdySimoUK-1">
+        <mxCell id="NJAbVdKSBZSFdySimoUK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;strokeWidth=2;" edge="1" parent="1" source="NJAbVdKSBZSFdySimoUK-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="345" as="targetPoint" />
           </mxGeometry>
@@ -45,7 +45,7 @@
         <mxCell id="NJAbVdKSBZSFdySimoUK-10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Supplier Master Data in WD&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeWidth=0;fillColor=#FFF2CC;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="491.82" y="350" width="75.36" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NJAbVdKSBZSFdySimoUK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;shadow=1;" edge="1" parent="1" source="NJAbVdKSBZSFdySimoUK-11" target="NJAbVdKSBZSFdySimoUK-10">
+        <mxCell id="NJAbVdKSBZSFdySimoUK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;shadow=1;strokeWidth=2;" edge="1" parent="1" source="NJAbVdKSBZSFdySimoUK-11" target="NJAbVdKSBZSFdySimoUK-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NJAbVdKSBZSFdySimoUK-11" value="&lt;ul style=&quot;font-size: 10px;&quot;&gt;&lt;li&gt;Name&lt;/li&gt;&lt;li&gt;Translation Language&lt;/li&gt;&lt;li&gt;SOW&lt;/li&gt;&lt;li&gt;Contract&lt;/li&gt;&lt;li&gt;Contract Signature&lt;/li&gt;&lt;li&gt;Address, Bank details..&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=0;" vertex="1" parent="1">
