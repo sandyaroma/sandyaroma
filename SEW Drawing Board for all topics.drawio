@@ -72,6 +72,9 @@
         <mxCell id="S7neUsD2zat62h7z_fcm-19" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;SEW&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="-930" y="-601.5" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="S7neUsD2zat62h7z_fcm-29" value="PAYMENT FILE INTEGRATION" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1420" y="-840" width="360" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
