@@ -1,9 +1,82 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="qW4FM8de-haLVR3ZVpO4">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="glTwvj8LsIBbesMKPPo8-1" value="on prem&lt;div&gt;ad&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="610" y="410" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="glTwvj8LsIBbesMKPPo8-2" value="WORKDAY" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="30" y="500" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="glTwvj8LsIBbesMKPPo8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="glTwvj8LsIBbesMKPPo8-3" target="glTwvj8LsIBbesMKPPo8-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="glTwvj8LsIBbesMKPPo8-3" value="Azure" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="410" y="220" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="glTwvj8LsIBbesMKPPo8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="glTwvj8LsIBbesMKPPo8-8" target="glTwvj8LsIBbesMKPPo8-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="563" y="550" as="targetPoint" />
+            <mxPoint x="288" y="300" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="790" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="glTwvj8LsIBbesMKPPo8-8" value="iTrent&amp;nbsp;&lt;div&gt;HR&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="glTwvj8LsIBbesMKPPo8-11" value="PROD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="55" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="glTwvj8LsIBbesMKPPo8-12" value="TEST" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="55" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="glTwvj8LsIBbesMKPPo8-13" value="FOREST PROD" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="glTwvj8LsIBbesMKPPo8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="glTwvj8LsIBbesMKPPo8-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="495" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="530" />
+              <mxPoint x="470" y="495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="glTwvj8LsIBbesMKPPo8-15" value="&lt;div&gt;TEST&lt;/div&gt;Azure" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="330" y="510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="glTwvj8LsIBbesMKPPo8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;" edge="1" parent="1" source="glTwvj8LsIBbesMKPPo8-2" target="glTwvj8LsIBbesMKPPo8-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="glTwvj8LsIBbesMKPPo8-18" value="WORKDAY" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="670" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="glTwvj8LsIBbesMKPPo8-19" value="WORKDAY TENANT STRATEGY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="110" y="620" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="glTwvj8LsIBbesMKPPo8-20" value="Implementation&lt;div&gt;Unit Test Tenant&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="690" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="glTwvj8LsIBbesMKPPo8-21" value="WORKDAY" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="740" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="glTwvj8LsIBbesMKPPo8-22" value="E2E Test Tenant" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="760" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="glTwvj8LsIBbesMKPPo8-23" value="WORKDAY" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="810" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="glTwvj8LsIBbesMKPPo8-24" value="Gold Tenant&lt;div&gt;(To be Production)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="830" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
