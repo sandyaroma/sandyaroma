@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="glTwvj8LsIBbesMKPPo8-31" value="SSO Auth Required&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="870" width="580" height="290" as="geometry" />
+        </mxCell>
         <mxCell id="glTwvj8LsIBbesMKPPo8-1" value="on prem&lt;div&gt;ad&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="610" y="410" width="120" height="110" as="geometry" />
         </mxCell>
@@ -82,6 +85,18 @@
         </mxCell>
         <mxCell id="glTwvj8LsIBbesMKPPo8-26" value="Production Tenant" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="900" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="glTwvj8LsIBbesMKPPo8-27" value="WORKDAY" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="441" y="880" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="glTwvj8LsIBbesMKPPo8-28" value="Sandbox Tenant" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="900" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="glTwvj8LsIBbesMKPPo8-29" value="WORKDAY" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="441" y="970" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="glTwvj8LsIBbesMKPPo8-30" value="FINance project&lt;div&gt;Test Tenant&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="990" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
