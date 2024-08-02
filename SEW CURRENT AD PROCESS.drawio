@@ -77,6 +77,12 @@
         <mxCell id="glTwvj8LsIBbesMKPPo8-24" value="Gold Tenant&lt;div&gt;(To be Production)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="830" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="glTwvj8LsIBbesMKPPo8-25" value="WORKDAY" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="880" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="glTwvj8LsIBbesMKPPo8-26" value="Production Tenant" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="900" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
