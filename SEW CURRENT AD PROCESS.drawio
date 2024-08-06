@@ -17,7 +17,7 @@
           <mxGeometry x="-425" y="701" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="s1ins70xxQBHLW0Mm97k-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freelogovectors.net/wp-content/uploads/2020/09/kainos-logo.png;" vertex="1" parent="1">
-          <mxGeometry x="-1290" y="210" width="140" height="32.2" as="geometry" />
+          <mxGeometry x="-1200" y="210" width="140" height="32.2" as="geometry" />
         </mxCell>
         <mxCell id="s1ins70xxQBHLW0Mm97k-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="glTwvj8LsIBbesMKPPo8-2">
           <mxGeometry relative="1" as="geometry">
@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s1ins70xxQBHLW0Mm97k-15" value="Designed by your Workday Partner" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1320" y="242.00000000000003" width="200" height="30" as="geometry" />
+          <mxGeometry x="-1230" y="242.00000000000003" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="glTwvj8LsIBbesMKPPo8-2" value="&lt;font color=&quot;#ffffff&quot;&gt;WORKDAY&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="-950" y="706" width="89.38" height="80" as="geometry" />
@@ -100,7 +100,7 @@
           <mxGeometry x="-120" y="350" width="620" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s1ins70xxQBHLW0Mm97k-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="-1313" y="264" width="1160" height="760" as="geometry" />
+          <mxGeometry x="-1230" y="264" width="1077" height="760" as="geometry" />
         </mxCell>
         <mxCell id="glTwvj8LsIBbesMKPPo8-20" value="Implementation&lt;div&gt;Unit Test Tenant&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-65" y="414" width="110" height="30" as="geometry" />
