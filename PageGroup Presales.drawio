@@ -123,6 +123,16 @@
         <mxCell id="HwcREc6K7EFbWNtx4Y22-51" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap;&quot;&gt;JML / HR PROCESS&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=default;gradientColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="310" y="250" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HwcREc6K7EFbWNtx4Y22-52" value="If there&#39;s downstream systems master for data, that can import into Workday" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFFCC;gradientColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="570" width="265" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HwcREc6K7EFbWNtx4Y22-54" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.21;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;dashed=1;" edge="1" parent="1" source="HwcREc6K7EFbWNtx4Y22-52" target="HwcREc6K7EFbWNtx4Y22-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="252" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
