@@ -100,11 +100,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IddoA99KZuMBQ-tLbZDF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=15;exitPerimeter=0;curved=0;dashed=1;" parent="1" source="LXhwEYFynrwZ-pUap6Co-10" target="IddoA99KZuMBQ-tLbZDF-3" edge="1">
+        <mxCell id="IddoA99KZuMBQ-tLbZDF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;exitX=1;exitY=0.416;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="LXhwEYFynrwZ-pUap6Co-10" target="IddoA99KZuMBQ-tLbZDF-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1430" y="-519.22" />
-              <mxPoint x="-1430" y="-569.22" />
+              <mxPoint x="-1445" y="-490" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -240,14 +239,14 @@
           <mxGeometry x="-1370" y="-374.22" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-71" value="MaxiMo" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-1140" y="-729.22" width="80" height="80" as="geometry" />
+          <mxGeometry x="-1070" y="-630" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="INALur6GVUGKPZvebrQy-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;dashed=1;curved=0;" parent="1" source="LXhwEYFynrwZ-pUap6Co-72" target="LXhwEYFynrwZ-pUap6Co-10" edge="1">
+        <mxCell id="INALur6GVUGKPZvebrQy-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;dashed=1;curved=0;" parent="1" target="LXhwEYFynrwZ-pUap6Co-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1000" y="-614.22" />
-              <mxPoint x="-1468" y="-614.22" />
+              <mxPoint x="-1468" y="-590" />
             </Array>
+            <mxPoint x="-1170" y="-590" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="INALur6GVUGKPZvebrQy-2" value="Time Sheets/Time Blocks" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="INALur6GVUGKPZvebrQy-1" vertex="1" connectable="0">
@@ -256,19 +255,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-72" value="Genesys&lt;div&gt;Call Centre Only&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-1040" y="-729.22" width="80" height="80" as="geometry" />
+          <mxGeometry x="-1188.06" y="-630" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-74" value="TIme Entry" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-1148" y="-562.22" width="233" height="30" as="geometry" />
+          <mxGeometry x="-1086.06" y="-485" width="233" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-75" value="Operational Activities" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1170" y="-584.22" width="140" height="30" as="geometry" />
+          <mxGeometry x="-1108.06" y="-507" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-76" value="Overtime recording" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1170" y="-654.22" width="140" height="30" as="geometry" />
+          <mxGeometry x="-1220" y="-560" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-78" value="Absence &amp;amp; Workshifts" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1010" y="-654.22" width="140" height="30" as="geometry" />
+          <mxGeometry x="-1098.06" y="-560" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-79" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2420/512/Zoom-128.png" parent="1" vertex="1">
           <mxGeometry x="-1710" y="-779.22" width="39" height="39" as="geometry" />
@@ -320,7 +319,7 @@
           <mxGeometry x="-1030" y="-824.33" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IddoA99KZuMBQ-tLbZDF-3" value="BI TOOL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-1241.94" y="-594.22" width="81.94" height="70" as="geometry" />
+          <mxGeometry x="-1180" y="-517" width="81.94" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IddoA99KZuMBQ-tLbZDF-5" value="" style="image;html=1;image=img/lib/atlassian/Jira_Logo.svg;" parent="1" vertex="1">
           <mxGeometry x="-1781" y="-774.22" width="40" height="40" as="geometry" />
