@@ -97,7 +97,7 @@
           <mxGeometry x="-1338.38" y="-174.21999999999997" width="80.5" height="32.43" as="geometry" />
         </mxCell>
         <mxCell id="WpvzncnOpUpJatyWA8I4-3" value="MaxiMo" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-840" y="-310" width="80" height="80" as="geometry" />
+          <mxGeometry x="-830" y="-310" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WpvzncnOpUpJatyWA8I4-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;dashed=1;curved=0;" edge="1" parent="1" target="WpvzncnOpUpJatyWA8I4-1">
           <mxGeometry relative="1" as="geometry">
@@ -107,7 +107,7 @@
             <mxPoint x="-940" y="-270" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WpvzncnOpUpJatyWA8I4-5" value="Time Sheets/Time Blocks" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WpvzncnOpUpJatyWA8I4-4">
+        <mxCell id="WpvzncnOpUpJatyWA8I4-5" value="Time Sheets/Time Blocks&lt;div&gt;as &lt;b&gt;Work schedules&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WpvzncnOpUpJatyWA8I4-4">
           <mxGeometry x="-0.115" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
