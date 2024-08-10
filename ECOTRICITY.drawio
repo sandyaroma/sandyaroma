@@ -13,7 +13,7 @@
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-3" value="Designed by your Workday Partner" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-2190" y="-949.37" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hy4SR7NMCdze0RuZzyn2-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Solution Overview (Workday FINANCE Perspective)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#0000CC;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+        <mxCell id="Hy4SR7NMCdze0RuZzyn2-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Solution Overview (Workday FINANCE Perspective)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#000066;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
           <mxGeometry x="-2190" y="-904.22" width="1370" height="54.89" as="geometry" />
         </mxCell>
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-5" value="&lt;b&gt;LEGENDS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -68,6 +68,12 @@
         </mxCell>
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-75" value="Payroll GL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-1240" y="-329.72" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Hy4SR7NMCdze0RuZzyn2-78" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://iconape.com/wp-content/files/wq/57549/svg/ecotricity.svg;" vertex="1" parent="1">
+          <mxGeometry x="-1703.71" y="-998.36" width="135.33" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hy4SR7NMCdze0RuZzyn2-79" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://refetch.co.uk/wp-content/uploads/2019/09/ecotricity-logo.png;" vertex="1" parent="1">
+          <mxGeometry x="-1686.05" y="-958.36" width="100" height="38.99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
