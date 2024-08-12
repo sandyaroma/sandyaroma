@@ -133,7 +133,7 @@
           <mxGeometry x="-2070.5" y="-550" width="80.5" height="32.43" as="geometry" />
         </mxCell>
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-35" value="Lloyds Bank" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-1110.0000000000002" y="-509" width="99" height="99" as="geometry" />
+          <mxGeometry x="-1190.0000000000002" y="-540" width="99" height="99" as="geometry" />
         </mxCell>
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-61" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeColor=#007FFF;textShadow=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -180,6 +180,42 @@
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-102" value="&lt;span style=&quot;background-color: rgb(204, 255, 255);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;PAYMENTS FILE&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textShadow=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1703.7070588235292" y="-370" as="geometry">
             <mxPoint x="-4" y="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hy4SR7NMCdze0RuZzyn2-105" value="Credit Card Transactions" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-1190.0000000000002" y="-740.3199999999999" width="99" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="Hy4SR7NMCdze0RuZzyn2-106" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.546;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=none;curved=0;" edge="1" parent="1" source="Hy4SR7NMCdze0RuZzyn2-105" target="Hy4SR7NMCdze0RuZzyn2-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hy4SR7NMCdze0RuZzyn2-110" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/thumbnails/020/975/570/small/visa-logo-visa-icon-transparent-free-png.png;" vertex="1" parent="1">
+          <mxGeometry x="-1590" y="-740.32" width="76" height="34.86" as="geometry" />
+        </mxCell>
+        <mxCell id="Hy4SR7NMCdze0RuZzyn2-111" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mastercard-logo.svg/1200px-Mastercard-logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="-1690" y="-748.07" width="58.58" height="45.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Hy4SR7NMCdze0RuZzyn2-113" value="OR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1640" y="-740.32" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hy4SR7NMCdze0RuZzyn2-114" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pngall.com/wp-content/uploads/5/American-Express-Logo-Download-Free-PNG.png;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="-755.3199999999999" width="108.76" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hy4SR7NMCdze0RuZzyn2-115" value="&lt;b&gt;PAYMENT NETWORK&lt;/b&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud;" vertex="1" parent="1">
+          <mxGeometry x="-1605.02" y="-849.33" width="135.02" height="79.33" as="geometry" />
+        </mxCell>
+        <mxCell id="Hy4SR7NMCdze0RuZzyn2-116" value="OR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1530" y="-738.46" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hy4SR7NMCdze0RuZzyn2-118" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.011;exitY=0.184;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Hy4SR7NMCdze0RuZzyn2-105">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1730" y="-380" as="sourcePoint" />
+            <mxPoint x="-1450" y="-790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hy4SR7NMCdze0RuZzyn2-119" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1200" y="-700" as="sourcePoint" />
+            <mxPoint x="-1450" y="-770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
