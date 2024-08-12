@@ -203,15 +203,15 @@
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-116" value="OR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1530" y="-738.46" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Hy4SR7NMCdze0RuZzyn2-118" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.011;exitY=0.184;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#003366;strokeWidth=2;" edge="1" parent="1" source="Hy4SR7NMCdze0RuZzyn2-105">
+        <mxCell id="Hy4SR7NMCdze0RuZzyn2-118" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#003366;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1730" y="-380" as="sourcePoint" />
+            <mxPoint x="-1210" y="-730" as="sourcePoint" />
             <mxPoint x="-1450" y="-790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-119" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;endFill=0;strokeColor=#003366;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1210" y="-700" as="sourcePoint" />
+            <mxPoint x="-1210" y="-710" as="sourcePoint" />
             <mxPoint x="-1450" y="-770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
