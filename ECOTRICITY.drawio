@@ -135,6 +135,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Hy4SR7NMCdze0RuZzyn2-136" value="&lt;span style=&quot;background-color: rgb(204, 255, 255);&quot;&gt;FUNDS TRANSFER FILE&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="Hy4SR7NMCdze0RuZzyn2-135">
+          <mxGeometry x="-0.1667" relative="1" as="geometry">
+            <mxPoint x="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hy4SR7NMCdze0RuZzyn2-137" value="&lt;span style=&quot;color: rgb(74, 74, 74); font-family: Roboto, Arial, Helvetica, sans-serif; font-size: 12px; text-align: start; white-space: pre-wrap; background-color: rgb(215, 234, 252);&quot;&gt;&lt;b&gt;MT101&lt;/b&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hy4SR7NMCdze0RuZzyn2-135">
+          <mxGeometry x="0.3666" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-27" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;HCM, EXPENSES,&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FINANCE&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFB366;strokeColor=#FFFFFF;shadow=1;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="-2120" y="-590" width="180" height="140" as="geometry" />
         </mxCell>
