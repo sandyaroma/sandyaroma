@@ -263,13 +263,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hy4SR7NMCdze0RuZzyn2-130" value="&lt;span style=&quot;background-color: rgb(204, 255, 204);&quot;&gt;&lt;b&gt;MT940 &lt;/b&gt;BANK STATEMENTS&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hy4SR7NMCdze0RuZzyn2-129">
+        <mxCell id="Hy4SR7NMCdze0RuZzyn2-130" value="&lt;span style=&quot;background-color: rgb(204, 255, 204);&quot;&gt;BANK STATEMENTS&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Hy4SR7NMCdze0RuZzyn2-129">
           <mxGeometry x="0.1158" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-35" value="Lloyds Bank" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="-1190.0000000000002" y="-540" width="99" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="Hy4SR7NMCdze0RuZzyn2-131" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;One Main Account&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Virtual Account 1&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Virtual Account 2&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Virtual Account 3...&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px; font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-2185" y="-410" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
