@@ -234,8 +234,8 @@
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-120" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.631;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;strokeColor=#003366;textShadow=1;" edge="1" parent="1" source="Hy4SR7NMCdze0RuZzyn2-111" target="Hy4SR7NMCdze0RuZzyn2-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1661" y="-700" />
-              <mxPoint x="-2006" y="-700" />
+              <mxPoint x="-1661" y="-690" />
+              <mxPoint x="-2006" y="-690" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -248,8 +248,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1980" y="-590" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1552" y="-670" />
-              <mxPoint x="-1979" y="-670" />
+              <mxPoint x="-1552" y="-660" />
+              <mxPoint x="-1979" y="-660" />
+              <mxPoint x="-1979" y="-590" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -261,8 +262,8 @@
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-123" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.938;entryY=0.09;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;strokeColor=#003366;textShadow=1;" edge="1" parent="1" source="Hy4SR7NMCdze0RuZzyn2-114" target="Hy4SR7NMCdze0RuZzyn2-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1426" y="-640" />
-              <mxPoint x="-1951" y="-640" />
+              <mxPoint x="-1426" y="-630" />
+              <mxPoint x="-1951" y="-630" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -272,7 +273,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-128" value="Credit Card Transactions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-1746.05" y="-630" width="226.05" height="10" as="geometry" />
+          <mxGeometry x="-1749.07" y="-620" width="226.05" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-129" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.145;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;strokeColor=#006666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=0;textShadow=1;" edge="1" parent="1" source="Hy4SR7NMCdze0RuZzyn2-35" target="Hy4SR7NMCdze0RuZzyn2-27">
           <mxGeometry relative="1" as="geometry">
