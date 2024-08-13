@@ -191,7 +191,7 @@
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-111" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mastercard-logo.svg/1200px-Mastercard-logo.svg.png;" vertex="1" parent="1">
           <mxGeometry x="-1690" y="-748.07" width="58.58" height="45.5" as="geometry" />
         </mxCell>
-        <mxCell id="Hy4SR7NMCdze0RuZzyn2-113" value="OR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Hy4SR7NMCdze0RuZzyn2-113" value="OR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1640" y="-740.32" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-114" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pngall.com/wp-content/uploads/5/American-Express-Logo-Download-Free-PNG.png;" vertex="1" parent="1">
@@ -200,7 +200,7 @@
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-115" value="&lt;b&gt;PARTNER PAYMENT NETWORK&lt;/b&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud;" vertex="1" parent="1">
           <mxGeometry x="-1605.02" y="-849.33" width="135.02" height="79.33" as="geometry" />
         </mxCell>
-        <mxCell id="Hy4SR7NMCdze0RuZzyn2-116" value="OR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Hy4SR7NMCdze0RuZzyn2-116" value="OR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1530" y="-738.46" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-118" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#003366;strokeWidth=2;" edge="1" parent="1">
