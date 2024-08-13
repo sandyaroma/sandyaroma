@@ -179,7 +179,7 @@
             <mxPoint x="-4" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hy4SR7NMCdze0RuZzyn2-105" value="Credit Card Transactions" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png;textShadow=1;" vertex="1" parent="1">
+        <mxCell id="Hy4SR7NMCdze0RuZzyn2-105" value="FInancial Institution" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="-1190.0000000000002" y="-740.3199999999999" width="99" height="99" as="geometry" />
         </mxCell>
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-106" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.546;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=none;curved=0;" edge="1" parent="1" source="Hy4SR7NMCdze0RuZzyn2-105" target="Hy4SR7NMCdze0RuZzyn2-27">
