@@ -57,7 +57,7 @@
         </mxCell>
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-86" value="&lt;b&gt;CHAPS&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textShadow=1;" vertex="1" connectable="0" parent="Hy4SR7NMCdze0RuZzyn2-84">
           <mxGeometry x="0.3364" relative="1" as="geometry">
-            <mxPoint x="-1" as="offset" />
+            <mxPoint x="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-87" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=42.5;exitPerimeter=0;curved=0;textShadow=1;strokeColor=#006666;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hy4SR7NMCdze0RuZzyn2-27" target="Hy4SR7NMCdze0RuZzyn2-80">
@@ -82,7 +82,7 @@
         </mxCell>
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-93" value="&lt;b&gt;SWIFT&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textShadow=1;" vertex="1" connectable="0" parent="Hy4SR7NMCdze0RuZzyn2-90">
           <mxGeometry x="0.324" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-94" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;textShadow=1;strokeColor=#006666;" edge="1" parent="1" source="Hy4SR7NMCdze0RuZzyn2-27">
@@ -96,7 +96,7 @@
         </mxCell>
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-97" value="&lt;b&gt;SEPA&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textShadow=1;" vertex="1" connectable="0" parent="Hy4SR7NMCdze0RuZzyn2-94">
           <mxGeometry x="0.3254" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="43" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-98" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;textShadow=1;strokeColor=#006666;exitX=0.894;exitY=0.961;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Hy4SR7NMCdze0RuZzyn2-27" target="Hy4SR7NMCdze0RuZzyn2-80">
@@ -109,7 +109,7 @@
         </mxCell>
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-100" value="&lt;b&gt;BACS CREDIT&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textShadow=1;" vertex="1" connectable="0" parent="Hy4SR7NMCdze0RuZzyn2-98">
           <mxGeometry x="0.3419" y="1" relative="1" as="geometry">
-            <mxPoint x="9" y="1" as="offset" />
+            <mxPoint x="42" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-101" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;textShadow=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#006666;exitX=0.796;exitY=0.985;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Hy4SR7NMCdze0RuZzyn2-27" target="Hy4SR7NMCdze0RuZzyn2-80">
@@ -177,7 +177,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-89" value="&lt;b&gt;FPS&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textShadow=1;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1440.0047058823532" y="-517.57" as="geometry">
+          <mxGeometry x="-1460.0047058823532" y="-517.57" as="geometry">
             <mxPoint x="-13" y="-42" as="offset" />
           </mxGeometry>
         </mxCell>
