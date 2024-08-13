@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="e1a6OC9evv323VEGr9vd">
-    <mxGraphModel dx="3945" dy="1743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3745" dy="1743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,6 +124,15 @@
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-104" value="&lt;b&gt;BACS DIRECT DEBIT&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textShadow=1;" vertex="1" connectable="0" parent="Hy4SR7NMCdze0RuZzyn2-101">
           <mxGeometry x="0.4395" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Hy4SR7NMCdze0RuZzyn2-135" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.653;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.653;entryY=0.936;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#006666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=0;" edge="1" parent="1" source="Hy4SR7NMCdze0RuZzyn2-27" target="Hy4SR7NMCdze0RuZzyn2-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1780" y="-9.166666666666666" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-2002" y="-360" />
+              <mxPoint x="-1236" y="-360" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-27" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;HCM, EXPENSES,&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FINANCE&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFB366;strokeColor=#FFFFFF;shadow=1;textShadow=1;" vertex="1" parent="1">
@@ -255,11 +264,11 @@
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-128" value="Credit Card Transactions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="-1746.05" y="-630" width="226.05" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Hy4SR7NMCdze0RuZzyn2-129" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.472;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#006666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=0;textShadow=1;" edge="1" parent="1" source="Hy4SR7NMCdze0RuZzyn2-35" target="Hy4SR7NMCdze0RuZzyn2-27">
+        <mxCell id="Hy4SR7NMCdze0RuZzyn2-129" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.145;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;strokeColor=#006666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=0;textShadow=1;" edge="1" parent="1" source="Hy4SR7NMCdze0RuZzyn2-35" target="Hy4SR7NMCdze0RuZzyn2-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1140" y="-290" />
-              <mxPoint x="-2035" y="-290" />
+              <mxPoint x="-2094" y="-290" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -274,8 +283,8 @@
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-133" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.579;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#006666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=0;textShadow=1;" edge="1" parent="1" source="Hy4SR7NMCdze0RuZzyn2-35" target="Hy4SR7NMCdze0RuZzyn2-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1165" y="-360" />
-              <mxPoint x="-2016" y="-360" />
+              <mxPoint x="-1165" y="-320" />
+              <mxPoint x="-2016" y="-320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -285,7 +294,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Hy4SR7NMCdze0RuZzyn2-35" value="Lloyds Bank" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-1180.0000000000002" y="-500" width="99" height="99" as="geometry" />
+          <mxGeometry x="-1200.0000000000002" y="-509" width="99" height="99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
