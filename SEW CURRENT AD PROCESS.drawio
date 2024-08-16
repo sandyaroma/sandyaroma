@@ -75,7 +75,7 @@
         <mxCell id="glTwvj8LsIBbesMKPPo8-11" value="PROD - AS-IS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-1045" y="391" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="glTwvj8LsIBbesMKPPo8-13" value="PROD FOREST / DOMAIN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="glTwvj8LsIBbesMKPPo8-13" value="PROD OU / DOMAIN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-450" y="670" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s1ins70xxQBHLW0Mm97k-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;exitX=0.621;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="glTwvj8LsIBbesMKPPo8-15" target="s1ins70xxQBHLW0Mm97k-23" edge="1">
