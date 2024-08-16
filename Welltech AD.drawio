@@ -57,7 +57,7 @@
         <mxCell id="-l6DJTiAy_bA2jsMD3Sh-24" value="SSO Login" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="310" y="200" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-l6DJTiAy_bA2jsMD3Sh-25" value="No Access" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="-l6DJTiAy_bA2jsMD3Sh-25" value="No Access" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="487" y="200" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
