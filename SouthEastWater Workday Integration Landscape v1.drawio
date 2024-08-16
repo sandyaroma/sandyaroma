@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="r__zFNlrKhQIh8nUa84n">
-    <mxGraphModel dx="3625" dy="1564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3745" dy="1743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,6 +127,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hhFu2yXnE7WBhEnphd9l-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="LXhwEYFynrwZ-pUap6Co-10" target="hhFu2yXnE7WBhEnphd9l-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1480" y="-655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-10" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;HCM, Recruiting&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;UK Payroll&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#FFFFFF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-1605" y="-534.22" width="160" height="140" as="geometry" />
         </mxCell>
@@ -220,7 +227,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LXhwEYFynrwZ-pUap6Co-67" value="Work Schedules" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="LXhwEYFynrwZ-pUap6Co-67" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Work Schedules&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;assigned to Employee&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1340" y="-436.72" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-70" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;dashed=1;strokeColor=#007FFF;curved=0;" parent="1" source="LXhwEYFynrwZ-pUap6Co-68" target="LXhwEYFynrwZ-pUap6Co-10" edge="1">
@@ -235,21 +242,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LXhwEYFynrwZ-pUap6Co-68" value="Work Shifts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="LXhwEYFynrwZ-pUap6Co-68" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Work Shifts&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;assigned to Employee&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1370" y="-374.22" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-71" value="MaxiMo" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-1070" y="-630" width="80" height="80" as="geometry" />
+          <mxGeometry x="-1068.06" y="-630" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="INALur6GVUGKPZvebrQy-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;dashed=1;curved=0;" parent="1" target="LXhwEYFynrwZ-pUap6Co-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1468" y="-590" />
+              <mxPoint x="-1170" y="-580" />
+              <mxPoint x="-1468" y="-580" />
             </Array>
             <mxPoint x="-1170" y="-590" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="INALur6GVUGKPZvebrQy-2" value="Time Sheets/Time Blocks" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="INALur6GVUGKPZvebrQy-1" vertex="1" connectable="0">
+        <mxCell id="INALur6GVUGKPZvebrQy-2" value="Time Sheets/Time Blocks&lt;div&gt;Work schedule Calendar&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="INALur6GVUGKPZvebrQy-1" vertex="1" connectable="0">
           <mxGeometry x="-0.115" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -338,6 +346,22 @@
         </mxCell>
         <mxCell id="0-8fQCSJ9ABT-ZbM3SJc-3" value="Calendar" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://usingtechnologybetter.com/wp-content/uploads/2022/09/MS-Outlook-Calendar-1.png;" parent="1" vertex="1">
           <mxGeometry x="-1599" y="-714.22" width="33.62" height="33.62" as="geometry" />
+        </mxCell>
+        <mxCell id="hhFu2yXnE7WBhEnphd9l-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.181;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="LXhwEYFynrwZ-pUap6Co-72" target="LXhwEYFynrwZ-pUap6Co-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1317" y="-560" />
+              <mxPoint x="-1317" y="-509" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hhFu2yXnE7WBhEnphd9l-2" value="Workshift" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hhFu2yXnE7WBhEnphd9l-1">
+          <mxGeometry x="0.6017" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hhFu2yXnE7WBhEnphd9l-3" value="Holiday Entitlement&lt;div&gt;Absence Balance&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1218.06" y="-670" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
