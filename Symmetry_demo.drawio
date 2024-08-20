@@ -306,10 +306,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CYchLR7dStGbC8uaJ82P-64" value="HireRightSterling" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-2210" y="-755.3199999999999" width="100" height="90" as="geometry" />
+          <mxGeometry x="-2230" y="-770.3199999999999" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CYchLR7dStGbC8uaJ82P-65" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;startArrow=classic;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;textShadow=1;" edge="1" parent="1" source="CYchLR7dStGbC8uaJ82P-64" target="CYchLR7dStGbC8uaJ82P-24">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CYchLR7dStGbC8uaJ82P-108" value="Candidate&lt;div&gt;Assessments&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CYchLR7dStGbC8uaJ82P-65">
+          <mxGeometry x="-0.1859" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CYchLR7dStGbC8uaJ82P-66" value="BROADBEAN" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="-2330" y="-700" width="90" height="80" as="geometry" />
@@ -319,6 +324,11 @@
             <Array as="points">
               <mxPoint x="-2065" y="-640" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CYchLR7dStGbC8uaJ82P-107" value="Job Postings" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CYchLR7dStGbC8uaJ82P-67">
+          <mxGeometry x="-0.2981" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CYchLR7dStGbC8uaJ82P-69" value="UK Payroll" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;textShadow=1;" vertex="1" parent="1">
