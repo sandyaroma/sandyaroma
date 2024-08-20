@@ -280,7 +280,7 @@
           <mxGeometry x="-1200.0000000000002" y="-509" width="99" height="99" as="geometry" />
         </mxCell>
         <mxCell id="CYchLR7dStGbC8uaJ82P-62" value="OKTA /AZURE&lt;div&gt;ACITVE DIRECTORY&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-2360" y="-555" width="100" height="90" as="geometry" />
+          <mxGeometry x="-2340" y="-607.57" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CYchLR7dStGbC8uaJ82P-63" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;curved=0;" edge="1" parent="1" source="CYchLR7dStGbC8uaJ82P-24" target="CYchLR7dStGbC8uaJ82P-62">
           <mxGeometry relative="1" as="geometry" />
@@ -292,10 +292,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CYchLR7dStGbC8uaJ82P-66" value="BROADBEAN" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-2320" y="-680" width="90" height="80" as="geometry" />
+          <mxGeometry x="-2330" y="-700" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CYchLR7dStGbC8uaJ82P-67" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.304;entryY=0.046;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="CYchLR7dStGbC8uaJ82P-66" target="CYchLR7dStGbC8uaJ82P-24">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2065" y="-640" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="CYchLR7dStGbC8uaJ82P-69" value="UK Payroll" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-2490" y="-450" width="74.7" height="70" as="geometry" />
