@@ -306,7 +306,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CYchLR7dStGbC8uaJ82P-64" value="HireRightSterling" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-2200" y="-809.9999999999999" width="100" height="90" as="geometry" />
+          <mxGeometry x="-2200" y="-828.4599999999999" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CYchLR7dStGbC8uaJ82P-65" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;startArrow=classic;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;textShadow=1;" edge="1" parent="1" source="CYchLR7dStGbC8uaJ82P-64" target="CYchLR7dStGbC8uaJ82P-24">
           <mxGeometry relative="1" as="geometry" />
