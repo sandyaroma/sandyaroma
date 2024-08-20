@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="iUJMPTE8WRc3Fka6V6pp">
-    <mxGraphModel dx="4993" dy="1958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5260" dy="1958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -186,7 +186,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CYchLR7dStGbC8uaJ82P-37" value="Financial Institution" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-1190.0000000000002" y="-740.3199999999999" width="99" height="99" as="geometry" />
+          <mxGeometry x="-1210" y="-748.07" width="79" height="79" as="geometry" />
         </mxCell>
         <mxCell id="CYchLR7dStGbC8uaJ82P-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.546;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=none;curved=0;textShadow=1;" edge="1" parent="1" source="CYchLR7dStGbC8uaJ82P-37" target="CYchLR7dStGbC8uaJ82P-24">
           <mxGeometry relative="1" as="geometry" />
@@ -297,7 +297,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CYchLR7dStGbC8uaJ82P-60" value="Bank" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-1200.0000000000002" y="-509" width="99" height="99" as="geometry" />
+          <mxGeometry x="-1190" y="-509" width="89" height="89" as="geometry" />
         </mxCell>
         <mxCell id="CYchLR7dStGbC8uaJ82P-62" value="OKTA /AZURE&lt;div&gt;ACITVE DIRECTORY&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#FFFFFF;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="-2340" y="-607.57" width="100" height="90" as="geometry" />
