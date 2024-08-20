@@ -418,7 +418,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CYchLR7dStGbC8uaJ82P-99" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Confidential_Ledger.svg;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-1940" y="-239" width="59" height="59" as="geometry" />
+          <mxGeometry x="-1940" y="-239" width="49" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
