@@ -304,7 +304,7 @@
         <mxCell id="Puf0np9_kQWsX0gFkT_Z-58" value="OKTA /AZURE&lt;div&gt;ACITVE DIRECTORY&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#FFFFFF;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="251.17000000000007" y="489.5" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Puf0np9_kQWsX0gFkT_Z-59" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;curved=0;textShadow=1;strokeColor=#FF0000;" edge="1" parent="1" source="Puf0np9_kQWsX0gFkT_Z-26" target="Puf0np9_kQWsX0gFkT_Z-58">
+        <mxCell id="Puf0np9_kQWsX0gFkT_Z-59" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;curved=0;textShadow=1;strokeColor=#333333;" edge="1" parent="1" source="Puf0np9_kQWsX0gFkT_Z-26" target="Puf0np9_kQWsX0gFkT_Z-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Puf0np9_kQWsX0gFkT_Z-60" value="HireRightSterling" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;textShadow=1;" vertex="1" parent="1">
