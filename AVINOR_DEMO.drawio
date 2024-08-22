@@ -82,6 +82,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Puf0np9_kQWsX0gFkT_Z-151" value="&lt;span style=&quot;background-color: rgb(255, 255, 204);&quot;&gt;JML DATA&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Puf0np9_kQWsX0gFkT_Z-150">
+          <mxGeometry x="0.0884" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Puf0np9_kQWsX0gFkT_Z-26" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;HCM, EXPENSES,&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FINANCE&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFB366;strokeColor=#FFFFFF;shadow=1;textShadow=1;gradientColor=none;gradientDirection=west;" vertex="1" parent="1">
           <mxGeometry x="560" y="523" width="180" height="140" as="geometry" />
         </mxCell>
