@@ -74,6 +74,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Puf0np9_kQWsX0gFkT_Z-150" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="Puf0np9_kQWsX0gFkT_Z-26" target="Puf0np9_kQWsX0gFkT_Z-149">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="770" />
+              <mxPoint x="244" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Puf0np9_kQWsX0gFkT_Z-26" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;HCM, EXPENSES,&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FINANCE&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFB366;strokeColor=#FFFFFF;shadow=1;textShadow=1;gradientColor=none;gradientDirection=west;" vertex="1" parent="1">
           <mxGeometry x="560" y="523" width="180" height="140" as="geometry" />
         </mxCell>
@@ -369,6 +377,9 @@
         </mxCell>
         <mxCell id="Puf0np9_kQWsX0gFkT_Z-142" value="Public 360&lt;div&gt;ARCHIVE&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;gradientColor=#FFFFCC;strokeColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="1092.49" y="790" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Puf0np9_kQWsX0gFkT_Z-149" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://res.cloudinary.com/micronetonline/image/upload/c_crop,h_604,w_2106,x_0,y_0/v1622055903/tenants/4d389e81-e9d4-4644-838a-34fbcbc3a727/82483da01ca749f8abf7f403262b3fb8/01-ServiceNow-logo-STANDARD-RGB-TM-600dpi-GG-A-050418.png;imageBackground=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="144.70000000000005" y="796" width="198.84" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
