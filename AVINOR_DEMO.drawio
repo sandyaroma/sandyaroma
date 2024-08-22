@@ -297,16 +297,16 @@
         <mxCell id="Puf0np9_kQWsX0gFkT_Z-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-servers-web-hosting/50/sftp-128.png;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="432.99999999999994" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Puf0np9_kQWsX0gFkT_Z-116" value="On premise App" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="Puf0np9_kQWsX0gFkT_Z-116" value="On premise App" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="120.00000000000001" y="429.34000000000003" width="64.7" height="67.32" as="geometry" />
         </mxCell>
-        <mxCell id="Puf0np9_kQWsX0gFkT_Z-117" value="On premise App" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="Puf0np9_kQWsX0gFkT_Z-117" value="On premise App" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="195.87" y="432.68" width="64.7" height="67.32" as="geometry" />
         </mxCell>
-        <mxCell id="Puf0np9_kQWsX0gFkT_Z-118" value="Other cloud app" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="Puf0np9_kQWsX0gFkT_Z-118" value="Other cloud app" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="80" y="515.02" width="64.7" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Puf0np9_kQWsX0gFkT_Z-119" value="Other cloud app" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="Puf0np9_kQWsX0gFkT_Z-119" value="Other cloud app" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="89.4" y="585.02" width="64.7" height="67.32" as="geometry" />
         </mxCell>
         <mxCell id="Puf0np9_kQWsX0gFkT_Z-125" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.353;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;" edge="1" parent="1" source="Puf0np9_kQWsX0gFkT_Z-114" target="Puf0np9_kQWsX0gFkT_Z-117">
