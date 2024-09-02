@@ -295,7 +295,7 @@
             <mxPoint x="-1460" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Quokv1effK1ixG7RQ9Ke-25" value="Non Genesys&lt;div&gt;Employee WSCH&amp;nbsp;&lt;/div&gt;&lt;div&gt;assignment EIB&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Quokv1effK1ixG7RQ9Ke-23">
+        <mxCell id="Quokv1effK1ixG7RQ9Ke-25" value="Non Genesys&lt;div&gt;Employee WSCH&amp;nbsp;&lt;/div&gt;&lt;div&gt;assignment EIB&lt;/div&gt;&lt;div&gt;or MANUAL&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Quokv1effK1ixG7RQ9Ke-23">
           <mxGeometry x="-0.0591" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
