@@ -232,10 +232,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Quokv1effK1ixG7RQ9Ke-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#007FFF;curved=0;exitX=0.995;exitY=0.843;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="Quokv1effK1ixG7RQ9Ke-13" source="Quokv1effK1ixG7RQ9Ke-1">
+        <mxCell id="Quokv1effK1ixG7RQ9Ke-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#007FFF;curved=0;" edge="1" parent="1" target="Quokv1effK1ixG7RQ9Ke-13" source="Quokv1effK1ixG7RQ9Ke-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1311" y="550" />
               <mxPoint x="-1130" y="550" />
             </Array>
             <mxPoint x="-1192" y="625.72" as="sourcePoint" />
