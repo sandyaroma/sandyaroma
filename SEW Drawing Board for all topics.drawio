@@ -235,40 +235,39 @@
         <mxCell id="Quokv1effK1ixG7RQ9Ke-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#007FFF;curved=0;" edge="1" parent="1" target="Quokv1effK1ixG7RQ9Ke-13" source="Quokv1effK1ixG7RQ9Ke-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1130" y="550" />
+              <mxPoint x="-1250" y="550" />
             </Array>
-            <mxPoint x="-1192" y="625.72" as="sourcePoint" />
+            <mxPoint x="-1470" y="620" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-10" value="ABSENCE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFFFCC;" vertex="1" connectable="0" parent="Quokv1effK1ixG7RQ9Ke-9">
           <mxGeometry x="-0.125" y="-2" relative="1" as="geometry">
+            <mxPoint x="2" y="38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Quokv1effK1ixG7RQ9Ke-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;dashed=1;fillColor=#1ba1e2;strokeColor=#007FFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="Quokv1effK1ixG7RQ9Ke-13" target="Quokv1effK1ixG7RQ9Ke-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1170" y="650" />
+              <mxPoint x="-1170" y="766" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Quokv1effK1ixG7RQ9Ke-29" value="&lt;b&gt;BOOMERANG&lt;/b&gt;&lt;div&gt;&lt;b&gt;INTEGRATION&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rounded=1;dashed=1;strokeColor=#007FFF;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="Quokv1effK1ixG7RQ9Ke-28">
+          <mxGeometry x="0.3135" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Quokv1effK1ixG7RQ9Ke-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#007FFF;curved=0;" edge="1" parent="1" source="Quokv1effK1ixG7RQ9Ke-13" target="Quokv1effK1ixG7RQ9Ke-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-1080" y="630" />
-              <mxPoint x="-1080" y="623" />
-              <mxPoint x="-1010" y="623" />
-              <mxPoint x="-1010" y="696" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Quokv1effK1ixG7RQ9Ke-12" value="Boomerang&lt;div&gt;Integration&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Quokv1effK1ixG7RQ9Ke-11">
-          <mxGeometry x="0.2814" y="2" relative="1" as="geometry">
-            <mxPoint x="-12" y="-28" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-13" value="GET&lt;div&gt;Work Schedules&lt;/div&gt;&lt;div&gt;assigned&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1190" y="610" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1310" y="630" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Quokv1effK1ixG7RQ9Ke-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.42;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=#007FFF;curved=0;" edge="1" parent="1" source="Quokv1effK1ixG7RQ9Ke-16" target="Quokv1effK1ixG7RQ9Ke-1">
+        <mxCell id="Quokv1effK1ixG7RQ9Ke-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.03;entryY=0.769;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=#007FFF;curved=0;" edge="1" parent="1" source="Quokv1effK1ixG7RQ9Ke-16" target="Quokv1effK1ixG7RQ9Ke-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1403" y="688" />
+              <mxPoint x="-1563" y="758" />
+              <mxPoint x="-1563" y="543" />
             </Array>
-            <mxPoint x="-1215" y="647.72" as="targetPoint" />
+            <mxPoint x="-1562.8" y="645.3599999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-15" value="&lt;span style=&quot;background-color: rgb(255, 255, 204);&quot;&gt;EDIT POSITION&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Quokv1effK1ixG7RQ9Ke-14">
@@ -277,7 +276,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-16" value="&lt;div&gt;UPDATE&lt;/div&gt;&lt;div&gt;Position with&lt;/div&gt;Work Shifts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1210" y="672.5" width="120" height="47.5" as="geometry" />
+          <mxGeometry x="-1480" y="742.5" width="120" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-17" value="1.1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-1265" y="330" width="30" height="30" as="geometry" />
@@ -286,7 +285,7 @@
           <mxGeometry x="-1295" y="460" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-19" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-1265" y="580" width="30" height="30" as="geometry" />
+          <mxGeometry x="-1435" y="690" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-20" value="&lt;ul style=&quot;font-size: 11px;&quot;&gt;&lt;li&gt;Overtime recording&lt;/li&gt;&lt;li&gt;Scheduling&lt;/li&gt;&lt;li&gt;Absence Recording&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1095" y="300" width="180.5" height="30" as="geometry" />
