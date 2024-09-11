@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="r__zFNlrKhQIh8nUa84n">
-    <mxGraphModel dx="3984" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3600" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -363,7 +363,7 @@
         <mxCell id="hhFu2yXnE7WBhEnphd9l-3" value="Holiday Entitlement&lt;div&gt;Absence Balance&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1218.06" y="-670" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sP1x2aJqUIdPwyUntwsx-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.decideom.fr/assets/uploads/2023/02/google-cloud.png;" vertex="1" parent="1">
+        <mxCell id="sP1x2aJqUIdPwyUntwsx-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.decideom.fr/assets/uploads/2023/02/google-cloud.png;" parent="1" vertex="1">
           <mxGeometry x="-2020" y="-630" width="129.56" height="80" as="geometry" />
         </mxCell>
       </root>
