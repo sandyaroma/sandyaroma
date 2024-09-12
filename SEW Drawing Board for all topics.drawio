@@ -227,7 +227,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Quokv1effK1ixG7RQ9Ke-8" value="Absence Balance / Holiday Entitlements" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Quokv1effK1ixG7RQ9Ke-7" vertex="1" connectable="0">
+        <mxCell id="Quokv1effK1ixG7RQ9Ke-8" value="Absence Balance / Holiday Entitlements&lt;div&gt;All other Absence Dates&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Quokv1effK1ixG7RQ9Ke-7" vertex="1" connectable="0">
           <mxGeometry x="0.064" y="-2" relative="1" as="geometry">
             <mxPoint x="35" y="-1" as="offset" />
           </mxGeometry>
