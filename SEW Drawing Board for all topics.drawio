@@ -305,13 +305,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Quokv1effK1ixG7RQ9Ke-35" value="Time Blocks / Payroll Inputs (Overtime.oncall etc)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Quokv1effK1ixG7RQ9Ke-30" vertex="1" connectable="0">
+        <mxCell id="Quokv1effK1ixG7RQ9Ke-35" value="Time Blocks / Payroll Inputs&lt;div&gt;(Overtime.oncall etc)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Quokv1effK1ixG7RQ9Ke-30" vertex="1" connectable="0">
           <mxGeometry x="0.4147" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-117" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Quokv1effK1ixG7RQ9Ke-31" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-559.06" y="410.48999999999995" width="30" height="30" as="geometry" />
+        <mxCell id="Quokv1effK1ixG7RQ9Ke-31" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-565.06" y="410.48999999999995" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-36" value="For both Genesys &amp;amp; NonGenesys Employees" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="-1476.56" y="750" width="166.56" height="30" as="geometry" />
@@ -335,7 +335,7 @@
           <mxGeometry x="-1300" y="457.64" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-39" value="4.2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-725.5" y="500" width="30" height="30" as="geometry" />
+          <mxGeometry x="-753.5" y="497" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RmPc4709bySQoacy-7Up-1" value="1.1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-1070" y="670" width="30" height="30" as="geometry" />
@@ -392,7 +392,15 @@
           <mxGeometry x="-753.0000000000002" y="403.71" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2G84AVkD9FPwAm8rxvvp-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freelogovectors.net/wp-content/uploads/2021/10/google-cloud-platform-logo-freelogovectors.net_.png;imageBackground=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="-1070" y="367" width="250.94" height="144.52" as="geometry" />
+          <mxGeometry x="-1070" y="367" width="300.39" height="173" as="geometry" />
+        </mxCell>
+        <mxCell id="2G84AVkD9FPwAm8rxvvp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.238;entryY=0.954;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.995;exitY=0.659;exitDx=0;exitDy=0;exitPerimeter=0;curved=0;dashed=1;" edge="1" parent="1" source="2G84AVkD9FPwAm8rxvvp-2" target="Quokv1effK1ixG7RQ9Ke-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-771" y="480" />
+              <mxPoint x="-571" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
