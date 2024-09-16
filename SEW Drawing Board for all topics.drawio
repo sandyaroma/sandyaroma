@@ -197,7 +197,7 @@
           <mxGeometry x="-1433.38" y="475.78000000000003" width="80.5" height="32.43" as="geometry" />
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-3" value="MaxiMo" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-590.06" y="323.71" width="80" height="80" as="geometry" />
+          <mxGeometry x="-490.05999999999995" y="331.21" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.738;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;curved=0;" parent="1" target="Quokv1effK1ixG7RQ9Ke-1" edge="1" source="Quokv1effK1ixG7RQ9Ke-6">
           <mxGeometry relative="1" as="geometry">
@@ -270,16 +270,16 @@
           <mxGeometry x="-1590" y="640" width="120" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-17" value="1.1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-753" y="367" width="30" height="30" as="geometry" />
+          <mxGeometry x="-653" y="374.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-19" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-1408.2800000000002" y="680" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-20" value="&lt;ul style=&quot;font-size: 11px;&quot;&gt;&lt;li&gt;Overtime recording&lt;/li&gt;&lt;li&gt;On call / Pay impact Rates etc.&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-630.56" y="283.71" width="205.5" height="30" as="geometry" />
+          <mxGeometry x="-530.56" y="291.21" width="205.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-21" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Absence &amp;amp; Workshifts&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;ul style=&quot;text-align: left;&quot;&gt;&lt;li&gt;Absence Recording&lt;/li&gt;&lt;li&gt;Scheduling&lt;/li&gt;&lt;li&gt;Sickness updates&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-785.56" y="273.71" width="157" height="30" as="geometry" />
+          <mxGeometry x="-685.56" y="281.21" width="157" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.425;entryY=0.016;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Quokv1effK1ixG7RQ9Ke-24" target="Quokv1effK1ixG7RQ9Ke-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -307,11 +307,11 @@
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-35" value="Time Blocks / Payroll Inputs&lt;div&gt;(Overtime.oncall etc)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Quokv1effK1ixG7RQ9Ke-30" vertex="1" connectable="0">
           <mxGeometry x="0.4147" y="1" relative="1" as="geometry">
-            <mxPoint x="-117" y="3" as="offset" />
+            <mxPoint x="-160" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-31" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-565.06" y="410.48999999999995" width="30" height="30" as="geometry" />
+          <mxGeometry x="-465.05999999999995" y="417.98999999999995" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-36" value="For both Genesys &amp;amp; NonGenesys Employees" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="-1476.56" y="750" width="166.56" height="30" as="geometry" />
@@ -328,14 +328,14 @@
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-38" value="Holiday Dates" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Quokv1effK1ixG7RQ9Ke-37" vertex="1" connectable="0">
           <mxGeometry x="0.064" y="-2" relative="1" as="geometry">
-            <mxPoint x="-215" as="offset" />
+            <mxPoint x="-265" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-18" value="4.1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-1300" y="457.64" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-39" value="4.2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-753.5" y="497" width="30" height="30" as="geometry" />
+          <mxGeometry x="-653.5" y="504.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RmPc4709bySQoacy-7Up-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-1680" y="337" width="30" height="30" as="geometry" />
@@ -358,7 +358,7 @@
         <mxCell id="e1q2M2otRBcGU2WsU9yc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;curved=0;dashed=1;exitX=0.019;exitY=0.406;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="2G84AVkD9FPwAm8rxvvp-2" target="Quokv1effK1ixG7RQ9Ke-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1065" y="415" />
+              <mxPoint x="-964" y="415" />
               <mxPoint x="-1333" y="415" />
             </Array>
             <mxPoint x="-300" y="420" as="sourcePoint" />
@@ -372,60 +372,63 @@
         </mxCell>
         <mxCell id="2G84AVkD9FPwAm8rxvvp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="Quokv1effK1ixG7RQ9Ke-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-920" y="410" as="targetPoint" />
+            <mxPoint x="-820" y="417.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-690" y="420" />
-              <mxPoint x="-920" y="420" />
+              <mxPoint x="-590" y="427.5" />
+              <mxPoint x="-820" y="427.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-6" value="Genesys&lt;div&gt;Call Centre Only&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="-718.1199999999999" y="323.71" width="80" height="80" as="geometry" />
+          <mxGeometry x="-618.1199999999999" y="331.21" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e1q2M2otRBcGU2WsU9yc-14" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-753.0000000000002" y="403.71" width="30" height="30" as="geometry" />
+          <mxGeometry x="-653.0000000000002" y="411.21" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2G84AVkD9FPwAm8rxvvp-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freelogovectors.net/wp-content/uploads/2021/10/google-cloud-platform-logo-freelogovectors.net_.png;imageBackground=#FFFFCC;" vertex="1" parent="1">
-          <mxGeometry x="-1070" y="367" width="300.39" height="173" as="geometry" />
+          <mxGeometry x="-970" y="374.5" width="300.39" height="173" as="geometry" />
         </mxCell>
         <mxCell id="2G84AVkD9FPwAm8rxvvp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.238;entryY=0.954;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.995;exitY=0.659;exitDx=0;exitDy=0;exitPerimeter=0;curved=0;dashed=1;" edge="1" parent="1" source="2G84AVkD9FPwAm8rxvvp-2" target="Quokv1effK1ixG7RQ9Ke-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-771" y="480" />
-              <mxPoint x="-571" y="480" />
+              <mxPoint x="-671" y="487.5" />
+              <mxPoint x="-471" y="487.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2G84AVkD9FPwAm8rxvvp-10" value="SEW Owned Data Lake" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1027.55" y="545.78" width="215.5" height="30" as="geometry" />
+          <mxGeometry x="-927.55" y="553.28" width="215.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2G84AVkD9FPwAm8rxvvp-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;To be confirmed&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;rotation=-15;" vertex="1" parent="1">
           <mxGeometry x="-830.68" y="188.53" width="160" height="36.29" as="geometry" />
         </mxCell>
         <mxCell id="2G84AVkD9FPwAm8rxvvp-12" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Other SEW Enterprise Apps&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-673.18" y="590" width="93.18" height="70" as="geometry" />
+          <mxGeometry x="-573.18" y="597.5" width="93.18" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2G84AVkD9FPwAm8rxvvp-13" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Other SEW Enterprise Apps&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-663.18" y="600" width="93.18" height="70" as="geometry" />
+          <mxGeometry x="-563.18" y="607.5" width="93.18" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2G84AVkD9FPwAm8rxvvp-14" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Other SEW Enterprise Apps&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-653.18" y="610" width="93.18" height="70" as="geometry" />
+          <mxGeometry x="-553.18" y="617.5" width="93.18" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2G84AVkD9FPwAm8rxvvp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=45;entryPerimeter=0;curved=0;dashed=1;" edge="1" parent="1" source="2G84AVkD9FPwAm8rxvvp-2" target="2G84AVkD9FPwAm8rxvvp-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-820" y="635" />
+              <mxPoint x="-720" y="642.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2G84AVkD9FPwAm8rxvvp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=45;entryPerimeter=0;curved=0;dashed=1;" edge="1" parent="1" source="2G84AVkD9FPwAm8rxvvp-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-810" y="550" as="sourcePoint" />
-            <mxPoint x="-663" y="645" as="targetPoint" />
+            <mxPoint x="-710" y="557.5" as="sourcePoint" />
+            <mxPoint x="-563" y="652.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-830" y="645" />
+              <mxPoint x="-730" y="652.5" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2G84AVkD9FPwAm8rxvvp-17" value="&lt;b&gt;{ Workday SOAP API }&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="435.78" width="212" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
