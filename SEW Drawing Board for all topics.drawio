@@ -366,9 +366,10 @@
         <mxCell id="e1q2M2otRBcGU2WsU9yc-11" value="OUT OF SCOPE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1575" y="620" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e1q2M2otRBcGU2WsU9yc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;curved=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2G84AVkD9FPwAm8rxvvp-2" target="Quokv1effK1ixG7RQ9Ke-1" edge="1">
+        <mxCell id="e1q2M2otRBcGU2WsU9yc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;curved=0;dashed=1;exitX=0.015;exitY=0.411;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="2G84AVkD9FPwAm8rxvvp-2" target="Quokv1effK1ixG7RQ9Ke-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="-1058" y="411" />
               <mxPoint x="-1310" y="411" />
             </Array>
             <mxPoint x="-300" y="420" as="sourcePoint" />
