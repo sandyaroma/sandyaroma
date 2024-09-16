@@ -402,6 +402,31 @@
         <mxCell id="2G84AVkD9FPwAm8rxvvp-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;To be confirmed&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;rotation=-15;" vertex="1" parent="1">
           <mxGeometry x="-830.68" y="188.53" width="160" height="36.29" as="geometry" />
         </mxCell>
+        <mxCell id="2G84AVkD9FPwAm8rxvvp-12" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Other SEW Enterprise Apps&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-673.18" y="590" width="93.18" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2G84AVkD9FPwAm8rxvvp-13" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Other SEW Enterprise Apps&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-663.18" y="600" width="93.18" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2G84AVkD9FPwAm8rxvvp-14" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Other SEW Enterprise Apps&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-653.18" y="610" width="93.18" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2G84AVkD9FPwAm8rxvvp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=45;entryPerimeter=0;curved=0;dashed=1;" edge="1" parent="1" source="2G84AVkD9FPwAm8rxvvp-2" target="2G84AVkD9FPwAm8rxvvp-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-820" y="635" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2G84AVkD9FPwAm8rxvvp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=45;entryPerimeter=0;curved=0;dashed=1;" edge="1" parent="1" source="2G84AVkD9FPwAm8rxvvp-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-810" y="550" as="sourcePoint" />
+            <mxPoint x="-663" y="645" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-830" y="645" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
