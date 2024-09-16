@@ -379,7 +379,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-920" y="410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-690" y="410" />
+              <mxPoint x="-690" y="420" />
+              <mxPoint x="-920" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -387,7 +388,7 @@
           <mxGeometry x="-718.1199999999999" y="323.71" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e1q2M2otRBcGU2WsU9yc-14" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-793.0000000000002" y="396" width="30" height="30" as="geometry" />
+          <mxGeometry x="-753.0000000000002" y="403.71" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2G84AVkD9FPwAm8rxvvp-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freelogovectors.net/wp-content/uploads/2021/10/google-cloud-platform-logo-freelogovectors.net_.png;imageBackground=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="-1070" y="367" width="250.94" height="144.52" as="geometry" />
