@@ -295,8 +295,8 @@
         <mxCell id="Quokv1effK1ixG7RQ9Ke-24" value="1.2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-1420" y="290" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Quokv1effK1ixG7RQ9Ke-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;FINAL End to End Solution related to Absence Workschedule and update of Workshifts for Payroll Proration&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#E6E6E6;" parent="1" vertex="1">
-          <mxGeometry x="-1660" y="180" width="920" height="50" as="geometry" />
+        <mxCell id="Quokv1effK1ixG7RQ9Ke-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;FINAL End to End Solution related to Absence Workschedule and update of Workshifts for Payroll Proration and Data Lake in general&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#E6E6E6;" parent="1" vertex="1">
+          <mxGeometry x="-1690" y="180" width="1250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=97.5;entryPerimeter=0;curved=0;dashed=1;" parent="1" source="Quokv1effK1ixG7RQ9Ke-3" target="Quokv1effK1ixG7RQ9Ke-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -395,6 +395,9 @@
               <mxPoint x="-571" y="480" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2G84AVkD9FPwAm8rxvvp-10" value="SEW Owned Data Lake" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1027.55" y="545.78" width="215.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
