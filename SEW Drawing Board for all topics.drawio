@@ -358,8 +358,8 @@
         <mxCell id="e1q2M2otRBcGU2WsU9yc-10" value="E = Extract&lt;div&gt;T = Transform&lt;/div&gt;&lt;div&gt;L = Load&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;done by GCP (SEW)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-1670" y="250" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="e1q2M2otRBcGU2WsU9yc-11" value="OUT OF SCOPE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1575" y="620" width="340" height="30" as="geometry" />
+        <mxCell id="e1q2M2otRBcGU2WsU9yc-11" value="OUT OF SCOPE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
+          <mxGeometry x="-1590" y="620" width="340" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e1q2M2otRBcGU2WsU9yc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;curved=0;dashed=1;exitX=0.019;exitY=0.406;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="2G84AVkD9FPwAm8rxvvp-2" target="Quokv1effK1ixG7RQ9Ke-1" edge="1">
           <mxGeometry relative="1" as="geometry">
