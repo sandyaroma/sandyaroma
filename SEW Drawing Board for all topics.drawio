@@ -430,6 +430,9 @@
         <mxCell id="2G84AVkD9FPwAm8rxvvp-17" value="&lt;b&gt;{ Workday SOAP API }&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-1120" y="435.78" width="212" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2G84AVkD9FPwAm8rxvvp-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;strokeColor=#FF99CC;" vertex="1" parent="1">
+          <mxGeometry x="-1730" y="230" width="1390" height="580" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
