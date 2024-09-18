@@ -206,6 +206,17 @@
         <mxCell id="iWb4p-idVO0Ogn2U3yh9-449" value="&lt;span style=&quot;background-color: rgb(204, 255, 255);&quot;&gt;Absence and TT Data&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1730" y="-395" as="geometry" />
         </mxCell>
+        <mxCell id="iWb4p-idVO0Ogn2U3yh9-452" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1" source="iWb4p-idVO0Ogn2U3yh9-450">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1730" y="-590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iWb4p-idVO0Ogn2U3yh9-450" value="&lt;font color=&quot;#ffffff&quot;&gt;Local&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;Clocking Machines&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#B266FF;strokeColor=#E5CCFF;" vertex="1" parent="1">
+          <mxGeometry x="-1530" y="-790" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iWb4p-idVO0Ogn2U3yh9-451" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.clock;" vertex="1" parent="1">
+          <mxGeometry x="-1420" y="-790" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
