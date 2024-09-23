@@ -342,7 +342,7 @@
           <mxGeometry x="-1650" y="-804.22" width="51" height="10" as="geometry" />
         </mxCell>
         <mxCell id="I8Xz8YvCnw3PJ4N5kssE-1" value="Payroll GL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-1240" y="-329.72" width="100" height="70" as="geometry" />
+          <mxGeometry x="-1058.06" y="-245.22000000000003" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0-8fQCSJ9ABT-ZbM3SJc-3" value="Calendar" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://usingtechnologybetter.com/wp-content/uploads/2022/09/MS-Outlook-Calendar-1.png;" parent="1" vertex="1">
           <mxGeometry x="-1599" y="-714.22" width="33.62" height="33.62" as="geometry" />
