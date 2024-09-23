@@ -305,7 +305,7 @@
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-86" value="Interview&lt;div&gt;Link&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LXhwEYFynrwZ-pUap6Co-85" vertex="1" connectable="0">
           <mxGeometry x="0.5126" relative="1" as="geometry">
-            <mxPoint x="-100" y="-11" as="offset" />
+            <mxPoint y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tIEBANXEXaCzJwbuq1Jv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;dashed=1;curved=0;" parent="1" source="LXhwEYFynrwZ-pUap6Co-54" target="LXhwEYFynrwZ-pUap6Co-66" edge="1">
