@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Page-1" id="YFZ21Ih1EOlpKVf8m3o0">
     <mxGraphModel dx="4123" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -301,10 +301,10 @@
         <mxCell id="Quokv1effK1ixG7RQ9Ke-26" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;FINAL End to End Solution related to Absence Workschedule and update of Workshifts for Payroll Proration and Data Lake in general&lt;/font&gt;&lt;/blockquote&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="-1730" y="180" width="1390" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Quokv1effK1ixG7RQ9Ke-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=97.5;entryPerimeter=0;curved=0;dashed=1;" parent="1" source="Quokv1effK1ixG7RQ9Ke-3" target="Quokv1effK1ixG7RQ9Ke-1" edge="1">
+        <mxCell id="Quokv1effK1ixG7RQ9Ke-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=97.5;entryPerimeter=0;curved=0;dashed=1;exitX=0.621;exitY=0.951;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Quokv1effK1ixG7RQ9Ke-3" target="Quokv1effK1ixG7RQ9Ke-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-550" y="533" />
+              <mxPoint x="-440" y="533" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -338,7 +338,7 @@
           <mxGeometry x="-1300" y="457.64" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-39" value="4.2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-653.5" y="504.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="-653.5" y="499.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RmPc4709bySQoacy-7Up-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-1680" y="337" width="30" height="30" as="geometry" />
@@ -356,7 +356,7 @@
           <mxGeometry x="-1670" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e1q2M2otRBcGU2WsU9yc-11" value="OUT OF SCOPE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="-1555" y="607.5" width="340" height="40" as="geometry" />
+          <mxGeometry x="-1563.28" y="820" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e1q2M2otRBcGU2WsU9yc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;curved=0;dashed=1;exitX=0.019;exitY=0.406;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="2G84AVkD9FPwAm8rxvvp-2" target="Quokv1effK1ixG7RQ9Ke-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -391,11 +391,10 @@
         <mxCell id="2G84AVkD9FPwAm8rxvvp-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freelogovectors.net/wp-content/uploads/2021/10/google-cloud-platform-logo-freelogovectors.net_.png;imageBackground=#FFFFCC;" parent="1" vertex="1">
           <mxGeometry x="-970" y="374.5" width="300.39" height="173" as="geometry" />
         </mxCell>
-        <mxCell id="2G84AVkD9FPwAm8rxvvp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.238;entryY=0.954;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.995;exitY=0.659;exitDx=0;exitDy=0;exitPerimeter=0;curved=0;dashed=1;" parent="1" source="2G84AVkD9FPwAm8rxvvp-2" target="Quokv1effK1ixG7RQ9Ke-3" edge="1">
+        <mxCell id="2G84AVkD9FPwAm8rxvvp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.995;exitY=0.659;exitDx=0;exitDy=0;exitPerimeter=0;curved=0;dashed=1;" parent="1" source="2G84AVkD9FPwAm8rxvvp-2" target="Quokv1effK1ixG7RQ9Ke-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-671" y="487.5" />
-              <mxPoint x="-471" y="487.5" />
+              <mxPoint x="-578" y="489" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -404,31 +403,6 @@
         </mxCell>
         <mxCell id="2G84AVkD9FPwAm8rxvvp-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;To be confirmed&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;rotation=-15;" parent="1" vertex="1">
           <mxGeometry x="-821" y="170" width="160" height="36.29" as="geometry" />
-        </mxCell>
-        <mxCell id="2G84AVkD9FPwAm8rxvvp-12" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Other SEW Enterprise Apps&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-573.18" y="597.5" width="93.18" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="2G84AVkD9FPwAm8rxvvp-13" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Other SEW Enterprise Apps&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-563.18" y="607.5" width="93.18" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="2G84AVkD9FPwAm8rxvvp-14" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Other SEW Enterprise Apps&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-553.18" y="617.5" width="93.18" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="2G84AVkD9FPwAm8rxvvp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=45;entryPerimeter=0;curved=0;dashed=1;" parent="1" source="2G84AVkD9FPwAm8rxvvp-2" target="2G84AVkD9FPwAm8rxvvp-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-720" y="642.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2G84AVkD9FPwAm8rxvvp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=45;entryPerimeter=0;curved=0;dashed=1;" parent="1" source="2G84AVkD9FPwAm8rxvvp-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-710" y="557.5" as="sourcePoint" />
-            <mxPoint x="-563" y="652.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-730" y="652.5" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="2G84AVkD9FPwAm8rxvvp-17" value="&lt;b&gt;{ Workday SOAP API }&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="-1120" y="435.78" width="212" height="30" as="geometry" />
