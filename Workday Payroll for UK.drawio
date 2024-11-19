@@ -46,10 +46,10 @@
             <mxPoint x="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zf7JSe4_cWdeyaPUmyBR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;strokeColor=#4D4D4D;curved=0;" edge="1" parent="1" source="zf7JSe4_cWdeyaPUmyBR-3" target="zf7JSe4_cWdeyaPUmyBR-8">
+        <mxCell id="zf7JSe4_cWdeyaPUmyBR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;strokeColor=#4D4D4D;curved=0;exitX=0.987;exitY=0.238;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zf7JSe4_cWdeyaPUmyBR-3" target="zf7JSe4_cWdeyaPUmyBR-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1720" y="-380" />
+              <mxPoint x="-1720" y="-404" />
               <mxPoint x="-1720" y="-680" />
             </Array>
           </mxGeometry>
@@ -67,6 +67,19 @@
         <mxCell id="zf7JSe4_cWdeyaPUmyBR-21" value="&lt;p style=&quot;language:en-US;line-height:115%;margin-top:0pt;margin-bottom:0pt;&lt;br/&gt;margin-left:0in;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:&lt;br/&gt;none;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-size: 8pt; font-family: Arial; background-color: rgb(255, 255, 204);&quot;&gt;WPN - BACS Standard 18 Payment&lt;/span&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zf7JSe4_cWdeyaPUmyBR-20">
           <mxGeometry x="-0.4185" relative="1" as="geometry">
             <mxPoint x="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zf7JSe4_cWdeyaPUmyBR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=34.95143127441406;exitPerimeter=0;curved=0;" edge="1" parent="1" source="zf7JSe4_cWdeyaPUmyBR-3" target="zf7JSe4_cWdeyaPUmyBR-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1650" y="-395" />
+              <mxPoint x="-1650" y="-674" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zf7JSe4_cWdeyaPUmyBR-24" value="&lt;p style=&quot;line-height: 115%; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size: 8pt; font-family: Arial; background-color: rgb(255, 255, 204);&quot;&gt;3rd party Bacs&lt;/span&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zf7JSe4_cWdeyaPUmyBR-23">
+          <mxGeometry x="-0.0704" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zf7JSe4_cWdeyaPUmyBR-3" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; color=&quot;#ffffff&quot;&gt;HCM&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;ABSENCE, TT,&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;UK PAYROLL&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=14.902862548828125;fillColor=#FFB366;strokeColor=#FFFFFF;shadow=1;textShadow=1;" vertex="1" parent="1">
@@ -99,6 +112,9 @@
         </mxCell>
         <mxCell id="zf7JSe4_cWdeyaPUmyBR-19" value="Bank" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="-1560" y="-570" width="79" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="zf7JSe4_cWdeyaPUmyBR-22" value="Treasury Management System" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/bikewheel-128.png" vertex="1" parent="1">
+          <mxGeometry x="-1529" y="-698" width="48" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
