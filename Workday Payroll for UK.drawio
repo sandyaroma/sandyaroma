@@ -29,6 +29,12 @@
         <mxCell id="zf7JSe4_cWdeyaPUmyBR-5" value="SAP GL&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" vertex="1" parent="1">
           <mxGeometry x="-1465" y="-471.57" width="50" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="zf7JSe4_cWdeyaPUmyBR-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logo-marque.com/wp-content/uploads/2021/09/HM-Revenue-and-Customs-HMRC-Logo-2005-2013.jpg;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-1893.33" y="-710" width="106.66" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zf7JSe4_cWdeyaPUmyBR-9" value="HMRC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1880.5" y="-740" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
