@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="170" width="480" height="370" as="geometry" />
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-18" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="370" y="220" width="610" height="300" as="geometry" />
         </mxCell>
         <mxCell id="mhnJ7i8BOFr2f9XJKJYB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mhnJ7i8BOFr2f9XJKJYB-1" target="mhnJ7i8BOFr2f9XJKJYB-4">
           <mxGeometry relative="1" as="geometry">
@@ -52,6 +52,9 @@
         </mxCell>
         <mxCell id="mhnJ7i8BOFr2f9XJKJYB-17" value="UI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-19" value="Workday Cloud" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="650" y="220" width="50" height="31.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
