@@ -1,9 +1,58 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.3">
   <diagram name="Page-1" id="V0P_ShoshVWENLGkO5tE">
-    <mxGraphModel>
+    <mxGraphModel dx="1647" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="170" width="480" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mhnJ7i8BOFr2f9XJKJYB-1" target="mhnJ7i8BOFr2f9XJKJYB-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-5" value="Daily&lt;div&gt;ClockIn/Clock Out&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CSV file/ Excel&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mhnJ7i8BOFr2f9XJKJYB-3">
+          <mxGeometry x="-0.1599" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-1" value="SiPass" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-2" value="Workday" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="650" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mhnJ7i8BOFr2f9XJKJYB-4" target="mhnJ7i8BOFr2f9XJKJYB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-4" value="Pre-Processing" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="380" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mhnJ7i8BOFr2f9XJKJYB-6" target="mhnJ7i8BOFr2f9XJKJYB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-6" value="XML" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="520" y="310" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mhnJ7i8BOFr2f9XJKJYB-11" target="mhnJ7i8BOFr2f9XJKJYB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-11" value="Eligibility Rule" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="380" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mhnJ7i8BOFr2f9XJKJYB-12" target="mhnJ7i8BOFr2f9XJKJYB-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="686.25" y="440" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-15" value="Worker as self can&#39;t choose the option&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&#39;Working Hours&quot;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="380" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-17" value="UI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="320" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
