@@ -868,6 +868,9 @@
         <mxCell id="O7gv_lkfUZj6TbOdctN--9" value="&lt;i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Core Connector&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;div&gt;&lt;i&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Locations Outbound&lt;/font&gt;&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="715.74" y="218" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TDIq1Ym3qKtqf9vVc846-1" value="&lt;font color=&quot;#ff3333&quot;&gt;Out of scope&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;strokeColor=none;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="1523.41" y="286.5" width="110" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
