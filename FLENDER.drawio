@@ -17,10 +17,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-1" value="SiPass" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-1" value="SiPass" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
           <mxGeometry x="100" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-2" value="Workday" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-2" value="&lt;font color=&quot;#ffffff&quot;&gt;Workday&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="650" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mhnJ7i8BOFr2f9XJKJYB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mhnJ7i8BOFr2f9XJKJYB-4" target="mhnJ7i8BOFr2f9XJKJYB-6">
