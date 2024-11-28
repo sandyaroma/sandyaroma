@@ -56,6 +56,9 @@
         <mxCell id="mhnJ7i8BOFr2f9XJKJYB-19" value="Workday Cloud" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
           <mxGeometry x="650" y="220" width="50" height="31.5" as="geometry" />
         </mxCell>
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-23" value="&lt;b&gt;&lt;font color=&quot;#990099&quot; style=&quot;font-size: 20px;&quot;&gt;FLENDER PROJECT&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#990099&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#990099&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#990099&quot; style=&quot;font-size: 20px;&quot;&gt;TIME TRACKING AND ABSENCE&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="80" width="440" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
