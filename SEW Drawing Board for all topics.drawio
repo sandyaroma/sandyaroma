@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.3">
   <diagram name="Page-1" id="YFZ21Ih1EOlpKVf8m3o0">
-    <mxGraphModel dx="4197" dy="1977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3082" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,10 +202,10 @@
         <mxCell id="Quokv1effK1ixG7RQ9Ke-3" value="&lt;b&gt;MaxiMo&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-490.05999999999995" y="331.21" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Quokv1effK1ixG7RQ9Ke-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.738;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;curved=0;" parent="1" source="Quokv1effK1ixG7RQ9Ke-6" target="Quokv1effK1ixG7RQ9Ke-1" edge="1">
+        <mxCell id="Quokv1effK1ixG7RQ9Ke-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.99;entryY=0.425;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;curved=0;" parent="1" source="Quokv1effK1ixG7RQ9Ke-6" target="Quokv1effK1ixG7RQ9Ke-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1352" y="390" />
+              <mxPoint x="-578" y="495" />
             </Array>
             <mxPoint x="-760" y="360" as="sourcePoint" />
           </mxGeometry>
@@ -215,16 +215,18 @@
             <mxPoint x="-158" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Quokv1effK1ixG7RQ9Ke-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=42.5;entryPerimeter=0;dashed=1;curved=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="1" source="Quokv1effK1ixG7RQ9Ke-6" target="Quokv1effK1ixG7RQ9Ke-1" edge="1">
+        <mxCell id="Quokv1effK1ixG7RQ9Ke-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=42.5;entryPerimeter=0;dashed=1;curved=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;exitX=0.247;exitY=0.995;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Quokv1effK1ixG7RQ9Ke-6" target="Quokv1effK1ixG7RQ9Ke-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-680" y="478" />
+              <mxPoint x="-590" y="411" />
+              <mxPoint x="-590" y="470" />
+              <mxPoint x="-1310" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Quokv1effK1ixG7RQ9Ke-8" value="Absence Balance / Holiday Entitlements&lt;div&gt;All other Absence Dates&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Quokv1effK1ixG7RQ9Ke-7" vertex="1" connectable="0">
+        <mxCell id="Quokv1effK1ixG7RQ9Ke-8" value="Absence Balance / Holiday Entitlements&lt;div&gt;All other Absence Dates&lt;/div&gt;&lt;div&gt;Time Off Type&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Quokv1effK1ixG7RQ9Ke-7" vertex="1" connectable="0">
           <mxGeometry x="0.064" y="-2" relative="1" as="geometry">
-            <mxPoint x="-200" y="-19" as="offset" />
+            <mxPoint x="-186" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeColor=#007FFF;curved=0;" parent="1" source="Quokv1effK1ixG7RQ9Ke-1" target="Quokv1effK1ixG7RQ9Ke-13" edge="1">
@@ -240,7 +242,7 @@
             <mxPoint x="2" y="38" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ehH-_kCca_gk5G40d79T-2" value="&lt;font color=&quot;#ff3333&quot;&gt;RaaS&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;REST API&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Quokv1effK1ixG7RQ9Ke-9">
+        <mxCell id="ehH-_kCca_gk5G40d79T-2" value="&lt;font color=&quot;#ff3333&quot;&gt;RaaS&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;REST API&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Quokv1effK1ixG7RQ9Ke-9" vertex="1" connectable="0">
           <mxGeometry x="0.2299" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -274,16 +276,13 @@
             <mxPoint x="13" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ehH-_kCca_gk5G40d79T-1" value="&lt;font color=&quot;#ff6666&quot;&gt;SOAP API&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Quokv1effK1ixG7RQ9Ke-14">
+        <mxCell id="ehH-_kCca_gk5G40d79T-1" value="&lt;font color=&quot;#ff6666&quot;&gt;SOAP API&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Quokv1effK1ixG7RQ9Ke-14" vertex="1" connectable="0">
           <mxGeometry x="-0.5192" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-16" value="&lt;div&gt;UPDATE&lt;/div&gt;&lt;div&gt;Position with mapped&lt;/div&gt;Work Shifts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1590" y="640" width="120" height="47.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Quokv1effK1ixG7RQ9Ke-17" value="1.1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-653" y="374.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-19" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-1408.2800000000002" y="680" width="30" height="30" as="geometry" />
@@ -311,29 +310,15 @@
         <mxCell id="Quokv1effK1ixG7RQ9Ke-26" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;FINAL End to End Solution related to Absence Workschedule and update of Workshifts for Payroll Proration and Data Lake in general&lt;/font&gt;&lt;/blockquote&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="-1730" y="180" width="1390" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Quokv1effK1ixG7RQ9Ke-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=97.5;entryPerimeter=0;curved=0;dashed=1;exitX=0.621;exitY=0.951;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Quokv1effK1ixG7RQ9Ke-3" target="Quokv1effK1ixG7RQ9Ke-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-440" y="533" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Quokv1effK1ixG7RQ9Ke-35" value="Time Blocks / Payroll Inputs&lt;div&gt;(Overtime.oncall etc)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Quokv1effK1ixG7RQ9Ke-30" vertex="1" connectable="0">
-          <mxGeometry x="0.4147" y="1" relative="1" as="geometry">
-            <mxPoint x="-160" y="6" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Quokv1effK1ixG7RQ9Ke-31" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-465.05999999999995" y="417.98999999999995" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-36" value="For both Genesys &amp;amp; NonGenesys Employees" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fillColor=#E6E6E6;" parent="1" vertex="1">
           <mxGeometry x="-1476.56" y="750" width="166.56" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;curved=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.734;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Quokv1effK1ixG7RQ9Ke-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="-559" y="520" />
+              <mxPoint x="-994" y="520" />
               <mxPoint x="-994" y="510" />
-              <mxPoint x="-1310" y="510" />
             </Array>
             <mxPoint x="-1005" y="430" as="sourcePoint" />
             <mxPoint x="-1310" y="510" as="targetPoint" />
@@ -345,7 +330,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-18" value="4.1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-1300" y="457.64" width="30" height="30" as="geometry" />
+          <mxGeometry x="-1300" y="447.99" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-39" value="4.2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-653.5" y="499.5" width="30" height="30" as="geometry" />
@@ -366,56 +351,42 @@
           <mxGeometry x="-1670" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e1q2M2otRBcGU2WsU9yc-11" value="OUT OF SCOPE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="1" vertex="1">
-          <mxGeometry x="-1563.28" y="820" width="340" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="e1q2M2otRBcGU2WsU9yc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;curved=0;dashed=1;exitX=0.019;exitY=0.406;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="2G84AVkD9FPwAm8rxvvp-2" target="Quokv1effK1ixG7RQ9Ke-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-964" y="415" />
-              <mxPoint x="-1333" y="415" />
-            </Array>
-            <mxPoint x="-300" y="420" as="sourcePoint" />
-            <mxPoint x="-1130" y="644.8899999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e1q2M2otRBcGU2WsU9yc-13" value="&lt;b&gt;Work Shifts&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="e1q2M2otRBcGU2WsU9yc-12" vertex="1" connectable="0">
-          <mxGeometry x="0.2614" relative="1" as="geometry">
-            <mxPoint x="61" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2G84AVkD9FPwAm8rxvvp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="Quokv1effK1ixG7RQ9Ke-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-820" y="417.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-590" y="427.5" />
-              <mxPoint x="-820" y="427.5" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="-1575" y="1330" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Quokv1effK1ixG7RQ9Ke-6" value="&lt;b&gt;Genesys&lt;/b&gt;&lt;div&gt;Call Centre Only&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-618.1199999999999" y="331.21" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="e1q2M2otRBcGU2WsU9yc-14" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-653.0000000000002" y="411.21" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2G84AVkD9FPwAm8rxvvp-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freelogovectors.net/wp-content/uploads/2021/10/google-cloud-platform-logo-freelogovectors.net_.png;imageBackground=#FFFFCC;" parent="1" vertex="1">
-          <mxGeometry x="-970" y="374.5" width="300.39" height="173" as="geometry" />
-        </mxCell>
-        <mxCell id="2G84AVkD9FPwAm8rxvvp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.995;exitY=0.659;exitDx=0;exitDy=0;exitPerimeter=0;curved=0;dashed=1;" parent="1" source="2G84AVkD9FPwAm8rxvvp-2" target="Quokv1effK1ixG7RQ9Ke-6" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-578" y="489" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="2G84AVkD9FPwAm8rxvvp-10" value="SEW Owned Data Lake" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-927.55" y="553.28" width="215.5" height="30" as="geometry" />
+          <mxGeometry x="-860" y="1020" width="215.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2G84AVkD9FPwAm8rxvvp-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;To be confirmed&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;rotation=-15;" parent="1" vertex="1">
           <mxGeometry x="-821" y="170" width="160" height="36.29" as="geometry" />
         </mxCell>
+        <mxCell id="vwXGBaU-9FOC20GeLkTA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=0;exitDx=0;exitDy=4.35;exitPerimeter=0;entryX=0.145;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;curved=0;dashed=1;" edge="1" parent="1" source="Quokv1effK1ixG7RQ9Ke-1" target="Quokv1effK1ixG7RQ9Ke-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1333" y="407" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vwXGBaU-9FOC20GeLkTA-3" value="Worker Data&lt;div&gt;EMP ID&lt;/div&gt;&lt;div&gt;Time Off Type&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vwXGBaU-9FOC20GeLkTA-2">
+          <mxGeometry x="0.075" y="-4" relative="1" as="geometry">
+            <mxPoint x="-162" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vwXGBaU-9FOC20GeLkTA-4" value="REST" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vwXGBaU-9FOC20GeLkTA-2">
+          <mxGeometry x="0.4592" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2G84AVkD9FPwAm8rxvvp-17" value="&lt;b&gt;{ Workday SOAP API }&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="-1120" y="435.78" width="212" height="30" as="geometry" />
+          <mxGeometry x="-950" y="505" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vwXGBaU-9FOC20GeLkTA-5" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1330" y="405.78" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vwXGBaU-9FOC20GeLkTA-6" value="&lt;b&gt;RaaS&lt;/b&gt;&lt;div&gt;&lt;b&gt;REST&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="420" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
