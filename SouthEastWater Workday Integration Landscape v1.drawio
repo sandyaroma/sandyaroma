@@ -383,6 +383,9 @@
         <mxCell id="K8xXDljndKFM3jqNil_v-1" value="out of scope" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="-1790" y="-714.22" width="230" height="24.22" as="geometry" />
         </mxCell>
+        <mxCell id="K8xXDljndKFM3jqNil_v-2" value="Delayed" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="-1270" y="-584.22" width="160" height="24.22" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
