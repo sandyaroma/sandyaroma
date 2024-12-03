@@ -196,7 +196,7 @@
           <mxGeometry x="-1360" y="-779.22" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-57" value="HMRC" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png" parent="1" vertex="1">
-          <mxGeometry x="-2020" y="-358.72" width="99" height="99" as="geometry" />
+          <mxGeometry x="-2040" y="-380" width="99" height="99" as="geometry" />
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#007FFF;" parent="1" source="LXhwEYFynrwZ-pUap6Co-10" target="LXhwEYFynrwZ-pUap6Co-63" edge="1">
           <mxGeometry relative="1" as="geometry">
