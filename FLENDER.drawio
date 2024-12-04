@@ -1,63 +1,77 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.3">
   <diagram name="Page-1" id="V0P_ShoshVWENLGkO5tE">
-    <mxGraphModel dx="1647" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="1738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-18" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#99FFFF;shadow=1;fillColor=#FFFCFA;" vertex="1" parent="1">
-          <mxGeometry x="370" y="219" width="610" height="291" as="geometry" />
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-18" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#99FFFF;shadow=1;fillColor=#FFFCFA;" parent="1" vertex="1">
+          <mxGeometry x="370" y="219" width="780" height="291" as="geometry" />
         </mxCell>
-        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mhnJ7i8BOFr2f9XJKJYB-1" target="mhnJ7i8BOFr2f9XJKJYB-4">
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mhnJ7i8BOFr2f9XJKJYB-1" target="mhnJ7i8BOFr2f9XJKJYB-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-5" value="Daily&lt;div&gt;ClockIn/Clock Out&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CSV file/ Excel&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mhnJ7i8BOFr2f9XJKJYB-3">
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-5" value="Daily&lt;div&gt;ClockIn/Clock Out&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;CSV file/ Excel&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mhnJ7i8BOFr2f9XJKJYB-3" vertex="1" connectable="0">
           <mxGeometry x="-0.1599" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-59" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-1" value="SiPass" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
-          <mxGeometry x="100" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-1" value="SiPass" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" parent="1" vertex="1">
+          <mxGeometry x="110" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-2" value="&lt;font color=&quot;#ffffff&quot;&gt;Workday&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="650" y="290" width="120" height="60" as="geometry" />
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-2" value="&lt;font color=&quot;#ffffff&quot;&gt;Workday&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="890" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mhnJ7i8BOFr2f9XJKJYB-4" target="mhnJ7i8BOFr2f9XJKJYB-6">
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mhnJ7i8BOFr2f9XJKJYB-4" target="mhnJ7i8BOFr2f9XJKJYB-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="330" />
+              <mxPoint x="640" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-4" value="&lt;div&gt;Studio&lt;/div&gt;Pre-Processing" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="540" y="300" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mhnJ7i8BOFr2f9XJKJYB-6" target="mhnJ7i8BOFr2f9XJKJYB-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-4" value="Pre-Processing" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="380" y="290" width="100" height="60" as="geometry" />
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-6" value="XML" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="760" y="330" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mhnJ7i8BOFr2f9XJKJYB-6" target="mhnJ7i8BOFr2f9XJKJYB-2">
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="mhnJ7i8BOFr2f9XJKJYB-11" target="mhnJ7i8BOFr2f9XJKJYB-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-6" value="XML" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="520" y="310" width="80" height="20" as="geometry" />
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-11" value="Eligibility Rule" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="890" y="400" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mhnJ7i8BOFr2f9XJKJYB-11" target="mhnJ7i8BOFr2f9XJKJYB-2">
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="mhnJ7i8BOFr2f9XJKJYB-12" target="mhnJ7i8BOFr2f9XJKJYB-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-11" value="Eligibility Rule" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="380" width="120" height="30" as="geometry" />
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" parent="1" vertex="1">
+          <mxGeometry x="926.25" y="450" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mhnJ7i8BOFr2f9XJKJYB-12" target="mhnJ7i8BOFr2f9XJKJYB-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-15" value="Worker as self can&#39;t choose the option&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&#39;Working Hours&quot;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="400" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="686.25" y="440" width="47.5" height="50" as="geometry" />
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-17" value="UI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-15" value="Worker as self can&#39;t choose the option&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&#39;Working Hours&quot;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="780" y="380" width="130" height="30" as="geometry" />
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-19" value="Workday Cloud" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" parent="1" vertex="1">
+          <mxGeometry x="923.75" y="240" width="50" height="31.5" as="geometry" />
         </mxCell>
-        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-17" value="UI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="320" width="60" height="30" as="geometry" />
+        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-23" value="&lt;b&gt;&lt;font color=&quot;#990099&quot; style=&quot;font-size: 20px;&quot;&gt;FLENDER PROJECT&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#990099&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#990099&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#990099&quot; style=&quot;font-size: 20px;&quot;&gt;TIME TRACKING AND ABSENCE&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry y="10" width="440" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-19" value="Workday Cloud" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
-          <mxGeometry x="650" y="220" width="50" height="31.5" as="geometry" />
+        <mxCell id="gzL4G7LUn9bIQKlF3hCV-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="mhnJ7i8BOFr2f9XJKJYB-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="390" as="sourcePoint" />
+            <mxPoint x="890" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="mhnJ7i8BOFr2f9XJKJYB-23" value="&lt;b&gt;&lt;font color=&quot;#990099&quot; style=&quot;font-size: 20px;&quot;&gt;FLENDER PROJECT&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#990099&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#990099&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#990099&quot; style=&quot;font-size: 20px;&quot;&gt;TIME TRACKING AND ABSENCE&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="80" width="440" height="30" as="geometry" />
+        <mxCell id="gzL4G7LUn9bIQKlF3hCV-2" value="&lt;font color=&quot;#333333&quot;&gt;Workday&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#333333&quot;&gt;Listener Service&lt;/font&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/blockchain/event_listener.svg;" vertex="1" parent="1">
+          <mxGeometry x="405" y="320" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
