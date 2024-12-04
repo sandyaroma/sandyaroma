@@ -61,8 +61,22 @@
         <mxCell id="MLYI0ruSOf-LYZXjbnKI-24" value="External Candidates Recruitment" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="550" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MLYI0ruSOf-LYZXjbnKI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="655" as="targetPoint" />
+            <mxPoint x="640" y="655" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MLYI0ruSOf-LYZXjbnKI-25" value="Internal&lt;div&gt;Candidates Recruitment&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MLYI0ruSOf-LYZXjbnKI-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="MLYI0ruSOf-LYZXjbnKI-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MLYI0ruSOf-LYZXjbnKI-26" value="Change Job" style="text;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="216" y="640" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
