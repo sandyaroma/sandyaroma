@@ -16,7 +16,7 @@
           <mxGeometry x="560" y="340" width="141" height="55" as="geometry" />
         </mxCell>
         <mxCell id="MLYI0ruSOf-LYZXjbnKI-8" value="Get_Organizations type Company" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="215" y="280" width="210" height="40" as="geometry" />
+          <mxGeometry x="216" y="280" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MLYI0ruSOf-LYZXjbnKI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;" edge="1" parent="1" source="MLYI0ruSOf-LYZXjbnKI-9">
           <mxGeometry relative="1" as="geometry">
@@ -24,10 +24,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MLYI0ruSOf-LYZXjbnKI-9" value="Get_Organizations type Cost Center" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="215" y="360" width="210" height="40" as="geometry" />
+          <mxGeometry x="218" y="360" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MLYI0ruSOf-LYZXjbnKI-10" value="Get_Job_Profile_Profiles" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="220" y="320" width="170" height="40" as="geometry" />
+          <mxGeometry x="218" y="320" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MLYI0ruSOf-LYZXjbnKI-12" value="Get_Locations" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="220" y="400" width="110" height="40" as="geometry" />
