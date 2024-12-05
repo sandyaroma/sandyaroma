@@ -9,7 +9,7 @@
             <mxPoint x="720" y="195" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LZgdyZKfw_Hqr-pZkjHU-9" value="&lt;span style=&quot;background-color: rgb(255, 255, 204);&quot;&gt;Joiners,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 204);&quot;&gt;Leavers,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 204);&quot;&gt;Data Changes&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LZgdyZKfw_Hqr-pZkjHU-8">
+        <mxCell id="LZgdyZKfw_Hqr-pZkjHU-9" value="Joiners,&amp;nbsp;&lt;div&gt;Leavers,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Data Changes&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#FFFFCC;" vertex="1" connectable="0" parent="LZgdyZKfw_Hqr-pZkjHU-8">
           <mxGeometry x="-0.1367" y="-3" relative="1" as="geometry">
             <mxPoint y="-18" as="offset" />
           </mxGeometry>
