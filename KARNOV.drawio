@@ -4,6 +4,34 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LZgdyZKfw_Hqr-pZkjHU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LZgdyZKfw_Hqr-pZkjHU-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZgdyZKfw_Hqr-pZkjHU-9" value="&lt;span style=&quot;background-color: rgb(255, 255, 204);&quot;&gt;Joiners,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 204);&quot;&gt;Leavers,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 204);&quot;&gt;Data Changes&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LZgdyZKfw_Hqr-pZkjHU-8">
+          <mxGeometry x="-0.1367" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZgdyZKfw_Hqr-pZkjHU-1" value="&lt;font color=&quot;#ffffff&quot;&gt;Workday HR&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=11.56951904296875;fillColor=#FF9933;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LZgdyZKfw_Hqr-pZkjHU-2" value="&lt;font color=&quot;#ffffff&quot;&gt;Regional AD&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=11.56951904296875;fillColor=#0050ef;strokeColor=#FFFFFF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="720" y="160" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LZgdyZKfw_Hqr-pZkjHU-3" value="&lt;font color=&quot;#ffffff&quot;&gt;Group AD&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=11.56951904296875;fillColor=#0050ef;strokeColor=#FFFFFF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="730" y="300" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LZgdyZKfw_Hqr-pZkjHU-4" value="&lt;font color=&quot;#ffffff&quot;&gt;Legacy HR&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=11.56951904296875;fillColor=#4D4D4D;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LZgdyZKfw_Hqr-pZkjHU-6" value="Master System for -&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="150" y="140" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LZgdyZKfw_Hqr-pZkjHU-7" value="Master System for -&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="150" y="300" width="170" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
