@@ -35,6 +35,27 @@
         <mxCell id="LZgdyZKfw_Hqr-pZkjHU-7" value="Master System for -&lt;div&gt;&lt;ul&gt;&lt;li&gt;Group HR Data&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="150" y="300" width="170" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="LZgdyZKfw_Hqr-pZkjHU-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/108752200/original/5159b4772c1ada2357f151b6da500f9ecf998ab4/implement-or-configure-your-active-directory-and-exchange.jpg;" vertex="1" parent="1">
+          <mxGeometry x="390" y="20" width="100" height="64.12" as="geometry" />
+        </mxCell>
+        <mxCell id="LZgdyZKfw_Hqr-pZkjHU-23" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeklogo.com/images/O/okta-logo-B6234AFF6F-seeklogo.com.png;" vertex="1" parent="1">
+          <mxGeometry x="500" y="54.120000000000005" width="89.11" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LZgdyZKfw_Hqr-pZkjHU-25" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=11.56951904296875;exitPerimeter=0;" edge="1" parent="1" source="LZgdyZKfw_Hqr-pZkjHU-1" target="LZgdyZKfw_Hqr-pZkjHU-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="160" as="sourcePoint" />
+            <mxPoint x="510" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZgdyZKfw_Hqr-pZkjHU-26" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.221;exitY=0.064;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LZgdyZKfw_Hqr-pZkjHU-1" target="LZgdyZKfw_Hqr-pZkjHU-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="170" as="sourcePoint" />
+            <mxPoint x="520" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZgdyZKfw_Hqr-pZkjHU-27" value="Standard&lt;div&gt;connectors&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
