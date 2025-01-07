@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
   <diagram name="Page-1" id="YFZ21Ih1EOlpKVf8m3o0">
     <mxGraphModel dx="4197" dy="1977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -389,6 +389,9 @@
         </mxCell>
         <mxCell id="uX1yJsQsxL-rMjPtHDz9-1" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;textShadow=1;" parent="1" vertex="1">
           <mxGeometry x="-647.5" y="510.21" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f1-2X4hgESSJVZeHpWkX-1" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 14px;&quot;&gt;Out of scope due to WD Payroll limitations&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF0000;strokeColor=none;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-1650" y="650" width="500" height="23.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
