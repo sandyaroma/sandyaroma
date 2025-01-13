@@ -16,7 +16,7 @@
         <mxCell id="zss0cD_ZqaenPOK2UHPF-5" value="&lt;b&gt;LEGENDS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="-2170" y="-849.33" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zss0cD_ZqaenPOK2UHPF-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zss0cD_ZqaenPOK2UHPF-25" target="zss0cD_ZqaenPOK2UHPF-65">
+        <mxCell id="zss0cD_ZqaenPOK2UHPF-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=42.5;exitPerimeter=0;" edge="1" parent="1" source="zss0cD_ZqaenPOK2UHPF-25" target="zss0cD_ZqaenPOK2UHPF-65">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1350.0000000000005" y="-729.33" as="targetPoint" />
           </mxGeometry>
@@ -63,10 +63,10 @@
           <mxGeometry x="-1091" y="-994.22" width="255.6" height="64.22" as="geometry" />
         </mxCell>
         <mxCell id="zss0cD_ZqaenPOK2UHPF-64" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" vertex="1" parent="1">
-          <mxGeometry x="-1226" y="-799.3299999999999" width="50" height="25" as="geometry" />
+          <mxGeometry x="-1240" y="-812.0899999999999" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="zss0cD_ZqaenPOK2UHPF-65" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;SAP Payroll&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#000099;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1275" y="-765.1500000000001" width="120" height="70" as="geometry" />
+          <mxGeometry x="-1275" y="-787.09" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zss0cD_ZqaenPOK2UHPF-67" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;textShadow=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -77,13 +77,13 @@
         <mxCell id="zss0cD_ZqaenPOK2UHPF-70" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;textShadow=0;labelBorderColor=none;shadow=0;flowAnimation=0;curved=0;strokeColor=#007FFF;" edge="1" parent="1" source="zss0cD_ZqaenPOK2UHPF-25" target="zss0cD_ZqaenPOK2UHPF-65">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1215" y="-679.33" />
+              <mxPoint x="-1215" y="-700" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="zss0cD_ZqaenPOK2UHPF-71" value="Worker Absence, TT&amp;nbsp;&lt;div&gt;&amp;amp; Scheduling data&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zss0cD_ZqaenPOK2UHPF-70">
           <mxGeometry x="-0.2503" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="19" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zss0cD_ZqaenPOK2UHPF-74" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;ASSUMING EXISTING INTEGRATIONS&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -145,6 +145,14 @@
         <mxCell id="zss0cD_ZqaenPOK2UHPF-96" value="External Payroll Inputs Data&lt;div&gt;For WD Reporting&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zss0cD_ZqaenPOK2UHPF-94">
           <mxGeometry x="-0.003" y="1" relative="1" as="geometry">
             <mxPoint x="75" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zss0cD_ZqaenPOK2UHPF-99" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;entryX=0.744;entryY=0.042;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;strokeColor=#FF0000;" edge="1" parent="1" source="zss0cD_ZqaenPOK2UHPF-25" target="zss0cD_ZqaenPOK2UHPF-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zss0cD_ZqaenPOK2UHPF-100" value="Master Data (Job Profile, Position, Managers)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zss0cD_ZqaenPOK2UHPF-99">
+          <mxGeometry x="-0.3854" y="-2" relative="1" as="geometry">
+            <mxPoint x="30" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
