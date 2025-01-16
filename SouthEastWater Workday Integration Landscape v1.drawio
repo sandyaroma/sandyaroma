@@ -41,11 +41,12 @@
         <mxCell id="LXhwEYFynrwZ-pUap6Co-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.syrinix.com/wp-content/uploads/2021/12/rsz_1south-east-water-logo.jpg;" parent="1" vertex="1">
           <mxGeometry x="-1652.88" y="-994.22" width="165" height="80.63" as="geometry" />
         </mxCell>
-        <mxCell id="LXhwEYFynrwZ-pUap6Co-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.338;exitY=0.029;exitDx=0;exitDy=0;exitPerimeter=0;curved=0;strokeColor=#007FFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="LXhwEYFynrwZ-pUap6Co-10" target="LXhwEYFynrwZ-pUap6Co-20" edge="1">
+        <mxCell id="LXhwEYFynrwZ-pUap6Co-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.338;exitY=0.029;exitDx=0;exitDy=0;exitPerimeter=0;curved=0;strokeColor=#007FFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="LXhwEYFynrwZ-pUap6Co-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-1630" y="-510.22" />
             </Array>
+            <mxPoint x="-1630" y="-734.22" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-41" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="LXhwEYFynrwZ-pUap6Co-22" vertex="1" connectable="0">
@@ -110,11 +111,12 @@
             <mxPoint x="-1269.56" y="-490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IddoA99KZuMBQ-tLbZDF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;curved=0;dashed=1;strokeColor=#FF3333;" parent="1" source="LXhwEYFynrwZ-pUap6Co-10" target="IddoA99KZuMBQ-tLbZDF-5" edge="1">
+        <mxCell id="IddoA99KZuMBQ-tLbZDF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;curved=0;dashed=1;strokeColor=#FF3333;" parent="1" target="IddoA99KZuMBQ-tLbZDF-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1771" y="-474.22" />
+              <mxPoint x="-1774" y="-494.22" />
             </Array>
+            <mxPoint x="-1608" y="-494.20000000000005" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IddoA99KZuMBQ-tLbZDF-8" value="JML Data" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IddoA99KZuMBQ-tLbZDF-7" vertex="1" connectable="0">
@@ -145,9 +147,6 @@
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-17" value="E-signature" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-world.net/wp-content/uploads/2021/08/DocuSign-Symbol.png;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-2040" y="-497.97" width="120" height="67.5" as="geometry" />
-        </mxCell>
-        <mxCell id="LXhwEYFynrwZ-pUap6Co-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-07-128.png;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-1650" y="-774.22" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeColor=#007FFF;shadow=1;exitX=0.855;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;" parent="1" source="LXhwEYFynrwZ-pUap6Co-54" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -280,9 +279,6 @@
         <mxCell id="LXhwEYFynrwZ-pUap6Co-78" value="Absence &amp;amp; Workshifts" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-948.06" y="-560" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LXhwEYFynrwZ-pUap6Co-79" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2420/512/Zoom-128.png" parent="1" vertex="1">
-          <mxGeometry x="-1710" y="-779.22" width="39" height="39" as="geometry" />
-        </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-80" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;strokeColor=#FF0000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2180" y="-774.22" as="sourcePoint" />
@@ -294,10 +290,10 @@
             <mxPoint x="6" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LXhwEYFynrwZ-pUap6Co-85" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;strokeColor=#007FFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;dashed=1;startArrow=classic;startFill=1;exitX=0;exitY=0;exitDx=0;exitDy=42.5;exitPerimeter=0;" parent="1" source="LXhwEYFynrwZ-pUap6Co-10" target="LXhwEYFynrwZ-pUap6Co-79" edge="1">
+        <mxCell id="LXhwEYFynrwZ-pUap6Co-85" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;strokeColor=#007FFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;dashed=1;startArrow=classic;startFill=1;exitX=0;exitY=0;exitDx=0;exitDy=42.5;exitPerimeter=0;" parent="1" source="LXhwEYFynrwZ-pUap6Co-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1600" y="-477.22" as="sourcePoint" />
-            <mxPoint x="-1681" y="-719.22" as="targetPoint" />
+            <mxPoint x="-1690.5" y="-740.22" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-1690" y="-491.22" />
             </Array>
@@ -330,15 +326,15 @@
           <mxGeometry x="-1030" y="-824.33" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IddoA99KZuMBQ-tLbZDF-5" value="" style="image;html=1;image=img/lib/atlassian/Jira_Logo.svg;" parent="1" vertex="1">
-          <mxGeometry x="-1781" y="-774.22" width="40" height="40" as="geometry" />
+          <mxGeometry x="-1784" y="-794.22" width="41" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IddoA99KZuMBQ-tLbZDF-9" value="&lt;b&gt;JIRA&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1782.38" y="-804.22" width="51" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="IddoA99KZuMBQ-tLbZDF-10" value="&lt;b&gt;ZOOM&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="IddoA99KZuMBQ-tLbZDF-10" value="&lt;b&gt;GOOGLE&lt;/b&gt;&lt;div&gt;&lt;b&gt;MEET&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1716" y="-804.22" width="51" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="IddoA99KZuMBQ-tLbZDF-11" value="&lt;b&gt;OUTLOOK&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="IddoA99KZuMBQ-tLbZDF-11" value="&lt;b&gt;GMAIL&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1650" y="-804.22" width="51" height="10" as="geometry" />
         </mxCell>
         <mxCell id="I8Xz8YvCnw3PJ4N5kssE-1" value="Payroll GL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
@@ -381,7 +377,16 @@
           <mxGeometry x="-1260" y="-614.22" width="129.56" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K8xXDljndKFM3jqNil_v-1" value="out of scope" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
-          <mxGeometry x="-1790" y="-714.22" width="230" height="24.22" as="geometry" />
+          <mxGeometry x="-1790" y="-714.22" width="50" height="24.22" as="geometry" />
+        </mxCell>
+        <mxCell id="K8xXDljndKFM3jqNil_v-2" value="Delayed" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="1" vertex="1">
+          <mxGeometry x="-1270" y="-584.22" width="160" height="24.22" as="geometry" />
+        </mxCell>
+        <mxCell id="DpNto-erMD7lXuYV3NgU-1" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.gmail" vertex="1" parent="1">
+          <mxGeometry x="-1640" y="-774.2199999999999" width="50" height="26.8" as="geometry" />
+        </mxCell>
+        <mxCell id="DpNto-erMD7lXuYV3NgU-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logodownload.org/wp-content/uploads/2021/06/google-meet-logo-1.png;" vertex="1" parent="1">
+          <mxGeometry x="-1741" y="-782.98" width="90" height="44.33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
