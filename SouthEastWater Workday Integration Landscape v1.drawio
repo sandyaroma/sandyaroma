@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="r__zFNlrKhQIh8nUa84n">
-    <mxGraphModel dx="4011" dy="1738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3771" dy="1738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -289,7 +289,7 @@
             <mxPoint x="6" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LXhwEYFynrwZ-pUap6Co-85" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;strokeColor=#007FFF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;dashed=1;startArrow=classic;startFill=1;exitX=0;exitY=0;exitDx=0;exitDy=42.5;exitPerimeter=0;" parent="1" source="LXhwEYFynrwZ-pUap6Co-10" edge="1">
+        <mxCell id="LXhwEYFynrwZ-pUap6Co-85" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;strokeColor=#0000FF;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;startArrow=classic;startFill=1;exitX=0;exitY=0;exitDx=0;exitDy=42.5;exitPerimeter=0;" parent="1" source="LXhwEYFynrwZ-pUap6Co-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1600" y="-477.22" as="sourcePoint" />
             <mxPoint x="-1690.5" y="-740.22" as="targetPoint" />
@@ -335,9 +335,6 @@
         </mxCell>
         <mxCell id="IddoA99KZuMBQ-tLbZDF-11" value="&lt;b&gt;GMAIL&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1637" y="-804.22" width="51" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="I8Xz8YvCnw3PJ4N5kssE-1" value="Payroll GL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="-1058.06" y="-245.22000000000003" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hhFu2yXnE7WBhEnphd9l-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.181;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" parent="1" source="lKPC4PMOwZWh97CiV7D1-1" target="LXhwEYFynrwZ-pUap6Co-10" edge="1">
           <mxGeometry relative="1" as="geometry">
