@@ -124,14 +124,6 @@
             <mxPoint x="-11" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0-8fQCSJ9ABT-ZbM3SJc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.145;exitY=0;exitDx=0;exitDy=4.35;exitPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="LXhwEYFynrwZ-pUap6Co-10" target="0-8fQCSJ9ABT-ZbM3SJc-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0-8fQCSJ9ABT-ZbM3SJc-5" value="Time Off&lt;div&gt;Events&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0-8fQCSJ9ABT-ZbM3SJc-4" vertex="1" connectable="0">
-          <mxGeometry x="-0.0621" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hhFu2yXnE7WBhEnphd9l-4" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" parent="1" source="LXhwEYFynrwZ-pUap6Co-10" target="hhFu2yXnE7WBhEnphd9l-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -339,9 +331,6 @@
         </mxCell>
         <mxCell id="I8Xz8YvCnw3PJ4N5kssE-1" value="Payroll GL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-1058.06" y="-245.22000000000003" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="0-8fQCSJ9ABT-ZbM3SJc-3" value="Calendar" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://usingtechnologybetter.com/wp-content/uploads/2022/09/MS-Outlook-Calendar-1.png;" parent="1" vertex="1">
-          <mxGeometry x="-1599" y="-714.22" width="33.62" height="33.62" as="geometry" />
         </mxCell>
         <mxCell id="hhFu2yXnE7WBhEnphd9l-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.181;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" parent="1" source="lKPC4PMOwZWh97CiV7D1-1" target="LXhwEYFynrwZ-pUap6Co-10" edge="1">
           <mxGeometry relative="1" as="geometry">
