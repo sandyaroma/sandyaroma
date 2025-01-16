@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="r__zFNlrKhQIh8nUa84n">
-    <mxGraphModel dx="3771" dy="1738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4294" dy="2011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -380,6 +380,9 @@
         </mxCell>
         <mxCell id="DpNto-erMD7lXuYV3NgU-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logodownload.org/wp-content/uploads/2021/06/google-meet-logo-1.png;" vertex="1" parent="1">
           <mxGeometry x="-1741" y="-782.98" width="90" height="44.33" as="geometry" />
+        </mxCell>
+        <mxCell id="DpNto-erMD7lXuYV3NgU-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.greatcompgarden.co.uk/wp-content/uploads/2022/05/SEW_Logo_Horizontal_Colour_RGB.png;" vertex="1" parent="1">
+          <mxGeometry x="-1151" y="-995.22" width="320" height="72.32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
