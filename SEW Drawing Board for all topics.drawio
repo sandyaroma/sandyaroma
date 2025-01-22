@@ -664,6 +664,9 @@
         <mxCell id="MlZo_yz0UL_hsPO96Krg-51" value="AgentID&#xa;-Schedule Details&#xa;- Start Day&#xa;-End Day&#xa;- Days of Week&#xa;-Total Weeks" style="rounded=1;whiteSpace=wrap;fillColor=#E6FFCC;strokeColor=#36393d;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="-1335" y="2350" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="MlZo_yz0UL_hsPO96Krg-54" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1068" y="2340" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
