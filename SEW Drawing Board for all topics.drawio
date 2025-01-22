@@ -522,16 +522,11 @@
         <mxCell id="MlZo_yz0UL_hsPO96Krg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.368;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1000" y="2200" />
-              <mxPoint x="-1500" y="2200" />
+              <mxPoint x="-1000" y="2160" />
+              <mxPoint x="-1500" y="2160" />
             </Array>
             <mxPoint x="-1000" y="2100" as="sourcePoint" />
             <mxPoint x="-1500.4399999999996" y="2098.0000000000005" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MlZo_yz0UL_hsPO96Krg-10" value="Schedules Published&lt;div&gt;- WeekID (Date)&lt;/div&gt;&lt;div&gt;-Schedule ID (s)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MlZo_yz0UL_hsPO96Krg-9">
-          <mxGeometry x="0.1606" y="-1" relative="1" as="geometry">
-            <mxPoint x="13" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MlZo_yz0UL_hsPO96Krg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.855;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;" edge="1" parent="1" target="MlZo_yz0UL_hsPO96Krg-4">
@@ -607,7 +602,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MlZo_yz0UL_hsPO96Krg-20" value="Authentication &#xa;{Request Token}" style="rounded=1;whiteSpace=wrap;fillColor=#E6FFCC;strokeColor=#36393d;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="MlZo_yz0UL_hsPO96Krg-20" value="Authentication &#xa;{Request Token}" style="rounded=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="-1290" y="1990" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MlZo_yz0UL_hsPO96Krg-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;" edge="1" parent="1" source="MlZo_yz0UL_hsPO96Krg-27" target="MlZo_yz0UL_hsPO96Krg-19">
@@ -625,8 +620,17 @@
         <mxCell id="MlZo_yz0UL_hsPO96Krg-27" value="{ Auth Token }" style="rounded=1;whiteSpace=wrap;fillColor=#E6FFCC;strokeColor=#36393d;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="-1290" y="2045" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MlZo_yz0UL_hsPO96Krg-29" value="Schedules (published)&#xa;GET" style="rounded=1;whiteSpace=wrap;fillColor=#E6FFCC;strokeColor=#36393d;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="MlZo_yz0UL_hsPO96Krg-29" value="Schedules (published)&#xa;GET" style="rounded=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="-1346" y="2100" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MlZo_yz0UL_hsPO96Krg-34" value="Schedules Published&#xa;- WeekID (Date)&#xa;-Schedule ID (s)" style="rounded=1;whiteSpace=wrap;fillColor=#E6FFCC;strokeColor=#36393d;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-1346" y="2140" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MlZo_yz0UL_hsPO96Krg-35" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1453.38" y="2100" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MlZo_yz0UL_hsPO96Krg-36" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1069" y="2139" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
