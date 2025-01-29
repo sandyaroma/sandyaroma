@@ -50,7 +50,7 @@
         </mxCell>
         <mxCell id="X4ekr1TlXGtI4e0G4jIp-15" value="&lt;span style=&quot;background-color: rgb(255, 255, 204);&quot;&gt;EDIT POSITION&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textShadow=1;" vertex="1" connectable="0" parent="X4ekr1TlXGtI4e0G4jIp-14">
           <mxGeometry x="-0.0856" y="3" relative="1" as="geometry">
-            <mxPoint x="262" y="-318" as="offset" />
+            <mxPoint x="265" y="-318" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X4ekr1TlXGtI4e0G4jIp-17" value="&lt;div&gt;UPDATE&lt;/div&gt;&lt;div&gt;Position with mapped&lt;/div&gt;Work Shifts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;textShadow=1;fontColor=#ffffff;" vertex="1" parent="1">
@@ -89,9 +89,12 @@
         <mxCell id="X4ekr1TlXGtI4e0G4jIp-46" value="Designed by your Workday Partner" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="-1730" y="134.85000000000002" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X4ekr1TlXGtI4e0G4jIp-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#004C99;" edge="1" parent="1" source="X4ekr1TlXGtI4e0G4jIp-49">
+        <mxCell id="X4ekr1TlXGtI4e0G4jIp-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#004C99;entryX=0;entryY=0;entryDx=0;entryDy=42.5;entryPerimeter=0;" edge="1" parent="1" source="X4ekr1TlXGtI4e0G4jIp-49" target="X4ekr1TlXGtI4e0G4jIp-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1240" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1340" y="313" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="X4ekr1TlXGtI4e0G4jIp-54" value="&lt;span style=&quot;background-color: rgb(255, 255, 204);&quot;&gt;Assign&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 204);&quot;&gt;Workschedule&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="X4ekr1TlXGtI4e0G4jIp-53">
@@ -104,6 +107,12 @@
         </mxCell>
         <mxCell id="X4ekr1TlXGtI4e0G4jIp-52" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-1503.44" y="359.28" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X4ekr1TlXGtI4e0G4jIp-59" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="337" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X4ekr1TlXGtI4e0G4jIp-60" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;textShadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-1341" y="494" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
