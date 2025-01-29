@@ -51,9 +51,7 @@
         <mxCell id="X4ekr1TlXGtI4e0G4jIp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.03;entryY=0.769;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;strokeColor=#007FFF;curved=0;textShadow=1;flowAnimation=0;" edge="1" parent="1" source="X4ekr1TlXGtI4e0G4jIp-17" target="X4ekr1TlXGtI4e0G4jIp-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1540" y="543" />
-              <mxPoint x="-1440" y="543" />
-              <mxPoint x="-1440" y="426" />
+              <mxPoint x="-1540" y="426" />
             </Array>
             <mxPoint x="-1562.8" y="645.3599999999997" as="targetPoint" />
           </mxGeometry>
