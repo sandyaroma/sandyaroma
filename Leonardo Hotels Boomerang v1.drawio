@@ -183,7 +183,7 @@
             <mxPoint x="-900" y="306" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X4ekr1TlXGtI4e0G4jIp-95" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Bulk Change Published&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span data-teams=&quot;true&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Schedule for Worker Event&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-teams=&quot;true&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;triggers Integration&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;textShadow=1;" vertex="1" connectable="0" parent="X4ekr1TlXGtI4e0G4jIp-94">
+        <mxCell id="X4ekr1TlXGtI4e0G4jIp-95" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;BP &lt;b&gt;Bulk Change Published&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span data-teams=&quot;true&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;Schedule for Worker Event&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span data-teams=&quot;true&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;triggers Integration&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;textShadow=1;" vertex="1" connectable="0" parent="X4ekr1TlXGtI4e0G4jIp-94">
           <mxGeometry x="-0.1481" y="-7" relative="1" as="geometry">
             <mxPoint x="3" y="-8" as="offset" />
           </mxGeometry>
