@@ -82,8 +82,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1090" y="260" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1190" y="340" />
-              <mxPoint x="-1190" y="260" />
+              <mxPoint x="-1605" y="360" />
+              <mxPoint x="-1200" y="360" />
+              <mxPoint x="-1200" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -91,9 +92,6 @@
           <mxGeometry x="-0.3023" y="-3" relative="1" as="geometry">
             <mxPoint x="25" y="-3" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="X4ekr1TlXGtI4e0G4jIp-49" value="&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;Absence Admin&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-1620.0000000000002" y="310.00000000000006" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X4ekr1TlXGtI4e0G4jIp-60" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="-1331.0400000000002" y="561" width="20" height="20" as="geometry" />
@@ -244,7 +242,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X4ekr1TlXGtI4e0G4jIp-65" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-1536.1300000000003" y="400.00000000000006" width="20" height="20" as="geometry" />
+          <mxGeometry x="-1550.0000000000002" y="380.00000000000006" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X4ekr1TlXGtI4e0G4jIp-49" value="&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;Absence Admin&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.user;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1620.0000000000002" y="310.00000000000006" width="30" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
