@@ -245,7 +245,7 @@
           <mxGeometry x="-1620.0000000000002" y="310.00000000000006" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X4ekr1TlXGtI4e0G4jIp-113" value="&lt;div&gt;UPDATE&lt;/div&gt;&lt;div&gt;Position with mapped&lt;/div&gt;Workschedule toWork Shifts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;textShadow=1;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-1530" y="650" width="120" height="52.5" as="geometry" />
+          <mxGeometry x="-1530" y="647.5" width="120" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="X4ekr1TlXGtI4e0G4jIp-114" value="&lt;div&gt;UPDATE&lt;/div&gt;&lt;div&gt;Position with mapped&lt;/div&gt;Schedule to WorkShifts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;textShadow=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-1386.8200000000002" y="655" width="131.56" height="47.5" as="geometry" />
