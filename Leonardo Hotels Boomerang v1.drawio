@@ -142,7 +142,7 @@
           <mxGeometry x="-1474.0400000000002" y="660" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X4ekr1TlXGtI4e0G4jIp-80" value="&lt;font color=&quot;#ff6666&quot;&gt;SOAP API&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff6666&quot;&gt;{&amp;nbsp;&lt;b&gt;Edit_Position&amp;nbsp;&lt;/b&gt;}&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textShadow=1;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-1645.12" y="615" as="geometry">
+          <mxGeometry x="-1655" y="704" as="geometry">
             <mxPoint x="186" y="17" as="offset" />
           </mxGeometry>
         </mxCell>
