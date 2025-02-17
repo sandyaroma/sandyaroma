@@ -232,11 +232,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Zp72_SuEW13jE6xnvjN-79" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Payslips&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="-1280" y="-459.9999999999999" width="60" height="49.57" as="geometry" />
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-79" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Payslips&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="-1190" y="-459.9999999999999" width="60" height="49.57" as="geometry" />
         </mxCell>
-        <mxCell id="4Zp72_SuEW13jE6xnvjN-81" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Payslips&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="-1280" y="-459.9999999999999" width="60" height="49.57" as="geometry" />
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-81" value="Payslips" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-1260" y="-459.9999999999999" width="60" height="49.57" as="geometry" />
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-82" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=39.047755737304726;exitPerimeter=0;entryX=0.722;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;strokeColor=#007FFF;" edge="1" parent="1" source="4Zp72_SuEW13jE6xnvjN-38" target="4Zp72_SuEW13jE6xnvjN-11">
           <mxGeometry relative="1" as="geometry">
