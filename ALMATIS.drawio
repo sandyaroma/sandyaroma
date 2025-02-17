@@ -232,7 +232,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Zp72_SuEW13jE6xnvjN-79" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Payslips&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;opacity=80;" vertex="1" parent="1">
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-79" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Payslips&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="-1190" y="-459.9999999999999" width="60" height="49.57" as="geometry" />
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-81" value="Payslips" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;opacity=50;" vertex="1" parent="1">
