@@ -8,7 +8,7 @@
           <mxGeometry x="-1390" y="-266.69" width="280" height="171.69" as="geometry" />
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-63" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=20;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-2077.6" y="-730" width="187.6" height="168.67" as="geometry" />
+          <mxGeometry x="-2077.9" y="-641.15" width="187.6" height="168.67" as="geometry" />
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freelogovectors.net/wp-content/uploads/2020/09/kainos-logo.png;textShadow=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-2465" y="-991.64" width="195" height="44.85" as="geometry" />
@@ -21,6 +21,14 @@
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-4" value="&lt;b&gt;LEGENDS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textShadow=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-2535" y="-860" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-112" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;curved=0;startArrow=classic;startFill=1;strokeColor=#00CC66;" edge="1" parent="1" source="4Zp72_SuEW13jE6xnvjN-11" target="4Zp72_SuEW13jE6xnvjN-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1560" y="-742" />
+              <mxPoint x="-2330" y="-742" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-11" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;HCM, Adv Comp&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;Absence, Recruiting, Learning&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;Talent &amp;amp; Performance&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFB366;strokeColor=#FFFFFF;shadow=1;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="-1650" y="-722.16" width="180" height="122.16" as="geometry" />
@@ -183,45 +191,53 @@
           <mxGeometry x="-1420" y="-529.9999999999999" width="60" height="49.57" as="geometry" />
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-60" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logo-marque.com/wp-content/uploads/2021/04/Okta-Logo.png;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-2050" y="-720.43" width="131.8" height="74.14" as="geometry" />
+          <mxGeometry x="-2050" y="-633.74" width="131.8" height="74.14" as="geometry" />
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-61" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-2040" y="-633.49" width="126.8" height="36.56" as="geometry" />
+          <mxGeometry x="-2040" y="-546.8" width="126.8" height="36.56" as="geometry" />
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-64" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://help.okta.com/en-us/content/resources/images/diagrams/rts-1.png;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-2190" y="-540.67" width="560" height="293.98" as="geometry" />
+          <mxGeometry x="-2190" y="-453.97999999999996" width="560" height="293.98" as="geometry" />
         </mxCell>
-        <mxCell id="4Zp72_SuEW13jE6xnvjN-67" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;shadow=1;" edge="1" parent="1" target="4Zp72_SuEW13jE6xnvjN-63">
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-67" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;shadow=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2140" y="-540" as="sourcePoint" />
-            <mxPoint x="-1400" y="-570" as="targetPoint" />
+            <mxPoint x="-2140" y="-453.31" as="sourcePoint" />
+            <mxPoint x="-2077.6" y="-558.9749999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-69" value="Joiners" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="-1870" y="-727.8399999999999" width="60" height="49.57" as="geometry" />
+          <mxGeometry x="-1870" y="-641.1499999999999" width="60" height="49.57" as="geometry" />
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-70" value="Movers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="-1804" y="-727.8399999999999" width="60" height="49.57" as="geometry" />
+          <mxGeometry x="-1804" y="-641.1499999999999" width="60" height="49.57" as="geometry" />
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-71" value="Leavers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="-1735" y="-727.8399999999999" width="60" height="49.57" as="geometry" />
+          <mxGeometry x="-1735" y="-641.1499999999999" width="60" height="49.57" as="geometry" />
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-73" value="Account Provisioning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="-1879" y="-646.2900000000001" width="210" height="24.45" as="geometry" />
+          <mxGeometry x="-1879" y="-559.6000000000001" width="210" height="24.45" as="geometry" />
         </mxCell>
-        <mxCell id="4Zp72_SuEW13jE6xnvjN-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.409;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;strokeColor=#00FF00;shadow=1;" edge="1" parent="1" source="4Zp72_SuEW13jE6xnvjN-11" target="4Zp72_SuEW13jE6xnvjN-63">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.409;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;strokeColor=#00CC66;shadow=1;exitX=0.145;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;" edge="1" parent="1" source="4Zp72_SuEW13jE6xnvjN-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1650.0000000000005" y="-574.3688235294117" as="sourcePoint" />
+            <mxPoint x="-1889.9999999999995" y="-574.3239699999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1624" y="-574" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-75" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.mindcentric.com/hubfs/SingleSignOn.png;" vertex="1" parent="1">
-          <mxGeometry x="-1810" y="-609.65" width="110" height="55.31" as="geometry" />
+          <mxGeometry x="-1810" y="-522.96" width="110" height="55.31" as="geometry" />
         </mxCell>
-        <mxCell id="4Zp72_SuEW13jE6xnvjN-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.877;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#666666;dashed=1;" edge="1" parent="1" source="4Zp72_SuEW13jE6xnvjN-75" target="4Zp72_SuEW13jE6xnvjN-63">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.877;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#666666;dashed=1;" edge="1" parent="1" source="4Zp72_SuEW13jE6xnvjN-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1889.9999999999995" y="-495.3864099999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.389;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#666666;dashed=1;" edge="1" parent="1" source="4Zp72_SuEW13jE6xnvjN-75" target="4Zp72_SuEW13jE6xnvjN-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1580" y="-580" />
+              <mxPoint x="-1580" y="-500" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -307,6 +323,18 @@
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-109" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;POSITIONS&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="-1530" y="-296.26" width="90" height="49.57" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-110" value="GOV" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://hr.osu.edu/wp-content/uploads/logo-everify-banner.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-2404" y="-671.85" width="148.97" height="38.36" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-111" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-usa2x.png;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="-2460" y="-671.85" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-113" value="EMPLOYEE ONBOARDING (USA EMPLOYEE DATA VERIFICATION)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-2310" y="-723.9" width="630" height="24.45" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-114" value="EMPLOYEE OFFBOARDING" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-2070" y="-681.78" width="390" height="24.45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
