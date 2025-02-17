@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-100" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1390" y="-266.69" width="280" height="171.69" as="geometry" />
+        </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-63" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=20;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-2077.6" y="-730" width="187.6" height="168.67" as="geometry" />
         </mxCell>
@@ -186,7 +189,7 @@
           <mxGeometry x="-2040" y="-633.49" width="126.8" height="36.56" as="geometry" />
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-64" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://help.okta.com/en-us/content/resources/images/diagrams/rts-1.png;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-2190" y="-540.67" width="644.8" height="338.5" as="geometry" />
+          <mxGeometry x="-2190" y="-540.67" width="560" height="293.98" as="geometry" />
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-67" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;shadow=1;" edge="1" parent="1" target="4Zp72_SuEW13jE6xnvjN-63">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -273,6 +276,34 @@
               <mxPoint x="-1481" y="-400" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-88" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg;" vertex="1" parent="1">
+          <mxGeometry x="-1350" y="-246.69" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-93" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://webapi.hirevue.com/wp-content/uploads/2020/09/HireVue-logo-color-200.png;" vertex="1" parent="1">
+          <mxGeometry x="-1360" y="-221.69" width="61.69" height="61.69" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-99" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.solutions-ressources-humaines.com/logo/9a7a2e4d0c20a95bb_logo_rgb.png;" vertex="1" parent="1">
+          <mxGeometry x="-1364.32" y="-151.25" width="66.01" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-102" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/f/fa/Indeed_logo.png;" vertex="1" parent="1">
+          <mxGeometry x="-1267.2400000000002" y="-151.25" width="77.24" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-104" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2024/04/Monster-Logo-2008.png;" vertex="1" parent="1">
+          <mxGeometry x="-1250" y="-225.85" width="124.44" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-105" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.551;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;strokeColor=#666666;" edge="1" parent="1" source="4Zp72_SuEW13jE6xnvjN-11" target="4Zp72_SuEW13jE6xnvjN-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1550" y="-172" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-107" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;JOB BOARDS&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-1500" y="-239.9999999999999" width="60" height="49.57" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-108" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 102, 0);&quot;&gt;RECRUITING INTEGRATION&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFF99;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-1382.5" y="-310" width="265" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
