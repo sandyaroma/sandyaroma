@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-115" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000066;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-2470" y="-870" width="1650" height="840" as="geometry" />
+        </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-100" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1390" y="-266.69" width="280" height="171.69" as="geometry" />
         </mxCell>
@@ -328,7 +331,7 @@
           <mxGeometry x="-2404" y="-671.85" width="148.97" height="38.36" as="geometry" />
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-111" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-usa2x.png;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-2460" y="-671.85" width="32" height="32" as="geometry" />
+          <mxGeometry x="-2437" y="-671.85" width="32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-113" value="EMPLOYEE ONBOARDING (USA EMPLOYEE DATA VERIFICATION)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="-2310" y="-723.9" width="630" height="24.45" as="geometry" />
