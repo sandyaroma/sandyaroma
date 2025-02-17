@@ -209,7 +209,7 @@
         <mxCell id="4Zp72_SuEW13jE6xnvjN-73" value="Account Provisioning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="-1879" y="-646.2900000000001" width="210" height="24.45" as="geometry" />
         </mxCell>
-        <mxCell id="4Zp72_SuEW13jE6xnvjN-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.409;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;strokeColor=#666666;shadow=1;" edge="1" parent="1" source="4Zp72_SuEW13jE6xnvjN-11" target="4Zp72_SuEW13jE6xnvjN-63">
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.409;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;strokeColor=#00FF00;shadow=1;" edge="1" parent="1" source="4Zp72_SuEW13jE6xnvjN-11" target="4Zp72_SuEW13jE6xnvjN-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-75" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.mindcentric.com/hubfs/SingleSignOn.png;" vertex="1" parent="1">
