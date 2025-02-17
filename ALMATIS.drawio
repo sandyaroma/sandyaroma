@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-63" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=20;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="-2077.6" y="-730" width="187.6" height="168.67" as="geometry" />
+        </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freelogovectors.net/wp-content/uploads/2020/09/kainos-logo.png;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="-2185" y="-994.22" width="195" height="44.85" as="geometry" />
         </mxCell>
@@ -167,13 +170,10 @@
           <mxGeometry x="-1420" y="-529.9999999999999" width="60" height="49.57" as="geometry" />
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-60" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logo-marque.com/wp-content/uploads/2021/04/Okta-Logo.png;" vertex="1" parent="1">
-          <mxGeometry x="-1990" y="-714.14" width="131.8" height="74.14" as="geometry" />
+          <mxGeometry x="-2050" y="-720.43" width="131.8" height="74.14" as="geometry" />
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-61" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png;" vertex="1" parent="1">
-          <mxGeometry x="-1985" y="-626.99" width="126.8" height="36.56" as="geometry" />
-        </mxCell>
-        <mxCell id="4Zp72_SuEW13jE6xnvjN-63" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=20;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="-2030" y="-728.67" width="220" height="168.67" as="geometry" />
+          <mxGeometry x="-2040" y="-633.49" width="126.8" height="36.56" as="geometry" />
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-64" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://help.okta.com/en-us/content/resources/images/diagrams/rts-1.png;" vertex="1" parent="1">
           <mxGeometry x="-2320" y="-536.77" width="704.8" height="370" as="geometry" />
@@ -186,6 +186,18 @@
             <mxPoint x="-2140" y="-540" as="sourcePoint" />
             <mxPoint x="-1400" y="-570" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-69" value="Joiners" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-1870" y="-727.8399999999999" width="60" height="49.57" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-70" value="Movers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-1804" y="-727.8399999999999" width="60" height="49.57" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-71" value="Leavers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-1735" y="-727.8399999999999" width="60" height="49.57" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-73" value="Account Provisioning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-1879" y="-646.2900000000001" width="210" height="24.45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
