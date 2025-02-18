@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-128" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;fillColor=#FF99FF;" vertex="1" parent="1">
+          <mxGeometry x="-2222.9" y="-416.26" width="145" height="140" as="geometry" />
+        </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-115" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000066;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-2470" y="-880" width="1650" height="850" as="geometry" />
+          <mxGeometry x="-2420" y="39.99999999999994" width="1650" height="850" as="geometry" />
         </mxCell>
         <mxCell id="4Zp72_SuEW13jE6xnvjN-100" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-1390" y="-266.69" width="280" height="171.69" as="geometry" />
@@ -376,8 +379,8 @@
             <mxPoint x="-2100" y="-330.76" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Zp72_SuEW13jE6xnvjN-128" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;fillColor=#FF99FF;" vertex="1" parent="1">
-          <mxGeometry x="-2335" y="-450" width="120" height="60" as="geometry" />
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-129" value="OTE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1780" y="-170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
