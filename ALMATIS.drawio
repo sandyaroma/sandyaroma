@@ -379,8 +379,8 @@
             <mxPoint x="-2100" y="-330.76" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Zp72_SuEW13jE6xnvjN-129" value="OTE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1780" y="-170" width="120" height="60" as="geometry" />
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-129" value="OTHER ENTERPRISE&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;APPLICATIONS&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#990099;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="-2215" y="-440" width="445" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
