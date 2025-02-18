@@ -382,6 +382,12 @@
         <mxCell id="4Zp72_SuEW13jE6xnvjN-129" value="OTHER ENTERPRISE&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;APPLICATIONS&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#990099;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
           <mxGeometry x="-2222.9" y="-430.43" width="402.9" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-131" value="JML DATA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-1795" y="-403.25999999999993" width="60" height="49.57" as="geometry" />
+        </mxCell>
+        <mxCell id="4Zp72_SuEW13jE6xnvjN-132" value="HR&lt;div&gt;MASTER&lt;/div&gt;&lt;div&gt;DATA&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;shadow=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-1729" y="-403.25999999999993" width="60" height="49.57" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
