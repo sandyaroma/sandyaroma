@@ -145,8 +145,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yuozWGl_xPbwvbFwPc4L-155" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;curved=0;strokeColor=#3399FF;" edge="1" parent="1" source="yuozWGl_xPbwvbFwPc4L-112" target="yuozWGl_xPbwvbFwPc4L-154">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="yuozWGl_xPbwvbFwPc4L-155" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeColor=#3399FF;" edge="1" parent="1" source="yuozWGl_xPbwvbFwPc4L-112" target="yuozWGl_xPbwvbFwPc4L-154">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2050" y="-615" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="yuozWGl_xPbwvbFwPc4L-112" value="&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;HCM, EXPENSES,&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;FINANCE&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FFB366;strokeColor=#FFFFFF;shadow=1;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="-2120" y="-590" width="180" height="140" as="geometry" />
@@ -320,7 +324,27 @@
           <mxGeometry x="-1180.0000000000002" y="-529.5" width="99" height="99" as="geometry" />
         </mxCell>
         <mxCell id="yuozWGl_xPbwvbFwPc4L-154" value="AON PAYROLL SYSTEM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
-          <mxGeometry x="-2350" y="-638.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-2450" y="-645" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yuozWGl_xPbwvbFwPc4L-156" value="Linklaters&lt;div&gt;FINANCE SYSTEM&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#666666;fontColor=#ffffff;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-2440" y="-540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yuozWGl_xPbwvbFwPc4L-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" edge="1" parent="1" source="yuozWGl_xPbwvbFwPc4L-112" target="yuozWGl_xPbwvbFwPc4L-156">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2140" y="-487" />
+              <mxPoint x="-2140" y="-487" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yuozWGl_xPbwvbFwPc4L-158" value="Payroll Journals&lt;div&gt;for accounting&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="-2270" y="-537.57" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yuozWGl_xPbwvbFwPc4L-159" value="JML DATA" style="rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="-2300" y="-670" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yuozWGl_xPbwvbFwPc4L-160" value="HR MASTER DATA" style="rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="-2230" y="-670" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
