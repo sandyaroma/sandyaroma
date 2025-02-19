@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="Page-1" id="2OanDRJmaYUeelWQK_8h">
-    <mxGraphModel dx="4770" dy="2132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4488" dy="2132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -362,6 +362,18 @@
         </mxCell>
         <mxCell id="NwiWy4_LtIeJi4y5TbyK-21" value="&lt;font color=&quot;#333333&quot;&gt;Customer Billing&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#333333&quot;&gt;Journal Lines&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;fillColor=#00CCCC;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-1920" y="-397.3" width="120" height="40.63" as="geometry" />
+        </mxCell>
+        <mxCell id="NwiWy4_LtIeJi4y5TbyK-22" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/document-icons-2/30/647714-excel-128.png" vertex="1" parent="1">
+          <mxGeometry x="-1995.74" y="-635.04" width="39.55" height="39.55" as="geometry" />
+        </mxCell>
+        <mxCell id="NwiWy4_LtIeJi4y5TbyK-28" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://img.freepik.com/vecteurs-premium/dollar-euro-pound-yen-icones-devise-usd-eur-gbp-jpy-symboles-signe-argent-pour-web-application_654297-331.jpg;" vertex="1" parent="1">
+          <mxGeometry x="-2068.89" y="-656.49" width="73.15" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="NwiWy4_LtIeJi4y5TbyK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.145;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;dashed=1;strokeColor=#3399FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=0;" edge="1" parent="1" source="NwiWy4_LtIeJi4y5TbyK-22" target="lLmpeXdTmonKu4j5xGK4-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NwiWy4_LtIeJi4y5TbyK-30" value="&lt;font color=&quot;#333333&quot;&gt;Currency Exchange&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#333333&quot;&gt;EIB Load (if needed)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;fillColor=#00CCCC;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-1940" y="-610" width="120" height="40.63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
