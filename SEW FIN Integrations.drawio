@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NwiWy4_LtIeJi4y5TbyK-64" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;To be discussed" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="-1089.5" y="-655.99" width="240" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="NwiWy4_LtIeJi4y5TbyK-63" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;To be discussed" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="-2260" y="-191" width="240" height="121" as="geometry" />
+        </mxCell>
         <mxCell id="lLmpeXdTmonKu4j5xGK4-124" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freelogovectors.net/wp-content/uploads/2020/09/kainos-logo.png;textShadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="-2405" y="-974.22" width="195" height="44.85" as="geometry" />
         </mxCell>
@@ -481,9 +487,6 @@
         </mxCell>
         <mxCell id="NwiWy4_LtIeJi4y5TbyK-62" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;color: rgb(26, 26, 26);&quot;&gt;Hours Worked&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(26, 26, 26);&quot;&gt;as Journal Entry&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;fillColor=#00CCCC;strokeColor=#001DBC;fontColor=#ffffff;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="-2140" y="-161.63" width="95.45" height="40.63" as="geometry" />
-        </mxCell>
-        <mxCell id="NwiWy4_LtIeJi4y5TbyK-63" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;To be discussed" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="-2260" y="-191" width="240" height="121" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
