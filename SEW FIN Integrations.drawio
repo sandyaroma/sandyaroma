@@ -353,7 +353,7 @@
         <mxCell id="NwiWy4_LtIeJi4y5TbyK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.125;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;strokeColor=#1A1A1A;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=0;strokeWidth=2;" edge="1" parent="1" source="lLmpeXdTmonKu4j5xGK4-147" target="NwiWy4_LtIeJi4y5TbyK-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NwiWy4_LtIeJi4y5TbyK-14" value="&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;E-Filing&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(51, 51, 51);&quot;&gt;Group VAT Reg.&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;fillColor=#00CCCC;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="NwiWy4_LtIeJi4y5TbyK-14" value="&lt;font style=&quot;font-size: 13px; color: rgb(51, 51, 51);&quot;&gt;E-Filing&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px; color: rgb(51, 51, 51);&quot;&gt;Group VAT Reg.&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;fillColor=#00CCCC;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-1922.73" y="-491.3" width="120" height="40.63" as="geometry" />
         </mxCell>
         <mxCell id="NwiWy4_LtIeJi4y5TbyK-15" value="&lt;font style=&quot;color: rgb(230, 230, 230);&quot;&gt;Financial Institutions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;opacity=40;" vertex="1" parent="1">
@@ -381,7 +381,7 @@
         <mxCell id="NwiWy4_LtIeJi4y5TbyK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.145;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;dashed=1;strokeColor=#3399FF;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=0;" edge="1" parent="1" source="NwiWy4_LtIeJi4y5TbyK-22" target="lLmpeXdTmonKu4j5xGK4-147">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NwiWy4_LtIeJi4y5TbyK-30" value="&lt;font color=&quot;#333333&quot;&gt;Currency Exchange&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#333333&quot;&gt;EIB Load (if needed)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;fillColor=#00CCCC;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="NwiWy4_LtIeJi4y5TbyK-30" value="&lt;font style=&quot;color: rgb(26, 26, 26);&quot;&gt;Currency Exchange&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(26, 26, 26);&quot;&gt;EIB Load (if needed)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;fillColor=#00CCCC;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-1940" y="-610" width="120" height="40.63" as="geometry" />
         </mxCell>
         <mxCell id="NwiWy4_LtIeJi4y5TbyK-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/thumbnails/004/572/128/small/invoice-line-icon-logo-illustration-free-vector.jpg;" vertex="1" parent="1">
