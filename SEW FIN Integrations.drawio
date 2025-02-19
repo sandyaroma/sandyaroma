@@ -159,6 +159,9 @@
             <mxPoint x="6" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NwiWy4_LtIeJi4y5TbyK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.101;entryY=0.697;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#004C99;" edge="1" parent="1" source="lLmpeXdTmonKu4j5xGK4-153" target="lLmpeXdTmonKu4j5xGK4-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lLmpeXdTmonKu4j5xGK4-153" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/whcompare-servers-web-hosting/50/sftp-128.png;textShadow=1;" parent="1" vertex="1">
           <mxGeometry x="-924.5" y="-376.67" width="60" height="60" as="geometry" />
         </mxCell>
@@ -263,13 +266,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lLmpeXdTmonKu4j5xGK4-176" value="Credit Card Transactions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;textShadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-1398.57" y="-526.67" width="226.05" height="10" as="geometry" />
+          <mxGeometry x="-1440" y="-640" width="226.05" height="10" as="geometry" />
         </mxCell>
         <mxCell id="lLmpeXdTmonKu4j5xGK4-177" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.421;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=0;textShadow=1;" parent="1" source="lLmpeXdTmonKu4j5xGK4-183" target="lLmpeXdTmonKu4j5xGK4-147" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-789.5" y="-196.67000000000002" />
-              <mxPoint x="-1693.5" y="-196.67000000000002" />
+              <mxPoint x="-750" y="-197" />
+              <mxPoint x="-1694" y="-197" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -278,12 +281,13 @@
             <mxPoint x="25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lLmpeXdTmonKu4j5xGK4-180" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.579;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#006666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=0;textShadow=1;" parent="1" source="lLmpeXdTmonKu4j5xGK4-183" target="lLmpeXdTmonKu4j5xGK4-147" edge="1">
+        <mxCell id="lLmpeXdTmonKu4j5xGK4-180" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.579;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#006666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=0;textShadow=1;" parent="1" target="lLmpeXdTmonKu4j5xGK4-147" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-814.5" y="-226.67000000000002" />
-              <mxPoint x="-1665.5" y="-226.67000000000002" />
+              <mxPoint x="-790" y="-227" />
+              <mxPoint x="-1665" y="-227" />
             </Array>
+            <mxPoint x="-790" y="-290" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lLmpeXdTmonKu4j5xGK4-181" value="&lt;span style=&quot;background-color: rgb(230, 255, 204);&quot;&gt;PAYMENT ACKNOWLEDGEMENT&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textShadow=1;" parent="lLmpeXdTmonKu4j5xGK4-180" vertex="1" connectable="0">
@@ -297,10 +301,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lLmpeXdTmonKu4j5xGK4-183" value="Financial Institution" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png;textShadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-849.5000000000002" y="-415.67" width="99" height="99" as="geometry" />
+          <mxGeometry x="-810.0000000000002" y="-415.67" width="99" height="99" as="geometry" />
         </mxCell>
         <mxCell id="lLmpeXdTmonKu4j5xGK4-184" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.greatcompgarden.co.uk/wp-content/uploads/2022/05/SEW_Logo_Horizontal_Colour_RGB.png;" parent="1" vertex="1">
           <mxGeometry x="-1140" y="-970" width="320" height="72.32" as="geometry" />
+        </mxCell>
+        <mxCell id="NwiWy4_LtIeJi4y5TbyK-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.paygate.uk/wp-content/uploads/2021/07/PAYGATE-LOGO_RGB-e1625570967117.png;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="-550" width="158.88" height="40.63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
