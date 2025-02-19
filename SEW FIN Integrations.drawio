@@ -220,13 +220,13 @@
         <mxCell id="lLmpeXdTmonKu4j5xGK4-167" value="OR" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;textShadow=1;" parent="1" vertex="1">
           <mxGeometry x="-1569.5" y="-699.13" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lLmpeXdTmonKu4j5xGK4-168" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#003366;strokeWidth=2;textShadow=1;" parent="1" edge="1">
+        <mxCell id="lLmpeXdTmonKu4j5xGK4-168" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#CC0066;strokeWidth=2;textShadow=1;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1249.5" y="-690.67" as="sourcePoint" />
             <mxPoint x="-1489.5" y="-750.67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lLmpeXdTmonKu4j5xGK4-169" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;endFill=0;strokeColor=#003366;strokeWidth=2;textShadow=1;" parent="1" edge="1">
+        <mxCell id="lLmpeXdTmonKu4j5xGK4-169" value="" style="endArrow=none;html=1;rounded=0;startArrow=classic;startFill=1;endFill=0;strokeColor=#CC0066;strokeWidth=2;textShadow=1;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1249.5" y="-670.67" as="sourcePoint" />
             <mxPoint x="-1489.5" y="-730.67" as="targetPoint" />
