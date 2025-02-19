@@ -476,6 +476,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="NwiWy4_LtIeJi4y5TbyK-61" value="Maximo" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=17.917740765739865;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="-2225" y="-179.81" width="79.55" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="NwiWy4_LtIeJi4y5TbyK-62" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;color: rgb(26, 26, 26);&quot;&gt;Hours Worked&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(26, 26, 26);&quot;&gt;as Journal Entry&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;fillColor=#00CCCC;strokeColor=#001DBC;fontColor=#ffffff;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-2140" y="-161.63" width="95.45" height="40.63" as="geometry" />
+        </mxCell>
+        <mxCell id="NwiWy4_LtIeJi4y5TbyK-63" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;To be discussed" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="-2260" y="-191" width="240" height="121" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
