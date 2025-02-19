@@ -179,7 +179,7 @@
           <mxGeometry x="-1360" y="-779.22" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-57" value="HMRC" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png" parent="1" vertex="1">
-          <mxGeometry x="-1807.48" y="-438" width="99" height="99" as="geometry" />
+          <mxGeometry x="-1830.38" y="-394.22" width="99" height="99" as="geometry" />
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#007FFF;" parent="1" source="LXhwEYFynrwZ-pUap6Co-10" target="lF2a-6-bPxqarsUywT9y-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -327,6 +327,9 @@
             <mxPoint x="-1140" y="-360" as="sourcePoint" />
             <mxPoint x="-1080" y="-360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lF2a-6-bPxqarsUywT9y-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://fcsa.org.uk/wp-content/uploads/2022/04/HMRC-Logo-1820x1024.png;imageBorder=#333333;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-1919.27" y="-360" width="88.89" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
