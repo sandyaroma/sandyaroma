@@ -339,7 +339,7 @@
           <mxGeometry x="-1290" y="-541" width="49.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NwiWy4_LtIeJi4y5TbyK-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://fcsa.org.uk/wp-content/uploads/2022/04/HMRC-Logo-1820x1024.png;" vertex="1" parent="1">
-          <mxGeometry x="-2153.95" y="-510.17" width="88.89" height="50" as="geometry" />
+          <mxGeometry x="-2068.89" y="-465.67" width="88.89" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NwiWy4_LtIeJi4y5TbyK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.125;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;strokeColor=#1A1A1A;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;curved=0;strokeWidth=2;" edge="1" parent="1" source="lLmpeXdTmonKu4j5xGK4-147" target="NwiWy4_LtIeJi4y5TbyK-12">
           <mxGeometry relative="1" as="geometry" />
@@ -351,13 +351,17 @@
           <mxGeometry x="-811" y="-318.67" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NwiWy4_LtIeJi4y5TbyK-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.011;entryY=0.635;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;strokeColor=#1A1A1A;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="NwiWy4_LtIeJi4y5TbyK-18" target="lLmpeXdTmonKu4j5xGK4-147">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1930" y="-416" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="NwiWy4_LtIeJi4y5TbyK-18" value="HiAffinity&lt;div&gt;Billing System&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
-          <mxGeometry x="-2150" y="-386.67" width="100" height="80" as="geometry" />
+          <mxGeometry x="-1980" y="-340" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NwiWy4_LtIeJi4y5TbyK-21" value="&lt;font color=&quot;#333333&quot;&gt;Customer Billing&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#333333&quot;&gt;Journal Lines&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=40;fillColor=#00CCCC;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-2040" y="-397.3" width="120" height="40.63" as="geometry" />
+          <mxGeometry x="-1920" y="-397.3" width="120" height="40.63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
