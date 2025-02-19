@@ -340,11 +340,8 @@
         <mxCell id="yuozWGl_xPbwvbFwPc4L-158" value="Payroll Journals&lt;div&gt;for accounting&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#99FFFF;" vertex="1" parent="1">
           <mxGeometry x="-2030" y="-528.24" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yuozWGl_xPbwvbFwPc4L-159" value="JML DATA" style="rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#99FFFF;" vertex="1" parent="1">
-          <mxGeometry x="-2049" y="-653.67" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="yuozWGl_xPbwvbFwPc4L-160" value="HR MASTER DATA" style="rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#99FFFF;" vertex="1" parent="1">
-          <mxGeometry x="-1979" y="-653.67" width="80" height="40" as="geometry" />
+        <mxCell id="yuozWGl_xPbwvbFwPc4L-159" value="DEDUCTIONS&lt;div&gt;FOR PAYROLL&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;opacity=50;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="-2049" y="-653.67" width="109" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yuozWGl_xPbwvbFwPc4L-161" value="Linklaters&lt;div&gt;BENEFITS SYSTEM&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#4C0099;fontColor=#ffffff;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-2190" y="-430.67" width="120" height="80" as="geometry" />
