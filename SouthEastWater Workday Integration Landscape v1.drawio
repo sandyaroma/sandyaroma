@@ -130,7 +130,7 @@
           <mxGeometry x="-1568.38" y="-494.21999999999997" width="80.5" height="32.43" as="geometry" />
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-17" value="E-signature" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-world.net/wp-content/uploads/2021/08/DocuSign-Symbol.png;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-2040" y="-497.97" width="120" height="67.5" as="geometry" />
+          <mxGeometry x="-1927.48" y="-494.22" width="120" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeColor=#007FFF;shadow=1;exitX=0.855;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;" parent="1" source="LXhwEYFynrwZ-pUap6Co-54" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -179,7 +179,7 @@
           <mxGeometry x="-1360" y="-779.22" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-57" value="HMRC" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png" parent="1" vertex="1">
-          <mxGeometry x="-2040" y="-380" width="99" height="99" as="geometry" />
+          <mxGeometry x="-1807.48" y="-438" width="99" height="99" as="geometry" />
         </mxCell>
         <mxCell id="LXhwEYFynrwZ-pUap6Co-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#007FFF;" parent="1" source="LXhwEYFynrwZ-pUap6Co-10" target="lF2a-6-bPxqarsUywT9y-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -324,6 +324,7 @@
         </mxCell>
         <mxCell id="lF2a-6-bPxqarsUywT9y-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lF2a-6-bPxqarsUywT9y-5">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1140" y="-360" as="sourcePoint" />
             <mxPoint x="-1080" y="-360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
