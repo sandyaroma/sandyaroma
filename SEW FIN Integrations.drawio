@@ -11,7 +11,7 @@
           <mxGeometry x="-2170" y="-929.37" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lLmpeXdTmonKu4j5xGK4-126" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Proposed Solution Overview (Workday FINANCE Perspective)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#000066;fontColor=#ffffff;strokeColor=#432D57;textShadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-2170" y="-884.22" width="1370" height="54.89" as="geometry" />
+          <mxGeometry x="-2170" y="-884.22" width="1660" height="54.89" as="geometry" />
         </mxCell>
         <mxCell id="lLmpeXdTmonKu4j5xGK4-127" value="&lt;b&gt;LEGENDS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textShadow=1;" parent="1" vertex="1">
           <mxGeometry x="-2209.5" y="-810" width="200" height="30" as="geometry" />
@@ -311,7 +311,7 @@
           <mxGeometry x="-810.0000000000002" y="-415.67" width="99" height="99" as="geometry" />
         </mxCell>
         <mxCell id="lLmpeXdTmonKu4j5xGK4-184" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.greatcompgarden.co.uk/wp-content/uploads/2022/05/SEW_Logo_Horizontal_Colour_RGB.png;" parent="1" vertex="1">
-          <mxGeometry x="-1140" y="-970" width="320" height="72.32" as="geometry" />
+          <mxGeometry x="-830" y="-971.69" width="320" height="72.32" as="geometry" />
         </mxCell>
         <mxCell id="NwiWy4_LtIeJi4y5TbyK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeColor=#CC0066;dashed=1;" edge="1" parent="1" source="NwiWy4_LtIeJi4y5TbyK-2" target="lLmpeXdTmonKu4j5xGK4-183">
           <mxGeometry relative="1" as="geometry" />
@@ -330,6 +330,12 @@
         </mxCell>
         <mxCell id="NwiWy4_LtIeJi4y5TbyK-7" value="Financial Institution" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/04.Bank-128.png;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="-590.0000000000002" y="-415.67" width="99" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="NwiWy4_LtIeJi4y5TbyK-10" value="Option 1" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="-1530" y="-485.17" width="49.5" height="305.17" as="geometry" />
+        </mxCell>
+        <mxCell id="NwiWy4_LtIeJi4y5TbyK-11" value="Option 2" style="rounded=1;whiteSpace=wrap;html=1;opacity=30;fillColor=#99FFFF;" vertex="1" parent="1">
+          <mxGeometry x="-1290" y="-541" width="49.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
